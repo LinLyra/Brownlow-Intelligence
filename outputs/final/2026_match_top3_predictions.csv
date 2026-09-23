@@ -1,0 +1,622 @@
+match_id,match_round,match_home_team,match_away_team,model_rank,label,player_id,player_name,player_team,allocated_expected_votes
+17059,0,Sydney,Carlton,1,Model-ranked Top 3,12711,Justin McInerney,Sydney,1.9771493831956937
+17059,0,Sydney,Carlton,2,Model-ranked Top 3,12862,Errol Gulden,Sydney,1.6024175120582376
+17059,0,Sydney,Carlton,3,Model-ranked Top 3,12326,Isaac Heeney,Sydney,0.5367249377703827
+17060,0,Gold Coast,Geelong,1,Model-ranked Top 3,12430,Christian Petracca,Gold Coast,2.58772724575717
+17060,0,Gold Coast,Geelong,2,Model-ranked Top 3,13049,Bailey Humphrey,Gold Coast,0.6075906867933629
+17060,0,Gold Coast,Geelong,3,Model-ranked Top 3,12331,Touk Miller,Gold Coast,0.5460198453357388
+17061,0,Greater Western Sydney,Hawthorn,1,Model-ranked Top 3,12167,Jake Stringer,Greater Western Sydney,2.2969498280152716
+17061,0,Greater Western Sydney,Hawthorn,2,Model-ranked Top 3,12410,Clayton Oliver,Greater Western Sydney,1.2374652330661569
+17061,0,Greater Western Sydney,Hawthorn,3,Model-ranked Top 3,12969,Finn Callaghan,Greater Western Sydney,1.2237019087255998
+17062,0,Brisbane Lions,Western Bulldogs,1,Model-ranked Top 3,12605,Ed Richards,Western Bulldogs,2.0073044094222077
+17062,0,Brisbane Lions,Western Bulldogs,2,Model-ranked Top 3,12055,Lachie Neale,Brisbane Lions,1.1959580496151494
+17062,0,Brisbane Lions,Western Bulldogs,3,Model-ranked Top 3,12269,Marcus Bontempelli,Western Bulldogs,0.5943942211704043
+17063,0,St Kilda,Collingwood,1,Model-ranked Top 3,12943,Nick Daicos,Collingwood,2.905471498392759
+17063,0,St Kilda,Collingwood,2,Model-ranked Top 3,12325,Jack Sinclair,St Kilda,0.8748360890320519
+17063,0,St Kilda,Collingwood,3,Model-ranked Top 3,12573,Josh Daicos,Collingwood,0.7423165783923785
+17064,1,Carlton,Richmond,1,Model-ranked Top 3,12684,Sam Walsh,Carlton,2.3840893328586055
+17064,1,Carlton,Richmond,2,Model-ranked Top 3,12261,Patrick Cripps,Carlton,1.7252866174658659
+17064,1,Carlton,Richmond,3,Model-ranked Top 3,13274,Jagga Smith,Carlton,0.8690387730369803
+17065,1,Essendon,Hawthorn,1,Model-ranked Top 3,13105,Nick Watson,Hawthorn,1.1775094882028163
+17065,1,Essendon,Hawthorn,2,Model-ranked Top 3,11845,Jack Gunston,Hawthorn,0.9246420475385545
+17065,1,Essendon,Hawthorn,3,Model-ranked Top 3,12332,James Sicily,Hawthorn,0.5066950912686902
+17066,1,Western Bulldogs,Greater Western Sydney,1,Model-ranked Top 3,12269,Marcus Bontempelli,Western Bulldogs,2.584977559547084
+17066,1,Western Bulldogs,Greater Western Sydney,2,Model-ranked Top 3,12594,Aaron Naughton,Western Bulldogs,1.986079787009817
+17066,1,Western Bulldogs,Greater Western Sydney,3,Model-ranked Top 3,11898,Tom Liberatore,Western Bulldogs,0.7273575017239116
+17067,1,Geelong,Fremantle,1,Model-ranked Top 3,12881,Max Holmes,Geelong,1.8729531740293888
+17067,1,Geelong,Fremantle,2,Model-ranked Top 3,12992,Shannon Neale,Geelong,1.4004754412410039
+17067,1,Geelong,Fremantle,3,Model-ranked Top 3,12017,Jeremy Cameron,Geelong,0.7571818159659662
+17068,1,Sydney,Brisbane Lions,1,Model-ranked Top 3,12844,Joel Amartey,Sydney,2.0526073883145077
+17068,1,Sydney,Brisbane Lions,2,Model-ranked Top 3,12699,Nick Blakey,Sydney,0.8423418448187698
+17068,1,Sydney,Brisbane Lions,3,Model-ranked Top 3,13195,Riley Bice,Sydney,0.667234233832468
+17069,1,Collingwood,Adelaide,1,Model-ranked Top 3,12405,Wayne Milera,Adelaide,1.6369845329287467
+17069,1,Collingwood,Adelaide,2,Model-ranked Top 3,12943,Nick Daicos,Collingwood,1.4067286761641495
+17069,1,Collingwood,Adelaide,3,Model-ranked Top 3,12892,Riley Thilthorpe,Adelaide,0.6382948925152727
+17070,1,North Melbourne,Port Adelaide,1,Model-ranked Top 3,13034,Harry Sheezel,North Melbourne,1.485833805364345
+17070,1,North Melbourne,Port Adelaide,2,Model-ranked Top 3,11953,Luke Parker,North Melbourne,0.9371504972642126
+17070,1,North Melbourne,Port Adelaide,3,Model-ranked Top 3,12938,Charlie Comben,North Melbourne,0.8850906018527469
+17071,1,Melbourne,St Kilda,1,Model-ranked Top 3,13048,Jacob van Rooyen,Melbourne,2.3187118128946476
+17071,1,Melbourne,St Kilda,2,Model-ranked Top 3,13193,Max Hall,St Kilda,1.2671306295525675
+17071,1,Melbourne,St Kilda,3,Model-ranked Top 3,11966,Max Gawn,Melbourne,1.0437392486203152
+17072,1,Gold Coast,West Coast,1,Model-ranked Top 3,12430,Christian Petracca,Gold Coast,2.6159015910604038
+17072,1,Gold Coast,West Coast,2,Model-ranked Top 3,12767,Noah Anderson,Gold Coast,1.70303841314481
+17072,1,Gold Coast,West Coast,3,Model-ranked Top 3,12177,Jarrod Witts,Gold Coast,0.9129974764097907
+17073,2,Hawthorn,Sydney,1,Model-ranked Top 3,12915,Jai Newcombe,Hawthorn,2.3991941988065193
+17073,2,Hawthorn,Sydney,2,Model-ranked Top 3,11845,Jack Gunston,Hawthorn,1.0682869542533555
+17073,2,Hawthorn,Sydney,3,Model-ranked Top 3,12710,Dylan Moore,Hawthorn,0.8498834989602331
+17074,2,Adelaide,Western Bulldogs,1,Model-ranked Top 3,12269,Marcus Bontempelli,Western Bulldogs,2.2933442142172082
+17074,2,Adelaide,Western Bulldogs,2,Model-ranked Top 3,13140,Joel Freijah,Western Bulldogs,1.4889240346406531
+17074,2,Adelaide,Western Bulldogs,3,Model-ranked Top 3,11898,Tom Liberatore,Western Bulldogs,0.46641144653783734
+17075,2,Richmond,Gold Coast,1,Model-ranked Top 3,12728,Ben King,Gold Coast,2.3190498533552844
+17075,2,Richmond,Gold Coast,2,Model-ranked Top 3,12331,Touk Miller,Gold Coast,1.6933476194832637
+17075,2,Richmond,Gold Coast,3,Model-ranked Top 3,13041,Bodhi Uwland,Gold Coast,0.6563896328891262
+17076,2,Greater Western Sydney,St Kilda,1,Model-ranked Top 3,12703,Callum Wilkie,St Kilda,1.2895397818454835
+17076,2,Greater Western Sydney,St Kilda,2,Model-ranked Top 3,12782,Lachie Ash,Greater Western Sydney,0.9727500483150356
+17076,2,Greater Western Sydney,St Kilda,3,Model-ranked Top 3,12325,Jack Sinclair,St Kilda,0.8231596320146912
+17077,2,Fremantle,Melbourne,1,Model-ranked Top 3,12589,Andrew Brayshaw,Fremantle,1.992166901979322
+17077,2,Fremantle,Melbourne,2,Model-ranked Top 3,12535,Shai Bolton,Fremantle,1.963450399299424
+17077,2,Fremantle,Melbourne,3,Model-ranked Top 3,12887,Josh Treacy,Fremantle,1.2743102778434805
+17078,2,Port Adelaide,Essendon,1,Model-ranked Top 3,12698,Zak Butters,Port Adelaide,2.503068517538547
+17078,2,Port Adelaide,Essendon,2,Model-ranked Top 3,12956,Jason Horne-Francis,Port Adelaide,2.027508981831834
+17078,2,Port Adelaide,Essendon,3,Model-ranked Top 3,12433,Aliir Aliir,Port Adelaide,0.4598670793399958
+17079,2,West Coast,North Melbourne,1,Model-ranked Top 3,13111,Harley Reid,West Coast,2.3583379747956745
+17079,2,West Coast,North Melbourne,2,Model-ranked Top 3,12563,Nick Larkey,North Melbourne,1.3365473118535258
+17079,2,West Coast,North Melbourne,3,Model-ranked Top 3,13034,Harry Sheezel,North Melbourne,0.947524850363219
+17080,3,Geelong,Adelaide,1,Model-ranked Top 3,12692,Bailey Smith,Geelong,2.353242603291282
+17080,3,Geelong,Adelaide,2,Model-ranked Top 3,12953,Josh Rachele,Adelaide,0.9017489589345323
+17080,3,Geelong,Adelaide,3,Model-ranked Top 3,12881,Max Holmes,Geelong,0.5978185592405164
+17081,3,Collingwood,Greater Western Sydney,1,Model-ranked Top 3,12943,Nick Daicos,Collingwood,2.8569175019232187
+17081,3,Collingwood,Greater Western Sydney,2,Model-ranked Top 3,12300,Tim Membrey,Collingwood,0.5208794556492147
+17081,3,Collingwood,Greater Western Sydney,3,Model-ranked Top 3,12969,Finn Callaghan,Greater Western Sydney,0.5191535848219779
+17082,3,St Kilda,Brisbane Lions,1,Model-ranked Top 3,13040,Will Ashcroft,Brisbane Lions,2.4519596195588385
+17082,3,St Kilda,Brisbane Lions,2,Model-ranked Top 3,12519,Jarrod Berry,Brisbane Lions,1.2508772576556277
+17082,3,St Kilda,Brisbane Lions,3,Model-ranked Top 3,12055,Lachie Neale,Brisbane Lions,0.7695530917597995
+17083,3,Fremantle,Richmond,1,Model-ranked Top 3,12786,Caleb Serong,Fremantle,2.390459188856519
+17083,3,Fremantle,Richmond,2,Model-ranked Top 3,12887,Josh Treacy,Fremantle,1.720394401596748
+17083,3,Fremantle,Richmond,3,Model-ranked Top 3,12535,Shai Bolton,Fremantle,1.2080620248872638
+17084,3,Essendon,North Melbourne,1,Model-ranked Top 3,13034,Harry Sheezel,North Melbourne,1.351470290678169
+17084,3,Essendon,North Melbourne,2,Model-ranked Top 3,13107,Colby McKercher,North Melbourne,1.287910097350052
+17084,3,Essendon,North Melbourne,3,Model-ranked Top 3,11953,Luke Parker,North Melbourne,0.8506266058319573
+17085,3,Port Adelaide,West Coast,1,Model-ranked Top 3,12698,Zak Butters,Port Adelaide,1.6689285657462922
+17085,3,Port Adelaide,West Coast,2,Model-ranked Top 3,12601,Jake Waterman,West Coast,1.371102250928158
+17085,3,Port Adelaide,West Coast,3,Model-ranked Top 3,13111,Harley Reid,West Coast,1.2250892802317743
+17086,3,Carlton,Melbourne,1,Model-ranked Top 3,12771,Kysaiah Pickett,Melbourne,2.2160396669697637
+17086,3,Carlton,Melbourne,2,Model-ranked Top 3,11966,Max Gawn,Melbourne,1.014222655056792
+17086,3,Carlton,Melbourne,3,Model-ranked Top 3,12368,Jack Steele,Melbourne,0.5871157532958902
+17087,4,Brisbane Lions,Collingwood,1,Model-ranked Top 3,13040,Will Ashcroft,Brisbane Lions,2.755808510110958
+17087,4,Brisbane Lions,Collingwood,2,Model-ranked Top 3,12055,Lachie Neale,Brisbane Lions,1.4954075216980263
+17087,4,Brisbane Lions,Collingwood,3,Model-ranked Top 3,12610,Zac Bailey,Brisbane Lions,0.9417904485087719
+17088,4,North Melbourne,Carlton,1,Model-ranked Top 3,12373,Caleb Daniel,North Melbourne,1.9652379405717748
+17088,4,North Melbourne,Carlton,2,Model-ranked Top 3,12590,Luke Davies-Uniacke,North Melbourne,0.8761604518606048
+17088,4,North Melbourne,Carlton,3,Model-ranked Top 3,12796,Dylan Stephens,North Melbourne,0.5342494830800968
+17089,4,Adelaide,Fremantle,1,Model-ranked Top 3,12786,Caleb Serong,Fremantle,2.0891723056395435
+17089,4,Adelaide,Fremantle,2,Model-ranked Top 3,12589,Andrew Brayshaw,Fremantle,0.7509806383019707
+17089,4,Adelaide,Fremantle,3,Model-ranked Top 3,12983,Jye Amiss,Fremantle,0.4524333698587195
+17090,4,Richmond,Port Adelaide,1,Model-ranked Top 3,12433,Aliir Aliir,Port Adelaide,2.2088218217567097
+17090,4,Richmond,Port Adelaide,2,Model-ranked Top 3,12698,Zak Butters,Port Adelaide,2.054598494085297
+17090,4,Richmond,Port Adelaide,3,Model-ranked Top 3,12664,Kane Farrell,Port Adelaide,0.6527314720306131
+17091,4,West Coast,Sydney,1,Model-ranked Top 3,12326,Isaac Heeney,Sydney,2.334653406093962
+17091,4,West Coast,Sydney,2,Model-ranked Top 3,12217,Brodie Grundy,Sydney,2.2042871360320917
+17091,4,West Coast,Sydney,3,Model-ranked Top 3,12412,Tom Papley,Sydney,0.7200248919215543
+17092,4,Melbourne,Gold Coast,1,Model-ranked Top 3,11966,Max Gawn,Melbourne,2.329343091914655
+17092,4,Melbourne,Gold Coast,2,Model-ranked Top 3,12368,Jack Steele,Melbourne,1.761466025546351
+17092,4,Melbourne,Gold Coast,3,Model-ranked Top 3,12771,Kysaiah Pickett,Melbourne,1.149040982530999
+17093,4,Western Bulldogs,Essendon,1,Model-ranked Top 3,12269,Marcus Bontempelli,Western Bulldogs,2.534078404889714
+17093,4,Western Bulldogs,Essendon,2,Model-ranked Top 3,12455,Matthew Kennedy,Western Bulldogs,1.9224488555662353
+17093,4,Western Bulldogs,Essendon,3,Model-ranked Top 3,12241,Zach Merrett,Essendon,0.4167332456236772
+17094,4,Hawthorn,Geelong,1,Model-ranked Top 3,12692,Bailey Smith,Geelong,1.2761961457189563
+17094,4,Hawthorn,Geelong,2,Model-ranked Top 3,12954,Connor Macdonald,Hawthorn,0.562347619047818
+17094,4,Hawthorn,Geelong,3,Model-ranked Top 3,12955,Josh Ward,Hawthorn,0.4542657265523721
+17095,5,Adelaide,Carlton,1,Model-ranked Top 3,12953,Josh Rachele,Adelaide,2.3872203249979385
+17095,5,Adelaide,Carlton,2,Model-ranked Top 3,12849,Sam Berry,Adelaide,0.8326625396807865
+17095,5,Adelaide,Carlton,3,Model-ranked Top 3,12798,Izak Rankine,Adelaide,0.4311804351873623
+17096,5,Collingwood,Fremantle,1,Model-ranked Top 3,12779,Luke Jackson,Fremantle,1.4606919343709006
+17096,5,Collingwood,Fremantle,2,Model-ranked Top 3,12943,Nick Daicos,Collingwood,1.4450939918080006
+17096,5,Collingwood,Fremantle,3,Model-ranked Top 3,12542,Luke Ryan,Fremantle,0.6693835085924144
+17097,5,North Melbourne,Brisbane Lions,1,Model-ranked Top 3,12055,Lachie Neale,Brisbane Lions,2.322545326223793
+17097,5,North Melbourne,Brisbane Lions,2,Model-ranked Top 3,12590,Luke Davies-Uniacke,North Melbourne,0.8787173755356908
+17097,5,North Melbourne,Brisbane Lions,3,Model-ranked Top 3,12610,Zac Bailey,Brisbane Lions,0.7712148965463619
+17098,5,Essendon,Melbourne,1,Model-ranked Top 3,13168,Archie Roberts,Essendon,2.3830242932501955
+17098,5,Essendon,Melbourne,2,Model-ranked Top 3,12406,Darcy Parish,Essendon,1.4160952834957445
+17098,5,Essendon,Melbourne,3,Model-ranked Top 3,12241,Zach Merrett,Essendon,0.8973095263927505
+17099,5,Sydney,Gold Coast,1,Model-ranked Top 3,12326,Isaac Heeney,Sydney,2.6089527458728656
+17099,5,Sydney,Gold Coast,2,Model-ranked Top 3,12711,Justin McInerney,Sydney,1.0722543224957302
+17099,5,Sydney,Gold Coast,3,Model-ranked Top 3,12217,Brodie Grundy,Sydney,0.8203045409941694
+17100,5,Hawthorn,Western Bulldogs,1,Model-ranked Top 3,12915,Jai Newcombe,Hawthorn,2.4503674260919315
+17100,5,Hawthorn,Western Bulldogs,2,Model-ranked Top 3,12927,Jack Ginnivan,Hawthorn,1.3134814516711502
+17100,5,Hawthorn,Western Bulldogs,3,Model-ranked Top 3,12558,Josh Battle,Hawthorn,0.3143389323180147
+17101,5,Geelong,West Coast,1,Model-ranked Top 3,12692,Bailey Smith,Geelong,2.0437205718917024
+17101,5,Geelong,West Coast,2,Model-ranked Top 3,12881,Max Holmes,Geelong,1.5575630183113067
+17101,5,Geelong,West Coast,3,Model-ranked Top 3,12871,Tanner Bruhn,Geelong,0.7855026986492658
+17102,5,Greater Western Sydney,Richmond,1,Model-ranked Top 3,12969,Finn Callaghan,Greater Western Sydney,2.245296963431405
+17102,5,Greater Western Sydney,Richmond,2,Model-ranked Top 3,12410,Clayton Oliver,Greater Western Sydney,1.1991827180701249
+17102,5,Greater Western Sydney,Richmond,3,Model-ranked Top 3,12025,Toby Greene,Greater Western Sydney,0.5318406190404645
+17103,5,Port Adelaide,St Kilda,1,Model-ranked Top 3,12950,Nasiah Wanganeen-Milera,St Kilda,2.421733841810322
+17103,5,Port Adelaide,St Kilda,2,Model-ranked Top 3,12698,Zak Butters,Port Adelaide,2.0895530416095487
+17103,5,Port Adelaide,St Kilda,3,Model-ranked Top 3,12956,Jason Horne-Francis,Port Adelaide,0.7123996957126484
+17104,6,Carlton,Collingwood,1,Model-ranked Top 3,12943,Nick Daicos,Collingwood,2.736542277705687
+17104,6,Carlton,Collingwood,2,Model-ranked Top 3,12684,Sam Walsh,Carlton,0.4175389620842953
+17104,6,Carlton,Collingwood,3,Model-ranked Top 3,12083,Jamie Elliott,Collingwood,0.3512809861489008
+17105,6,Geelong,Western Bulldogs,1,Model-ranked Top 3,12017,Jeremy Cameron,Geelong,2.8501363538611426
+17105,6,Geelong,Western Bulldogs,2,Model-ranked Top 3,12692,Bailey Smith,Geelong,1.8283409368452284
+17105,6,Geelong,Western Bulldogs,3,Model-ranked Top 3,12881,Max Holmes,Geelong,0.6764811471343725
+17106,6,Sydney,Greater Western Sydney,1,Model-ranked Top 3,12699,Nick Blakey,Sydney,1.864791370978344
+17106,6,Sydney,Greater Western Sydney,2,Model-ranked Top 3,12410,Clayton Oliver,Greater Western Sydney,1.2199337373613537
+17106,6,Sydney,Greater Western Sydney,3,Model-ranked Top 3,12217,Brodie Grundy,Sydney,0.8533836353970371
+17107,6,Gold Coast,Essendon,1,Model-ranked Top 3,12430,Christian Petracca,Gold Coast,2.039259994515915
+17107,6,Gold Coast,Essendon,2,Model-ranked Top 3,12768,Matt Rowell,Gold Coast,1.7264046111769755
+17107,6,Gold Coast,Essendon,3,Model-ranked Top 3,12241,Zach Merrett,Essendon,0.8623899790592597
+17108,6,Hawthorn,Port Adelaide,1,Model-ranked Top 3,12698,Zak Butters,Port Adelaide,1.988006911171257
+17108,6,Hawthorn,Port Adelaide,2,Model-ranked Top 3,12956,Jason Horne-Francis,Port Adelaide,1.8120228770133773
+17108,6,Hawthorn,Port Adelaide,3,Model-ranked Top 3,13105,Nick Watson,Hawthorn,1.3305243722229518
+17109,6,Adelaide,St Kilda,1,Model-ranked Top 3,11713,Taylor Walker,Adelaide,2.3622854396266946
+17109,6,Adelaide,St Kilda,2,Model-ranked Top 3,12325,Jack Sinclair,St Kilda,0.8200105837191156
+17109,6,Adelaide,St Kilda,3,Model-ranked Top 3,12703,Callum Wilkie,St Kilda,0.4132346364131808
+17110,6,North Melbourne,Richmond,1,Model-ranked Top 3,13034,Harry Sheezel,North Melbourne,2.9604651377959623
+17110,6,North Melbourne,Richmond,2,Model-ranked Top 3,12975,Paul Curtis,North Melbourne,1.9316867837144076
+17110,6,North Melbourne,Richmond,3,Model-ranked Top 3,12590,Luke Davies-Uniacke,North Melbourne,0.2732921746197003
+17111,6,Melbourne,Brisbane Lions,1,Model-ranked Top 3,13184,Harvey Langford,Melbourne,1.7110121110936958
+17111,6,Melbourne,Brisbane Lions,2,Model-ranked Top 3,12055,Lachie Neale,Brisbane Lions,1.0730862256340856
+17111,6,Melbourne,Brisbane Lions,3,Model-ranked Top 3,12756,Kade Chandler,Melbourne,0.5058300166042359
+17112,6,West Coast,Fremantle,1,Model-ranked Top 3,12983,Jye Amiss,Fremantle,2.3964714993890937
+17112,6,West Coast,Fremantle,2,Model-ranked Top 3,12688,Jordan Clark,Fremantle,1.50998203244606
+17112,6,West Coast,Fremantle,3,Model-ranked Top 3,12786,Caleb Serong,Fremantle,0.6921017467073471
+17113,7,Western Bulldogs,Sydney,1,Model-ranked Top 3,12421,Charlie Curnow,Sydney,2.6184347791089078
+17113,7,Western Bulldogs,Sydney,2,Model-ranked Top 3,12269,Marcus Bontempelli,Western Bulldogs,1.2693793929605728
+17113,7,Western Bulldogs,Sydney,3,Model-ranked Top 3,12217,Brodie Grundy,Sydney,1.2350018872100714
+17114,7,Richmond,Melbourne,1,Model-ranked Top 3,12771,Kysaiah Pickett,Melbourne,2.762296310794892
+17114,7,Richmond,Melbourne,2,Model-ranked Top 3,12693,Tom Sparrow,Melbourne,1.26146592998725
+17114,7,Richmond,Melbourne,3,Model-ranked Top 3,13099,Caleb Windsor,Melbourne,0.9294289998934868
+17115,7,Hawthorn,Gold Coast,1,Model-ranked Top 3,11845,Jack Gunston,Hawthorn,2.050444048648619
+17115,7,Hawthorn,Gold Coast,2,Model-ranked Top 3,12915,Jai Newcombe,Hawthorn,1.7465444405563593
+17115,7,Hawthorn,Gold Coast,3,Model-ranked Top 3,12357,Karl Amon,Hawthorn,0.5922813319894891
+17116,7,Essendon,Collingwood,1,Model-ranked Top 3,4182,Scott Pendlebury,Collingwood,2.811893439465177
+17116,7,Essendon,Collingwood,2,Model-ranked Top 3,12943,Nick Daicos,Collingwood,2.363946315585058
+17116,7,Essendon,Collingwood,3,Model-ranked Top 3,12573,Josh Daicos,Collingwood,0.32185735669484905
+17117,7,Port Adelaide,Geelong,1,Model-ranked Top 3,12956,Jason Horne-Francis,Port Adelaide,2.7262973701632363
+17117,7,Port Adelaide,Geelong,2,Model-ranked Top 3,12766,Mitch Georgiades,Port Adelaide,1.607217156478758
+17117,7,Port Adelaide,Geelong,3,Model-ranked Top 3,12698,Zak Butters,Port Adelaide,1.1956630505691714
+17118,7,Fremantle,Carlton,1,Model-ranked Top 3,12535,Shai Bolton,Fremantle,2.2330455832238822
+17118,7,Fremantle,Carlton,2,Model-ranked Top 3,12779,Luke Jackson,Fremantle,1.5438053637040208
+17118,7,Fremantle,Carlton,3,Model-ranked Top 3,12684,Sam Walsh,Carlton,0.8899419501459169
+17119,7,St Kilda,West Coast,1,Model-ranked Top 3,12609,Jack Higgins,St Kilda,1.7736611084263472
+17119,7,St Kilda,West Coast,2,Model-ranked Top 3,12950,Nasiah Wanganeen-Milera,St Kilda,1.5789275013534005
+17119,7,St Kilda,West Coast,3,Model-ranked Top 3,13125,Hugo Garcia,St Kilda,1.517568579239497
+17120,7,Brisbane Lions,Adelaide,1,Model-ranked Top 3,12055,Lachie Neale,Brisbane Lions,2.5820702360873202
+17120,7,Brisbane Lions,Adelaide,2,Model-ranked Top 3,12610,Zac Bailey,Brisbane Lions,1.2001838380000744
+17120,7,Brisbane Lions,Adelaide,3,Model-ranked Top 3,13040,Will Ashcroft,Brisbane Lions,1.0571656344610572
+17121,7,Greater Western Sydney,North Melbourne,1,Model-ranked Top 3,12025,Toby Greene,Greater Western Sydney,2.1099363518016765
+17121,7,Greater Western Sydney,North Melbourne,2,Model-ranked Top 3,13034,Harry Sheezel,North Melbourne,1.1233147896624345
+17121,7,Greater Western Sydney,North Melbourne,3,Model-ranked Top 3,12782,Lachie Ash,Greater Western Sydney,0.6689194838981551
+17122,8,Collingwood,Hawthorn,1,Model-ranked Top 3,12954,Connor Macdonald,Hawthorn,1.3803537298709185
+17122,8,Collingwood,Hawthorn,2,Model-ranked Top 3,12943,Nick Daicos,Collingwood,1.2873482227520792
+17122,8,Collingwood,Hawthorn,3,Model-ranked Top 3,12495,Dan Houston,Collingwood,0.6722304521866682
+17123,8,Western Bulldogs,Fremantle,1,Model-ranked Top 3,12535,Shai Bolton,Fremantle,1.7221474877197205
+17123,8,Western Bulldogs,Fremantle,2,Model-ranked Top 3,12269,Marcus Bontempelli,Western Bulldogs,1.600134412022234
+17123,8,Western Bulldogs,Fremantle,3,Model-ranked Top 3,12779,Luke Jackson,Fremantle,0.9241086885878586
+17124,8,Adelaide,Port Adelaide,1,Model-ranked Top 3,12849,Sam Berry,Adelaide,1.4858198376786798
+17124,8,Adelaide,Port Adelaide,2,Model-ranked Top 3,12150,Ollie Wines,Port Adelaide,1.01684850435717
+17124,8,Adelaide,Port Adelaide,3,Model-ranked Top 3,12698,Zak Butters,Port Adelaide,0.6002252659155084
+17125,8,Essendon,Brisbane Lions,1,Model-ranked Top 3,13026,Darcy Wilmot,Brisbane Lions,1.5677820620003824
+17125,8,Essendon,Brisbane Lions,2,Model-ranked Top 3,12518,Hugh McCluggage,Brisbane Lions,1.2527329764229052
+17125,8,Essendon,Brisbane Lions,3,Model-ranked Top 3,12610,Zac Bailey,Brisbane Lions,0.8158435354268955
+17126,8,West Coast,Richmond,1,Model-ranked Top 3,12686,Noah Balta,Richmond,2.029490164087605
+17126,8,West Coast,Richmond,2,Model-ranked Top 3,13111,Harley Reid,West Coast,1.361337732606263
+17126,8,West Coast,Richmond,3,Model-ranked Top 3,12712,Jack Ross,Richmond,1.276777754228762
+17127,8,Geelong,North Melbourne,1,Model-ranked Top 3,12881,Max Holmes,Geelong,2.1765315297489227
+17127,8,Geelong,North Melbourne,2,Model-ranked Top 3,13104,Shaun Mannagh,Geelong,0.9135915051831386
+17127,8,Geelong,North Melbourne,3,Model-ranked Top 3,12788,Tristan Xerri,North Melbourne,0.7548596202144741
+17128,8,Carlton,St Kilda,1,Model-ranked Top 3,12564,Rowan Marshall,St Kilda,2.519628526965338
+17128,8,Carlton,St Kilda,2,Model-ranked Top 3,12950,Nasiah Wanganeen-Milera,St Kilda,1.8430580496140343
+17128,8,Carlton,St Kilda,3,Model-ranked Top 3,12929,Cooper Sharman,St Kilda,0.5628547435353031
+17129,8,Sydney,Melbourne,1,Model-ranked Top 3,12903,Malcolm Rosas,Sydney,2.228471211365416
+17129,8,Sydney,Melbourne,2,Model-ranked Top 3,12326,Isaac Heeney,Sydney,1.4317300083267166
+17129,8,Sydney,Melbourne,3,Model-ranked Top 3,12217,Brodie Grundy,Sydney,1.3998080582851493
+17130,8,Gold Coast,Greater Western Sydney,1,Model-ranked Top 3,12430,Christian Petracca,Gold Coast,2.210099851922142
+17130,8,Gold Coast,Greater Western Sydney,2,Model-ranked Top 3,12743,John Noble,Gold Coast,1.8740357615082464
+17130,8,Gold Coast,Greater Western Sydney,3,Model-ranked Top 3,12410,Clayton Oliver,Greater Western Sydney,0.4751061922356274
+17131,9,Fremantle,Hawthorn,1,Model-ranked Top 3,11845,Jack Gunston,Hawthorn,1.9253603279848146
+17131,9,Fremantle,Hawthorn,2,Model-ranked Top 3,12779,Luke Jackson,Fremantle,1.7820039393480291
+17131,9,Fremantle,Hawthorn,3,Model-ranked Top 3,12786,Caleb Serong,Fremantle,1.134869158271917
+17132,9,Brisbane Lions,Carlton,1,Model-ranked Top 3,12055,Lachie Neale,Brisbane Lions,2.418303235567806
+17132,9,Brisbane Lions,Carlton,2,Model-ranked Top 3,12261,Patrick Cripps,Carlton,1.0877892902414428
+17132,9,Brisbane Lions,Carlton,3,Model-ranked Top 3,11894,Ryan Lester,Brisbane Lions,0.7267127312219528
+17133,9,Port Adelaide,Western Bulldogs,1,Model-ranked Top 3,12269,Marcus Bontempelli,Western Bulldogs,2.2743317768252025
+17133,9,Port Adelaide,Western Bulldogs,2,Model-ranked Top 3,13103,Ryley Sanders,Western Bulldogs,1.198663643785251
+17133,9,Port Adelaide,Western Bulldogs,3,Model-ranked Top 3,12698,Zak Butters,Port Adelaide,0.6902716137044418
+17134,9,North Melbourne,Sydney,1,Model-ranked Top 3,12590,Luke Davies-Uniacke,North Melbourne,1.9499293277247116
+17134,9,North Melbourne,Sydney,2,Model-ranked Top 3,12326,Isaac Heeney,Sydney,1.2968794667307328
+17134,9,North Melbourne,Sydney,3,Model-ranked Top 3,13034,Harry Sheezel,North Melbourne,0.8229951732825281
+17135,9,Greater Western Sydney,Essendon,1,Model-ranked Top 3,13168,Archie Roberts,Essendon,1.0291343985107375
+17135,9,Greater Western Sydney,Essendon,2,Model-ranked Top 3,12969,Finn Callaghan,Greater Western Sydney,0.9306514350612508
+17135,9,Greater Western Sydney,Essendon,3,Model-ranked Top 3,12143,Lachie Whitfield,Greater Western Sydney,0.7989808929589529
+17136,9,Gold Coast,St Kilda,1,Model-ranked Top 3,12767,Noah Anderson,Gold Coast,0.9266052701436115
+17136,9,Gold Coast,St Kilda,2,Model-ranked Top 3,12743,John Noble,Gold Coast,0.7791167759754848
+17136,9,Gold Coast,St Kilda,3,Model-ranked Top 3,12403,Daniel Rioli,Gold Coast,0.6929528301326884
+17137,9,Geelong,Collingwood,1,Model-ranked Top 3,12692,Bailey Smith,Geelong,2.6502767529348867
+17137,9,Geelong,Collingwood,2,Model-ranked Top 3,12881,Max Holmes,Geelong,0.5419667062641962
+17137,9,Geelong,Collingwood,3,Model-ranked Top 3,12318,Jordan de Goey,Collingwood,0.2496320916106048
+17138,9,Melbourne,West Coast,1,Model-ranked Top 3,13048,Jacob van Rooyen,Melbourne,1.9290499659465166
+17138,9,Melbourne,West Coast,2,Model-ranked Top 3,12393,Ed Langdon,Melbourne,0.6913244259632406
+17138,9,Melbourne,West Coast,3,Model-ranked Top 3,11966,Max Gawn,Melbourne,0.5965145067703603
+17139,9,Richmond,Adelaide,1,Model-ranked Top 3,12798,Izak Rankine,Adelaide,2.4388884703879135
+17139,9,Richmond,Adelaide,2,Model-ranked Top 3,12516,Jordan Dawson,Adelaide,1.2625143077555436
+17139,9,Richmond,Adelaide,3,Model-ranked Top 3,12405,Wayne Milera,Adelaide,0.9282911089314597
+17140,10,Brisbane Lions,Geelong,1,Model-ranked Top 3,13104,Shaun Mannagh,Geelong,2.2866586881880857
+17140,10,Brisbane Lions,Geelong,2,Model-ranked Top 3,12692,Bailey Smith,Geelong,1.9438768287270085
+17140,10,Brisbane Lions,Geelong,3,Model-ranked Top 3,12505,Tom Stewart,Geelong,0.5876073532635027
+17141,10,Sydney,Collingwood,1,Model-ranked Top 3,12217,Brodie Grundy,Sydney,2.310104495393827
+17141,10,Sydney,Collingwood,2,Model-ranked Top 3,12699,Nick Blakey,Sydney,1.4615681931472775
+17141,10,Sydney,Collingwood,3,Model-ranked Top 3,12326,Isaac Heeney,Sydney,1.107781225157448
+17142,10,Gold Coast,Port Adelaide,1,Model-ranked Top 3,12767,Noah Anderson,Gold Coast,1.7102538210848421
+17142,10,Gold Coast,Port Adelaide,2,Model-ranked Top 3,12743,John Noble,Gold Coast,0.9614793759831408
+17142,10,Gold Coast,Port Adelaide,3,Model-ranked Top 3,13041,Bodhi Uwland,Gold Coast,0.7018975533313173
+17143,10,Adelaide,North Melbourne,1,Model-ranked Top 3,12798,Izak Rankine,Adelaide,1.9952813920709715
+17143,10,Adelaide,North Melbourne,2,Model-ranked Top 3,12516,Jordan Dawson,Adelaide,1.9451344338424443
+17143,10,Adelaide,North Melbourne,3,Model-ranked Top 3,12934,James Peatling,Adelaide,0.47205056040375964
+17144,10,Melbourne,Hawthorn,1,Model-ranked Top 3,12693,Tom Sparrow,Melbourne,1.2903815620365595
+17144,10,Melbourne,Hawthorn,2,Model-ranked Top 3,11966,Max Gawn,Melbourne,0.9789654420751079
+17144,10,Melbourne,Hawthorn,3,Model-ranked Top 3,12710,Dylan Moore,Hawthorn,0.5703837599857613
+17145,10,Carlton,Western Bulldogs,1,Model-ranked Top 3,12261,Patrick Cripps,Carlton,2.608817128253877
+17145,10,Carlton,Western Bulldogs,2,Model-ranked Top 3,12497,Oliver Florent,Carlton,0.9705278555367424
+17145,10,Carlton,Western Bulldogs,3,Model-ranked Top 3,13212,Matt Carroll,Carlton,0.7777698960639461
+17146,10,Essendon,Fremantle,1,Model-ranked Top 3,13129,Patrick Voss,Fremantle,1.9502174182958085
+17146,10,Essendon,Fremantle,2,Model-ranked Top 3,13180,Murphy Reid,Fremantle,1.4920579524855606
+17146,10,Essendon,Fremantle,3,Model-ranked Top 3,12535,Shai Bolton,Fremantle,0.9434125571408034
+17147,10,St Kilda,Richmond,1,Model-ranked Top 3,13125,Hugo Garcia,St Kilda,1.4515099429160905
+17147,10,St Kilda,Richmond,2,Model-ranked Top 3,13193,Max Hall,St Kilda,1.2096635687752852
+17147,10,St Kilda,Richmond,3,Model-ranked Top 3,12166,Jack Macrae,St Kilda,0.7516458656769643
+17148,10,West Coast,Greater Western Sydney,1,Model-ranked Top 3,13111,Harley Reid,West Coast,2.7898730132982967
+17148,10,West Coast,Greater Western Sydney,2,Model-ranked Top 3,12410,Clayton Oliver,Greater Western Sydney,1.4512606562624968
+17148,10,West Coast,Greater Western Sydney,3,Model-ranked Top 3,12836,Bailey Williams,West Coast,1.2396104482688621
+17149,11,Hawthorn,Adelaide,1,Model-ranked Top 3,12469,Blake Hardwick,Hawthorn,1.5611585653466724
+17149,11,Hawthorn,Adelaide,2,Model-ranked Top 3,12516,Jordan Dawson,Adelaide,1.044936837378226
+17149,11,Hawthorn,Adelaide,3,Model-ranked Top 3,12237,Jarman Impey,Hawthorn,0.9406607902925574
+17150,11,Richmond,Essendon,1,Model-ranked Top 3,12406,Darcy Parish,Essendon,2.276540834442154
+17150,11,Richmond,Essendon,2,Model-ranked Top 3,12504,Tim Taranto,Richmond,1.324997193526917
+17150,11,Richmond,Essendon,3,Model-ranked Top 3,12241,Zach Merrett,Essendon,0.8929294082886009
+17151,11,Fremantle,St Kilda,1,Model-ranked Top 3,13180,Murphy Reid,Fremantle,1.7082788457339904
+17151,11,Fremantle,St Kilda,2,Model-ranked Top 3,12535,Shai Bolton,Fremantle,0.7806616561852704
+17151,11,Fremantle,St Kilda,3,Model-ranked Top 3,12887,Josh Treacy,Fremantle,0.5836510591743812
+17152,11,North Melbourne,Gold Coast,1,Model-ranked Top 3,13034,Harry Sheezel,North Melbourne,1.463352833819033
+17152,11,North Melbourne,Gold Coast,2,Model-ranked Top 3,12590,Luke Davies-Uniacke,North Melbourne,1.2947402883975472
+17152,11,North Melbourne,Gold Coast,3,Model-ranked Top 3,12768,Matt Rowell,Gold Coast,1.0820488731448665
+17153,11,Geelong,Sydney,1,Model-ranked Top 3,12881,Max Holmes,Geelong,2.0442955889679943
+17153,11,Geelong,Sydney,2,Model-ranked Top 3,13160,Lawson Humphries,Geelong,1.254862201103342
+17153,11,Geelong,Sydney,3,Model-ranked Top 3,12692,Bailey Smith,Geelong,0.8467101119595132
+17154,11,Collingwood,West Coast,1,Model-ranked Top 3,12943,Nick Daicos,Collingwood,2.7687249878233313
+17154,11,Collingwood,West Coast,2,Model-ranked Top 3,12660,Darcy Cameron,Collingwood,1.1385649154530222
+17154,11,Collingwood,West Coast,3,Model-ranked Top 3,12061,Jack Crisp,Collingwood,0.5535285108895762
+17155,11,Port Adelaide,Carlton,1,Model-ranked Top 3,12261,Patrick Cripps,Carlton,2.9865950831461046
+17155,11,Port Adelaide,Carlton,2,Model-ranked Top 3,12956,Jason Horne-Francis,Port Adelaide,1.595350805631963
+17155,11,Port Adelaide,Carlton,3,Model-ranked Top 3,13274,Jagga Smith,Carlton,0.6228519658449164
+17156,11,Greater Western Sydney,Brisbane Lions,1,Model-ranked Top 3,12410,Clayton Oliver,Greater Western Sydney,2.1900736003526404
+17156,11,Greater Western Sydney,Brisbane Lions,2,Model-ranked Top 3,12025,Toby Greene,Greater Western Sydney,1.6148035193832029
+17156,11,Greater Western Sydney,Brisbane Lions,3,Model-ranked Top 3,13279,Phoenix Gothard,Greater Western Sydney,0.6433543971214198
+17157,11,Western Bulldogs,Melbourne,1,Model-ranked Top 3,12269,Marcus Bontempelli,Western Bulldogs,2.0669931235920482
+17157,11,Western Bulldogs,Melbourne,2,Model-ranked Top 3,12605,Ed Richards,Western Bulldogs,1.9390062527101608
+17157,11,Western Bulldogs,Melbourne,3,Model-ranked Top 3,13103,Ryley Sanders,Western Bulldogs,0.5391803455344261
+17158,12,St Kilda,Hawthorn,1,Model-ranked Top 3,12332,James Sicily,Hawthorn,2.100245134009755
+17158,12,St Kilda,Hawthorn,2,Model-ranked Top 3,11845,Jack Gunston,Hawthorn,0.9881824323139698
+17158,12,St Kilda,Hawthorn,3,Model-ranked Top 3,13031,Cam Mackenzie,Hawthorn,0.7369858793981318
+17159,12,Carlton,Geelong,1,Model-ranked Top 3,12261,Patrick Cripps,Carlton,2.396116710396665
+17159,12,Carlton,Geelong,2,Model-ranked Top 3,12684,Sam Walsh,Carlton,1.4914961983163422
+17159,12,Carlton,Geelong,3,Model-ranked Top 3,12692,Bailey Smith,Geelong,0.8641392837235133
+17160,12,Sydney,Richmond,1,Model-ranked Top 3,12421,Charlie Curnow,Sydney,2.239317071700543
+17160,12,Sydney,Richmond,2,Model-ranked Top 3,12326,Isaac Heeney,Sydney,2.0909325209048193
+17160,12,Sydney,Richmond,3,Model-ranked Top 3,12797,Chad Warner,Sydney,1.5238661033504695
+17161,12,Brisbane Lions,Fremantle,1,Model-ranked Top 3,12983,Jye Amiss,Fremantle,1.1292761711866133
+17161,12,Brisbane Lions,Fremantle,2,Model-ranked Top 3,12887,Josh Treacy,Fremantle,0.9160605794294079
+17161,12,Brisbane Lions,Fremantle,3,Model-ranked Top 3,13129,Patrick Voss,Fremantle,0.6888995976884174
+17162,12,Western Bulldogs,Collingwood,1,Model-ranked Top 3,12318,Jordan de Goey,Collingwood,1.4504558681775834
+17162,12,Western Bulldogs,Collingwood,2,Model-ranked Top 3,12943,Nick Daicos,Collingwood,0.9747034887002597
+17162,12,Western Bulldogs,Collingwood,3,Model-ranked Top 3,12269,Marcus Bontempelli,Western Bulldogs,0.9631552691848169
+17163,12,Melbourne,Greater Western Sydney,1,Model-ranked Top 3,12969,Finn Callaghan,Greater Western Sydney,2.1612462505927357
+17163,12,Melbourne,Greater Western Sydney,2,Model-ranked Top 3,12782,Lachie Ash,Greater Western Sydney,0.7702938673526766
+17163,12,Melbourne,Greater Western Sydney,3,Model-ranked Top 3,12410,Clayton Oliver,Greater Western Sydney,0.667652197895159
+17164,12,West Coast,Essendon,1,Model-ranked Top 3,13111,Harley Reid,West Coast,0.8641221911817579
+17164,12,West Coast,Essendon,2,Model-ranked Top 3,13038,Reuben Ginbey,West Coast,0.8447357870737677
+17164,12,West Coast,Essendon,3,Model-ranked Top 3,12595,Tim Kelly,West Coast,0.8213177234472196
+17165,13,Adelaide,Geelong,1,Model-ranked Top 3,12516,Jordan Dawson,Adelaide,2.510103744981071
+17165,13,Adelaide,Geelong,2,Model-ranked Top 3,11700,Patrick Dangerfield,Geelong,1.346737011540173
+17165,13,Adelaide,Geelong,3,Model-ranked Top 3,13132,Daniel Curtin,Adelaide,0.7528647064566903
+17166,13,Hawthorn,Western Bulldogs,1,Model-ranked Top 3,12915,Jai Newcombe,Hawthorn,2.2530928352278528
+17166,13,Hawthorn,Western Bulldogs,2,Model-ranked Top 3,12269,Marcus Bontempelli,Western Bulldogs,1.1938015380450304
+17166,13,Hawthorn,Western Bulldogs,3,Model-ranked Top 3,12354,Bailey Dale,Western Bulldogs,1.0295911508806397
+17167,13,North Melbourne,Fremantle,1,Model-ranked Top 3,12589,Andrew Brayshaw,Fremantle,2.025034976063055
+17167,13,North Melbourne,Fremantle,2,Model-ranked Top 3,13129,Patrick Voss,Fremantle,1.3671515077961287
+17167,13,North Melbourne,Fremantle,3,Model-ranked Top 3,12779,Luke Jackson,Fremantle,1.3049710173256153
+17168,13,Gold Coast,Brisbane Lions,1,Model-ranked Top 3,13137,Logan Morris,Brisbane Lions,2.8446741695949207
+17168,13,Gold Coast,Brisbane Lions,2,Model-ranked Top 3,12055,Lachie Neale,Brisbane Lions,2.025975123442951
+17168,13,Gold Coast,Brisbane Lions,3,Model-ranked Top 3,13026,Darcy Wilmot,Brisbane Lions,0.37207274707130145
+17169,13,West Coast,Port Adelaide,1,Model-ranked Top 3,12956,Jason Horne-Francis,Port Adelaide,1.6306189324690985
+17169,13,West Coast,Port Adelaide,2,Model-ranked Top 3,12698,Zak Butters,Port Adelaide,1.0373985677225803
+17169,13,West Coast,Port Adelaide,3,Model-ranked Top 3,12597,Esava Ratugolea,Port Adelaide,0.7306354651520188
+17170,13,Sydney,St Kilda,1,Model-ranked Top 3,12326,Isaac Heeney,Sydney,2.3400763546575574
+17170,13,Sydney,St Kilda,2,Model-ranked Top 3,12600,Liam Ryan,St Kilda,1.1593696511272003
+17170,13,Sydney,St Kilda,3,Model-ranked Top 3,12797,Chad Warner,Sydney,1.0985212023629805
+17171,13,Essendon,Carlton,1,Model-ranked Top 3,12925,Sam Durham,Essendon,1.2526335240956563
+17171,13,Essendon,Carlton,2,Model-ranked Top 3,12566,Harry McKay,Carlton,1.0628693030704497
+17171,13,Essendon,Carlton,3,Model-ranked Top 3,12411,George Hewett,Carlton,0.9678389222749805
+17172,13,Collingwood,Melbourne,1,Model-ranked Top 3,12771,Kysaiah Pickett,Melbourne,2.547189639774812
+17172,13,Collingwood,Melbourne,2,Model-ranked Top 3,12943,Nick Daicos,Collingwood,1.822079945592957
+17172,13,Collingwood,Melbourne,3,Model-ranked Top 3,11966,Max Gawn,Melbourne,0.6414906212347926
+17173,14,Western Bulldogs,Adelaide,1,Model-ranked Top 3,12516,Jordan Dawson,Adelaide,2.6038441441113047
+17173,14,Western Bulldogs,Adelaide,2,Model-ranked Top 3,12849,Sam Berry,Adelaide,1.0525262853323976
+17173,14,Western Bulldogs,Adelaide,3,Model-ranked Top 3,12165,Rory Laird,Adelaide,0.9173632197819634
+17174,14,Geelong,Gold Coast,1,Model-ranked Top 3,12881,Max Holmes,Geelong,2.0736794140247823
+17174,14,Geelong,Gold Coast,2,Model-ranked Top 3,12692,Bailey Smith,Geelong,1.4887192849487845
+17174,14,Geelong,Gold Coast,3,Model-ranked Top 3,12767,Noah Anderson,Gold Coast,0.4913076436925029
+17175,14,Melbourne,Essendon,1,Model-ranked Top 3,12771,Kysaiah Pickett,Melbourne,2.67058654280841
+17175,14,Melbourne,Essendon,2,Model-ranked Top 3,11966,Max Gawn,Melbourne,1.9231593351741314
+17175,14,Melbourne,Essendon,3,Model-ranked Top 3,12393,Ed Langdon,Melbourne,0.4290388432617878
+17176,14,North Melbourne,West Coast,1,Model-ranked Top 3,13034,Harry Sheezel,North Melbourne,2.0619343044533367
+17176,14,North Melbourne,West Coast,2,Model-ranked Top 3,12595,Tim Kelly,West Coast,1.2217774120653795
+17176,14,North Melbourne,West Coast,3,Model-ranked Top 3,11905,Jack Darling,North Melbourne,0.975733323761114
+17177,14,Port Adelaide,Sydney,1,Model-ranked Top 3,12326,Isaac Heeney,Sydney,2.401291090519426
+17177,14,Port Adelaide,Sydney,2,Model-ranked Top 3,12698,Zak Butters,Port Adelaide,0.8820841664229279
+17177,14,Port Adelaide,Sydney,3,Model-ranked Top 3,12797,Chad Warner,Sydney,0.5028342342047527
+17178,14,Richmond,Brisbane Lions,1,Model-ranked Top 3,13040,Will Ashcroft,Brisbane Lions,2.7308293736471905
+17178,14,Richmond,Brisbane Lions,2,Model-ranked Top 3,12055,Lachie Neale,Brisbane Lions,1.5940532134831276
+17178,14,Richmond,Brisbane Lions,3,Model-ranked Top 3,12504,Tim Taranto,Richmond,0.923779035691098
+17179,14,St Kilda,Greater Western Sydney,1,Model-ranked Top 3,12600,Liam Ryan,St Kilda,1.8767508172978455
+17179,14,St Kilda,Greater Western Sydney,2,Model-ranked Top 3,12950,Nasiah Wanganeen-Milera,St Kilda,1.7746029218217596
+17179,14,St Kilda,Greater Western Sydney,3,Model-ranked Top 3,12410,Clayton Oliver,Greater Western Sydney,0.7238782196928925
+17180,15,Fremantle,Geelong,1,Model-ranked Top 3,12779,Luke Jackson,Fremantle,2.7569894601842586
+17180,15,Fremantle,Geelong,2,Model-ranked Top 3,12589,Andrew Brayshaw,Fremantle,1.981722680501968
+17180,15,Fremantle,Geelong,3,Model-ranked Top 3,12881,Max Holmes,Geelong,0.3877234277696305
+17181,15,Gold Coast,Hawthorn,1,Model-ranked Top 3,12915,Jai Newcombe,Hawthorn,2.1359489356252985
+17181,15,Gold Coast,Hawthorn,2,Model-ranked Top 3,12767,Noah Anderson,Gold Coast,1.1832072158905338
+17181,15,Gold Coast,Hawthorn,3,Model-ranked Top 3,12521,Ben Long,Gold Coast,0.5156639742558469
+17182,15,Adelaide,Melbourne,1,Model-ranked Top 3,11966,Max Gawn,Melbourne,1.5735555808340023
+17182,15,Adelaide,Melbourne,2,Model-ranked Top 3,12809,Mark Keane,Adelaide,0.8937754257026558
+17182,15,Adelaide,Melbourne,3,Model-ranked Top 3,12405,Wayne Milera,Adelaide,0.5192028810007212
+17183,15,Greater Western Sydney,Carlton,1,Model-ranked Top 3,12261,Patrick Cripps,Carlton,1.9572291333659093
+17183,15,Greater Western Sydney,Carlton,2,Model-ranked Top 3,12684,Sam Walsh,Carlton,1.9197365407339235
+17183,15,Greater Western Sydney,Carlton,3,Model-ranked Top 3,12411,George Hewett,Carlton,1.2751771516571568
+17184,15,Collingwood,Port Adelaide,1,Model-ranked Top 3,12943,Nick Daicos,Collingwood,2.6965379311617186
+17184,15,Collingwood,Port Adelaide,2,Model-ranked Top 3,12318,Jordan de Goey,Collingwood,2.1554020285738082
+17184,15,Collingwood,Port Adelaide,3,Model-ranked Top 3,12956,Jason Horne-Francis,Port Adelaide,0.477949690420933
+17185,15,Richmond,North Melbourne,1,Model-ranked Top 3,12373,Caleb Daniel,North Melbourne,2.5048514175239043
+17185,15,Richmond,North Melbourne,2,Model-ranked Top 3,13034,Harry Sheezel,North Melbourne,1.4264135948870742
+17185,15,Richmond,North Melbourne,3,Model-ranked Top 3,13263,Cooper Trembath,North Melbourne,1.2533124115595355
+17186,15,St Kilda,Western Bulldogs,1,Model-ranked Top 3,12269,Marcus Bontempelli,Western Bulldogs,2.707662261088984
+17186,15,St Kilda,Western Bulldogs,2,Model-ranked Top 3,12950,Nasiah Wanganeen-Milera,St Kilda,1.4740159760020426
+17186,15,St Kilda,Western Bulldogs,3,Model-ranked Top 3,13125,Hugo Garcia,St Kilda,0.5831900285177171
+17187,16,Brisbane Lions,Sydney,1,Model-ranked Top 3,13040,Will Ashcroft,Brisbane Lions,1.9290254044347814
+17187,16,Brisbane Lions,Sydney,2,Model-ranked Top 3,12797,Chad Warner,Sydney,1.9201891626244736
+17187,16,Brisbane Lions,Sydney,3,Model-ranked Top 3,12055,Lachie Neale,Brisbane Lions,0.9074952780499863
+17188,16,Hawthorn,Greater Western Sydney,1,Model-ranked Top 3,12915,Jai Newcombe,Hawthorn,2.322328731199948
+17188,16,Hawthorn,Greater Western Sydney,2,Model-ranked Top 3,12794,Will Day,Hawthorn,0.9997670207294224
+17188,16,Hawthorn,Greater Western Sydney,3,Model-ranked Top 3,12969,Finn Callaghan,Greater Western Sydney,0.6991710248136049
+17189,16,Carlton,West Coast,1,Model-ranked Top 3,12261,Patrick Cripps,Carlton,2.8377176411329925
+17189,16,Carlton,West Coast,2,Model-ranked Top 3,12684,Sam Walsh,Carlton,1.5766329803723889
+17189,16,Carlton,West Coast,3,Model-ranked Top 3,12498,Ben Ainsworth,Carlton,0.8413631282732668
+17190,16,Collingwood,Richmond,1,Model-ranked Top 3,12943,Nick Daicos,Collingwood,2.7245468211880848
+17190,16,Collingwood,Richmond,2,Model-ranked Top 3,12504,Tim Taranto,Richmond,1.375746338467552
+17190,16,Collingwood,Richmond,3,Model-ranked Top 3,12318,Jordan de Goey,Collingwood,0.8440733189874865
+17191,16,Port Adelaide,Adelaide,1,Model-ranked Top 3,12698,Zak Butters,Port Adelaide,2.5827185504454135
+17191,16,Port Adelaide,Adelaide,2,Model-ranked Top 3,12956,Jason Horne-Francis,Port Adelaide,1.9784370453630091
+17191,16,Port Adelaide,Adelaide,3,Model-ranked Top 3,12584,Darcy Fogarty,Adelaide,0.7162128404033592
+17192,16,North Melbourne,Essendon,1,Model-ranked Top 3,13034,Harry Sheezel,North Melbourne,2.948323741737853
+17192,16,North Melbourne,Essendon,2,Model-ranked Top 3,12590,Luke Davies-Uniacke,North Melbourne,1.4402403421646426
+17192,16,North Melbourne,Essendon,3,Model-ranked Top 3,12373,Caleb Daniel,North Melbourne,0.9524388865510035
+17193,16,Fremantle,Gold Coast,1,Model-ranked Top 3,12589,Andrew Brayshaw,Fremantle,2.3494565554955185
+17193,16,Fremantle,Gold Coast,2,Model-ranked Top 3,12801,Michael Frederick,Fremantle,1.236063786365186
+17193,16,Fremantle,Gold Coast,3,Model-ranked Top 3,12779,Luke Jackson,Fremantle,0.8674716690131349
+17194,17,Geelong,Brisbane Lions,1,Model-ranked Top 3,13040,Will Ashcroft,Brisbane Lions,2.2600648524064955
+17194,17,Geelong,Brisbane Lions,2,Model-ranked Top 3,11700,Patrick Dangerfield,Geelong,1.1769895757809632
+17194,17,Geelong,Brisbane Lions,3,Model-ranked Top 3,12968,Kai Lohmann,Brisbane Lions,0.690823997443661
+17195,17,Sydney,Western Bulldogs,1,Model-ranked Top 3,12421,Charlie Curnow,Sydney,2.589636966074523
+17195,17,Sydney,Western Bulldogs,2,Model-ranked Top 3,12326,Isaac Heeney,Sydney,1.1585195886725141
+17195,17,Sydney,Western Bulldogs,3,Model-ranked Top 3,12217,Brodie Grundy,Sydney,0.7900011706643941
+17196,17,West Coast,Adelaide,1,Model-ranked Top 3,12516,Jordan Dawson,Adelaide,2.5935288351486103
+17196,17,West Coast,Adelaide,2,Model-ranked Top 3,12584,Darcy Fogarty,Adelaide,1.318242342578302
+17196,17,West Coast,Adelaide,3,Model-ranked Top 3,12798,Izak Rankine,Adelaide,1.056821823830014
+17197,17,Hawthorn,Melbourne,1,Model-ranked Top 3,13048,Jacob van Rooyen,Melbourne,2.088443981655008
+17197,17,Hawthorn,Melbourne,2,Model-ranked Top 3,11966,Max Gawn,Melbourne,1.6243013487608207
+17197,17,Hawthorn,Melbourne,3,Model-ranked Top 3,12598,Bayley Fritsch,Melbourne,0.8838022665318729
+17198,17,Greater Western Sydney,Fremantle,1,Model-ranked Top 3,12167,Jake Stringer,Greater Western Sydney,2.3719697030403437
+17198,17,Greater Western Sydney,Fremantle,2,Model-ranked Top 3,12025,Toby Greene,Greater Western Sydney,1.7960076699821585
+17198,17,Greater Western Sydney,Fremantle,3,Model-ranked Top 3,12410,Clayton Oliver,Greater Western Sydney,1.174216968492966
+17199,17,Gold Coast,Collingwood,1,Model-ranked Top 3,12943,Nick Daicos,Collingwood,2.136514250485923
+17199,17,Gold Coast,Collingwood,2,Model-ranked Top 3,13278,Zeke Uwland,Gold Coast,0.5186201390072269
+17199,17,Gold Coast,Collingwood,3,Model-ranked Top 3,12300,Tim Membrey,Collingwood,0.451508866589751
+17200,17,Richmond,Carlton,1,Model-ranked Top 3,12411,George Hewett,Carlton,2.207340532642083
+17200,17,Richmond,Carlton,2,Model-ranked Top 3,13274,Jagga Smith,Carlton,1.5578010481591091
+17200,17,Richmond,Carlton,3,Model-ranked Top 3,12504,Tim Taranto,Richmond,0.8466161921930855
+17201,17,Essendon,St Kilda,1,Model-ranked Top 3,12950,Nasiah Wanganeen-Milera,St Kilda,2.729072946170587
+17201,17,Essendon,St Kilda,2,Model-ranked Top 3,12060,Bradley Hill,St Kilda,1.413829603959803
+17201,17,Essendon,St Kilda,3,Model-ranked Top 3,13193,Max Hall,St Kilda,0.8144729035353344
+17202,17,Port Adelaide,North Melbourne,1,Model-ranked Top 3,12956,Jason Horne-Francis,Port Adelaide,1.8376249701604233
+17202,17,Port Adelaide,North Melbourne,2,Model-ranked Top 3,12698,Zak Butters,Port Adelaide,1.257098253173409
+17202,17,Port Adelaide,North Melbourne,3,Model-ranked Top 3,13034,Harry Sheezel,North Melbourne,0.9948442052607954
+17203,18,Fremantle,Sydney,1,Model-ranked Top 3,13180,Murphy Reid,Fremantle,1.4651432652581518
+17203,18,Fremantle,Sydney,2,Model-ranked Top 3,12421,Charlie Curnow,Sydney,1.0481864436573112
+17203,18,Fremantle,Sydney,3,Model-ranked Top 3,12786,Caleb Serong,Fremantle,1.0097414164747023
+17204,18,Collingwood,North Melbourne,1,Model-ranked Top 3,12573,Josh Daicos,Collingwood,1.3395533922999354
+17204,18,Collingwood,North Melbourne,2,Model-ranked Top 3,12660,Darcy Cameron,Collingwood,0.664301878208866
+17204,18,Collingwood,North Melbourne,3,Model-ranked Top 3,12943,Nick Daicos,Collingwood,0.4285421290818446
+17205,18,St Kilda,Port Adelaide,1,Model-ranked Top 3,12060,Bradley Hill,St Kilda,1.238109269835233
+17205,18,St Kilda,Port Adelaide,2,Model-ranked Top 3,12703,Callum Wilkie,St Kilda,1.2218363510999117
+17205,18,St Kilda,Port Adelaide,3,Model-ranked Top 3,12564,Rowan Marshall,St Kilda,1.210299463927217
+17206,18,Greater Western Sydney,Geelong,1,Model-ranked Top 3,13104,Shaun Mannagh,Geelong,1.661656509041323
+17206,18,Greater Western Sydney,Geelong,2,Model-ranked Top 3,12410,Clayton Oliver,Greater Western Sydney,1.4499311583684558
+17206,18,Greater Western Sydney,Geelong,3,Model-ranked Top 3,12025,Toby Greene,Greater Western Sydney,0.9884965994200205
+17207,18,Carlton,Hawthorn,1,Model-ranked Top 3,12927,Jack Ginnivan,Hawthorn,1.4919072729225575
+17207,18,Carlton,Hawthorn,2,Model-ranked Top 3,12856,Lloyd Meek,Hawthorn,0.975534575190605
+17207,18,Carlton,Hawthorn,3,Model-ranked Top 3,12954,Connor Macdonald,Hawthorn,0.7605870408504503
+17208,18,Adelaide,Gold Coast,1,Model-ranked Top 3,12516,Jordan Dawson,Adelaide,2.0339584688184145
+17208,18,Adelaide,Gold Coast,2,Model-ranked Top 3,12798,Izak Rankine,Adelaide,1.683142877618552
+17208,18,Adelaide,Gold Coast,3,Model-ranked Top 3,11713,Taylor Walker,Adelaide,1.0451636799819009
+17209,18,Western Bulldogs,West Coast,1,Model-ranked Top 3,12269,Marcus Bontempelli,Western Bulldogs,2.439528126833502
+17209,18,Western Bulldogs,West Coast,2,Model-ranked Top 3,12594,Aaron Naughton,Western Bulldogs,1.5948282680960733
+17209,18,Western Bulldogs,West Coast,3,Model-ranked Top 3,13111,Harley Reid,West Coast,0.9458132953092002
+17210,18,Melbourne,Richmond,1,Model-ranked Top 3,13048,Jacob van Rooyen,Melbourne,2.471165265105894
+17210,18,Melbourne,Richmond,2,Model-ranked Top 3,12693,Tom Sparrow,Melbourne,0.9081931491457356
+17210,18,Melbourne,Richmond,3,Model-ranked Top 3,12931,Jake Bowey,Melbourne,0.7421723235360883
+17211,18,Brisbane Lions,Essendon,1,Model-ranked Top 3,13040,Will Ashcroft,Brisbane Lions,2.5621841191877275
+17211,18,Brisbane Lions,Essendon,2,Model-ranked Top 3,12055,Lachie Neale,Brisbane Lions,2.3583192219360423
+17211,18,Brisbane Lions,Essendon,3,Model-ranked Top 3,12610,Zac Bailey,Brisbane Lions,0.44412425402874905
+17212,19,Geelong,St Kilda,1,Model-ranked Top 3,12692,Bailey Smith,Geelong,2.587468114202595
+17212,19,Geelong,St Kilda,2,Model-ranked Top 3,12564,Rowan Marshall,St Kilda,1.748208823534032
+17212,19,Geelong,St Kilda,3,Model-ranked Top 3,12689,Gryan Miers,Geelong,0.9392837576275278
+17213,19,Sydney,Adelaide,1,Model-ranked Top 3,12584,Darcy Fogarty,Adelaide,1.5049091321228385
+17213,19,Sydney,Adelaide,2,Model-ranked Top 3,12412,Tom Papley,Sydney,1.273241703899608
+17213,19,Sydney,Adelaide,3,Model-ranked Top 3,12798,Izak Rankine,Adelaide,1.1904802857118022
+17214,19,Port Adelaide,Fremantle,1,Model-ranked Top 3,12786,Caleb Serong,Fremantle,1.6579900376004442
+17214,19,Port Adelaide,Fremantle,2,Model-ranked Top 3,12589,Andrew Brayshaw,Fremantle,1.2051373986503602
+17214,19,Port Adelaide,Fremantle,3,Model-ranked Top 3,12983,Jye Amiss,Fremantle,1.0815939269650081
+17215,19,North Melbourne,Melbourne,1,Model-ranked Top 3,12693,Tom Sparrow,Melbourne,2.2060454381903867
+17215,19,North Melbourne,Melbourne,2,Model-ranked Top 3,12771,Kysaiah Pickett,Melbourne,1.2984930858014827
+17215,19,North Melbourne,Melbourne,3,Model-ranked Top 3,13182,Matthew Jefferson,Melbourne,0.5168441905712072
+17216,19,Collingwood,Carlton,1,Model-ranked Top 3,12943,Nick Daicos,Collingwood,2.341344321372167
+17216,19,Collingwood,Carlton,2,Model-ranked Top 3,12261,Patrick Cripps,Carlton,1.7898913751912338
+17216,19,Collingwood,Carlton,3,Model-ranked Top 3,12660,Darcy Cameron,Collingwood,0.46141977777637105
+17217,19,West Coast,Brisbane Lions,1,Model-ranked Top 3,13040,Will Ashcroft,Brisbane Lions,1.3349710116045534
+17217,19,West Coast,Brisbane Lions,2,Model-ranked Top 3,12340,Harris Andrews,Brisbane Lions,1.2882891357957573
+17217,19,West Coast,Brisbane Lions,3,Model-ranked Top 3,12968,Kai Lohmann,Brisbane Lions,1.2231714096346507
+17218,19,Richmond,Hawthorn,1,Model-ranked Top 3,12237,Jarman Impey,Hawthorn,1.7802563556239335
+17218,19,Richmond,Hawthorn,2,Model-ranked Top 3,12636,Mitch Lewis,Hawthorn,1.4759009251824593
+17218,19,Richmond,Hawthorn,3,Model-ranked Top 3,13105,Nick Watson,Hawthorn,1.2183903733202812
+17219,19,Gold Coast,Western Bulldogs,1,Model-ranked Top 3,12269,Marcus Bontempelli,Western Bulldogs,2.6549772013849853
+17219,19,Gold Coast,Western Bulldogs,2,Model-ranked Top 3,12331,Touk Miller,Gold Coast,0.9121958433024885
+17219,19,Gold Coast,Western Bulldogs,3,Model-ranked Top 3,12768,Matt Rowell,Gold Coast,0.8255237391347624
+17220,19,Essendon,Greater Western Sydney,1,Model-ranked Top 3,12241,Zach Merrett,Essendon,2.0823546175242065
+17220,19,Essendon,Greater Western Sydney,2,Model-ranked Top 3,12925,Sam Durham,Essendon,1.1668059263204493
+17220,19,Essendon,Greater Western Sydney,3,Model-ranked Top 3,12899,Nick Bryan,Essendon,0.9001589686276118
+17221,20,Adelaide,Collingwood,1,Model-ranked Top 3,12943,Nick Daicos,Collingwood,2.65214125617421
+17221,20,Adelaide,Collingwood,2,Model-ranked Top 3,12660,Darcy Cameron,Collingwood,0.8990105623792269
+17221,20,Adelaide,Collingwood,3,Model-ranked Top 3,4182,Scott Pendlebury,Collingwood,0.45478008507782064
+17222,20,Melbourne,Geelong,1,Model-ranked Top 3,12992,Shannon Neale,Geelong,1.537804766022627
+17222,20,Melbourne,Geelong,2,Model-ranked Top 3,12692,Bailey Smith,Geelong,0.8621341705446663
+17222,20,Melbourne,Geelong,3,Model-ranked Top 3,13122,Connor OSullivan,Geelong,0.6398694546027277
+17223,20,Fremantle,West Coast,1,Model-ranked Top 3,12983,Jye Amiss,Fremantle,2.155802131670524
+17223,20,Fremantle,West Coast,2,Model-ranked Top 3,12786,Caleb Serong,Fremantle,1.1801561184960698
+17223,20,Fremantle,West Coast,3,Model-ranked Top 3,13180,Murphy Reid,Fremantle,0.8540044736275618
+17224,20,Carlton,Gold Coast,1,Model-ranked Top 3,12261,Patrick Cripps,Carlton,1.7963374776971082
+17224,20,Carlton,Gold Coast,2,Model-ranked Top 3,13274,Jagga Smith,Carlton,1.0891016137764458
+17224,20,Carlton,Gold Coast,3,Model-ranked Top 3,12767,Noah Anderson,Gold Coast,0.6768280682693004
+17225,20,Hawthorn,Essendon,1,Model-ranked Top 3,11845,Jack Gunston,Hawthorn,2.3934171941093636
+17225,20,Hawthorn,Essendon,2,Model-ranked Top 3,12237,Jarman Impey,Hawthorn,2.1008112173721463
+17225,20,Hawthorn,Essendon,3,Model-ranked Top 3,12955,Josh Ward,Hawthorn,0.586450966310828
+17226,20,Greater Western Sydney,Sydney,1,Model-ranked Top 3,12862,Errol Gulden,Sydney,2.579669237392038
+17226,20,Greater Western Sydney,Sydney,2,Model-ranked Top 3,12797,Chad Warner,Sydney,1.7036085426867924
+17226,20,Greater Western Sydney,Sydney,3,Model-ranked Top 3,12217,Brodie Grundy,Sydney,0.7933450630590763
+17227,20,Western Bulldogs,Richmond,1,Model-ranked Top 3,12605,Ed Richards,Western Bulldogs,2.451765588023269
+17227,20,Western Bulldogs,Richmond,2,Model-ranked Top 3,12269,Marcus Bontempelli,Western Bulldogs,2.2834697451099832
+17227,20,Western Bulldogs,Richmond,3,Model-ranked Top 3,12916,Lachlan Bramble,Western Bulldogs,0.1280201842035904
+17228,20,Brisbane Lions,Port Adelaide,1,Model-ranked Top 3,13040,Will Ashcroft,Brisbane Lions,2.126514630427376
+17228,20,Brisbane Lions,Port Adelaide,2,Model-ranked Top 3,12610,Zac Bailey,Brisbane Lions,1.1781443575156727
+17228,20,Brisbane Lions,Port Adelaide,3,Model-ranked Top 3,12076,Dayne Zorko,Brisbane Lions,0.8605291925916608
+17229,20,North Melbourne,St Kilda,1,Model-ranked Top 3,12950,Nasiah Wanganeen-Milera,St Kilda,2.5061386833595685
+17229,20,North Melbourne,St Kilda,2,Model-ranked Top 3,12060,Bradley Hill,St Kilda,0.44289043129150396
+17229,20,North Melbourne,St Kilda,3,Model-ranked Top 3,12674,Tom De Koning,St Kilda,0.262461037712886
+17230,21,Collingwood,Geelong,1,Model-ranked Top 3,12974,Oliver Dempsey,Geelong,2.1818789528316995
+17230,21,Collingwood,Geelong,2,Model-ranked Top 3,12943,Nick Daicos,Collingwood,1.0773647013795158
+17230,21,Collingwood,Geelong,3,Model-ranked Top 3,12291,Daniel McStay,Collingwood,0.9848570783398277
+17231,21,Fremantle,Western Bulldogs,1,Model-ranked Top 3,13075,Karl Worner,Fremantle,1.7605038146695073
+17231,21,Fremantle,Western Bulldogs,2,Model-ranked Top 3,12887,Josh Treacy,Fremantle,0.5631863683626123
+17231,21,Fremantle,Western Bulldogs,3,Model-ranked Top 3,12394,Oscar McDonald,Fremantle,0.4589691461038892
+17232,21,St Kilda,Sydney,1,Model-ranked Top 3,12862,Errol Gulden,Sydney,2.2905867300647493
+17232,21,St Kilda,Sydney,2,Model-ranked Top 3,12797,Chad Warner,Sydney,1.5228221168137699
+17232,21,St Kilda,Sydney,3,Model-ranked Top 3,12326,Isaac Heeney,Sydney,0.5694917937721757
+17233,21,Hawthorn,North Melbourne,1,Model-ranked Top 3,12915,Jai Newcombe,Hawthorn,2.338959248956595
+17233,21,Hawthorn,North Melbourne,2,Model-ranked Top 3,13105,Nick Watson,Hawthorn,1.6361229581964984
+17233,21,Hawthorn,North Melbourne,3,Model-ranked Top 3,12237,Jarman Impey,Hawthorn,0.4951620330781588
+17234,21,Port Adelaide,Greater Western Sydney,1,Model-ranked Top 3,12143,Lachie Whitfield,Greater Western Sydney,2.272055553348919
+17234,21,Port Adelaide,Greater Western Sydney,2,Model-ranked Top 3,12956,Jason Horne-Francis,Port Adelaide,1.905611627683254
+17234,21,Port Adelaide,Greater Western Sydney,3,Model-ranked Top 3,12028,Stephen Coniglio,Greater Western Sydney,1.2028037849096245
+17235,21,Carlton,Brisbane Lions,1,Model-ranked Top 3,13274,Jagga Smith,Carlton,1.846964491452527
+17235,21,Carlton,Brisbane Lions,2,Model-ranked Top 3,12411,George Hewett,Carlton,1.4612597461714456
+17235,21,Carlton,Brisbane Lions,3,Model-ranked Top 3,12937,Brodie Kemp,Carlton,1.0516873538622706
+17236,21,Richmond,West Coast,1,Model-ranked Top 3,12504,Tim Taranto,Richmond,2.1941389517101797
+17236,21,Richmond,West Coast,2,Model-ranked Top 3,13111,Harley Reid,West Coast,1.899335479393092
+17236,21,Richmond,West Coast,3,Model-ranked Top 3,12712,Jack Ross,Richmond,0.32834161178837307
+17237,21,Gold Coast,Melbourne,1,Model-ranked Top 3,11966,Max Gawn,Melbourne,2.098121202663304
+17237,21,Gold Coast,Melbourne,2,Model-ranked Top 3,12768,Matt Rowell,Gold Coast,1.1135516995408976
+17237,21,Gold Coast,Melbourne,3,Model-ranked Top 3,13335,Joel Fitzgerald,Melbourne,0.736279449430791
+17238,21,Essendon,Adelaide,1,Model-ranked Top 3,12892,Riley Thilthorpe,Adelaide,2.2268431952395638
+17238,21,Essendon,Adelaide,2,Model-ranked Top 3,12798,Izak Rankine,Adelaide,1.6297122639571644
+17238,21,Essendon,Adelaide,3,Model-ranked Top 3,12516,Jordan Dawson,Adelaide,1.3891293344217732
+17239,22,Western Bulldogs,North Melbourne,1,Model-ranked Top 3,12590,Luke Davies-Uniacke,North Melbourne,2.628433402092596
+17239,22,Western Bulldogs,North Melbourne,2,Model-ranked Top 3,12975,Paul Curtis,North Melbourne,0.8929398716892737
+17239,22,Western Bulldogs,North Melbourne,3,Model-ranked Top 3,12373,Caleb Daniel,North Melbourne,0.49478510344515403
+17240,22,Brisbane Lions,Hawthorn,1,Model-ranked Top 3,12968,Kai Lohmann,Brisbane Lions,2.296608282210684
+17240,22,Brisbane Lions,Hawthorn,2,Model-ranked Top 3,13040,Will Ashcroft,Brisbane Lions,1.8339301922534514
+17240,22,Brisbane Lions,Hawthorn,3,Model-ranked Top 3,12055,Lachie Neale,Brisbane Lions,0.8410982701482224
+17241,22,Melbourne,Fremantle,1,Model-ranked Top 3,12771,Kysaiah Pickett,Melbourne,2.062358705613298
+17241,22,Melbourne,Fremantle,2,Model-ranked Top 3,12983,Jye Amiss,Fremantle,0.5399399293278696
+17241,22,Melbourne,Fremantle,3,Model-ranked Top 3,12693,Tom Sparrow,Melbourne,0.4079320745780001
+17242,22,Sydney,Port Adelaide,1,Model-ranked Top 3,12862,Errol Gulden,Sydney,2.2950027729925173
+17242,22,Sydney,Port Adelaide,2,Model-ranked Top 3,12797,Chad Warner,Sydney,1.7604930975724682
+17242,22,Sydney,Port Adelaide,3,Model-ranked Top 3,12421,Charlie Curnow,Sydney,0.7123674344288028
+17243,22,Geelong,Essendon,1,Model-ranked Top 3,12692,Bailey Smith,Geelong,2.1099080347323818
+17243,22,Geelong,Essendon,2,Model-ranked Top 3,12974,Oliver Dempsey,Geelong,1.591078472400216
+17243,22,Geelong,Essendon,3,Model-ranked Top 3,12851,Oliver Henry,Geelong,0.7625756871382113
+17244,22,Adelaide,Richmond,1,Model-ranked Top 3,12798,Izak Rankine,Adelaide,2.4786050058045754
+17244,22,Adelaide,Richmond,2,Model-ranked Top 3,12516,Jordan Dawson,Adelaide,1.7981881094240288
+17244,22,Adelaide,Richmond,3,Model-ranked Top 3,12712,Jack Ross,Richmond,0.4347039217901286
+17245,22,Greater Western Sydney,Gold Coast,1,Model-ranked Top 3,12768,Matt Rowell,Gold Coast,2.5617621337031906
+17245,22,Greater Western Sydney,Gold Coast,2,Model-ranked Top 3,12331,Touk Miller,Gold Coast,1.7842654167712653
+17245,22,Greater Western Sydney,Gold Coast,3,Model-ranked Top 3,12767,Noah Anderson,Gold Coast,0.4247028008444654
+17246,22,West Coast,Collingwood,1,Model-ranked Top 3,12943,Nick Daicos,Collingwood,2.4570319241278327
+17246,22,West Coast,Collingwood,2,Model-ranked Top 3,12573,Josh Daicos,Collingwood,1.3067840457545459
+17246,22,West Coast,Collingwood,3,Model-ranked Top 3,12291,Daniel McStay,Collingwood,1.2364025472697324
+17247,22,St Kilda,Carlton,1,Model-ranked Top 3,12873,Francis Evans,Carlton,1.1947354031735218
+17247,22,St Kilda,Carlton,2,Model-ranked Top 3,12261,Patrick Cripps,Carlton,1.0665647410853247
+17247,22,St Kilda,Carlton,3,Model-ranked Top 3,13193,Max Hall,St Kilda,0.8686318909693818
+17248,23,Fremantle,Adelaide,1,Model-ranked Top 3,12786,Caleb Serong,Fremantle,2.391543596676301
+17248,23,Fremantle,Adelaide,2,Model-ranked Top 3,12798,Izak Rankine,Adelaide,1.3334491490212164
+17248,23,Fremantle,Adelaide,3,Model-ranked Top 3,12983,Jye Amiss,Fremantle,0.9679651919143926
+17249,23,Richmond,St Kilda,1,Model-ranked Top 3,13193,Max Hall,St Kilda,1.9666856581849779
+17249,23,Richmond,St Kilda,2,Model-ranked Top 3,12948,Mitch Owens,St Kilda,1.454084602965304
+17249,23,Richmond,St Kilda,3,Model-ranked Top 3,12060,Bradley Hill,St Kilda,1.4447322027817942
+17250,23,North Melbourne,Geelong,1,Model-ranked Top 3,12871,Tanner Bruhn,Geelong,1.7097137330422383
+17250,23,North Melbourne,Geelong,2,Model-ranked Top 3,12692,Bailey Smith,Geelong,0.9670092240202071
+17250,23,North Melbourne,Geelong,3,Model-ranked Top 3,13104,Shaun Mannagh,Geelong,0.6667326711330273
+17251,23,Brisbane Lions,Gold Coast,1,Model-ranked Top 3,13040,Will Ashcroft,Brisbane Lions,2.3131648796740754
+17251,23,Brisbane Lions,Gold Coast,2,Model-ranked Top 3,13197,Levi Ashcroft,Brisbane Lions,0.6607866031237246
+17251,23,Brisbane Lions,Gold Coast,3,Model-ranked Top 3,12055,Lachie Neale,Brisbane Lions,0.607899270601602
+17252,23,Hawthorn,Collingwood,1,Model-ranked Top 3,12943,Nick Daicos,Collingwood,2.0764026900947443
+17252,23,Hawthorn,Collingwood,2,Model-ranked Top 3,12876,Beau McCreery,Collingwood,0.9751605837713974
+17252,23,Hawthorn,Collingwood,3,Model-ranked Top 3,12955,Josh Ward,Hawthorn,0.49552228611566446
+17253,23,Port Adelaide,Melbourne,1,Model-ranked Top 3,12756,Kade Chandler,Melbourne,1.3478384717934593
+17253,23,Port Adelaide,Melbourne,2,Model-ranked Top 3,11966,Max Gawn,Melbourne,1.2783545006799564
+17253,23,Port Adelaide,Melbourne,3,Model-ranked Top 3,12368,Jack Steele,Melbourne,0.7470562450495323
+17254,23,Greater Western Sydney,West Coast,1,Model-ranked Top 3,12782,Lachie Ash,Greater Western Sydney,2.059451217046539
+17254,23,Greater Western Sydney,West Coast,2,Model-ranked Top 3,12143,Lachie Whitfield,Greater Western Sydney,1.4172695690425148
+17254,23,Greater Western Sydney,West Coast,3,Model-ranked Top 3,12410,Clayton Oliver,Greater Western Sydney,0.561533472477124
+17255,23,Western Bulldogs,Carlton,1,Model-ranked Top 3,12261,Patrick Cripps,Carlton,1.5538508254018948
+17255,23,Western Bulldogs,Carlton,2,Model-ranked Top 3,12605,Ed Richards,Western Bulldogs,1.5509992598916538
+17255,23,Western Bulldogs,Carlton,3,Model-ranked Top 3,11898,Tom Liberatore,Western Bulldogs,0.8865506460805054
+17256,23,Essendon,Sydney,1,Model-ranked Top 3,12326,Isaac Heeney,Sydney,2.3106376204138606
+17256,23,Essendon,Sydney,2,Model-ranked Top 3,12862,Errol Gulden,Sydney,2.1068096915219865
+17256,23,Essendon,Sydney,3,Model-ranked Top 3,12797,Chad Warner,Sydney,1.1828215334016265
+17257,24,St Kilda,Gold Coast,1,Model-ranked Top 3,12768,Matt Rowell,Gold Coast,1.8225511834228139
+17257,24,St Kilda,Gold Coast,2,Model-ranked Top 3,12767,Noah Anderson,Gold Coast,1.5698438732700075
+17257,24,St Kilda,Gold Coast,3,Model-ranked Top 3,12743,John Noble,Gold Coast,1.3784480753251114
+17258,24,Collingwood,Brisbane Lions,1,Model-ranked Top 3,13137,Logan Morris,Brisbane Lions,2.6563117061033115
+17258,24,Collingwood,Brisbane Lions,2,Model-ranked Top 3,12055,Lachie Neale,Brisbane Lions,1.878857514293934
+17258,24,Collingwood,Brisbane Lions,3,Model-ranked Top 3,12318,Jordan de Goey,Collingwood,0.4988815999539402
+17259,24,Carlton,Fremantle,1,Model-ranked Top 3,12684,Sam Walsh,Carlton,2.1263114516182746
+17259,24,Carlton,Fremantle,2,Model-ranked Top 3,12873,Francis Evans,Carlton,1.1727491152869995
+17259,24,Carlton,Fremantle,3,Model-ranked Top 3,13274,Jagga Smith,Carlton,1.075129951730109
+17260,24,Melbourne,Western Bulldogs,1,Model-ranked Top 3,12605,Ed Richards,Western Bulldogs,1.5814459381474293
+17260,24,Melbourne,Western Bulldogs,2,Model-ranked Top 3,11966,Max Gawn,Melbourne,1.4063657794524875
+17260,24,Melbourne,Western Bulldogs,3,Model-ranked Top 3,12269,Marcus Bontempelli,Western Bulldogs,0.9516325010044104
+17261,24,Geelong,Richmond,1,Model-ranked Top 3,12692,Bailey Smith,Geelong,2.563497595576502
+17261,24,Geelong,Richmond,2,Model-ranked Top 3,13104,Shaun Mannagh,Geelong,1.4724496283356545
+17261,24,Geelong,Richmond,3,Model-ranked Top 3,11700,Patrick Dangerfield,Geelong,1.019429375159104
+17262,24,Adelaide,Greater Western Sydney,1,Model-ranked Top 3,12798,Izak Rankine,Adelaide,2.6368922536457973
+17262,24,Adelaide,Greater Western Sydney,2,Model-ranked Top 3,12516,Jordan Dawson,Adelaide,1.4399980583316445
+17262,24,Adelaide,Greater Western Sydney,3,Model-ranked Top 3,11713,Taylor Walker,Adelaide,1.2400367315770109
+17263,24,Essendon,Port Adelaide,1,Model-ranked Top 3,13007,Jase Burgoyne,Port Adelaide,2.0315052442149826
+17263,24,Essendon,Port Adelaide,2,Model-ranked Top 3,13148,Nate Caddy,Essendon,1.3621838251072356
+17263,24,Essendon,Port Adelaide,3,Model-ranked Top 3,12766,Mitch Georgiades,Port Adelaide,1.3611133357251486
+17264,24,Sydney,North Melbourne,1,Model-ranked Top 3,12862,Errol Gulden,Sydney,2.6355336198827586
+17264,24,Sydney,North Melbourne,2,Model-ranked Top 3,12217,Brodie Grundy,Sydney,1.1804509372369627
+17264,24,Sydney,North Melbourne,3,Model-ranked Top 3,12863,Braeden Campbell,Sydney,0.3676643004086199
+17265,24,West Coast,Hawthorn,1,Model-ranked Top 3,12794,Will Day,Hawthorn,1.8315328918172458
+17265,24,West Coast,Hawthorn,2,Model-ranked Top 3,11845,Jack Gunston,Hawthorn,1.241482955870879
+17265,24,West Coast,Hawthorn,3,Model-ranked Top 3,12954,Connor Macdonald,Hawthorn,0.92785795120543

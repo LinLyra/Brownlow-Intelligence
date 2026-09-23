@@ -1,0 +1,13 @@
+{
+  "timestamp_utc": "2026-09-21T12:05:51.772066+00:00",
+  "seed": 42,
+  "v21_champion_ref": 0.355865,
+  "expanding_all_repro": 0.35586534891749266,
+  "recommendation": "expanding_all",
+  "val_years": [
+    2022,
+    2023,
+    2024,
+    2025
+  ]
+}

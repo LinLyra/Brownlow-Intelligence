@@ -1,0 +1,31 @@
+{
+  "timestamp_utc": "2026-09-22T11:14:53.248642+00:00",
+  "readiness": "PASS",
+  "n_2026_matches": 207,
+  "n_2026_rows": 9522,
+  "feature_count": 178,
+  "train_seasons": [
+    2015,
+    2016,
+    2017,
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "total_expected_votes": 1241.999999999973,
+  "expected_total_6x_matches": 1242.0,
+  "max_match_sum_abs_error": 2.1159962670935784e-11,
+  "champion_oot_rmse": 0.355865,
+  "warnings": [
+    "season",
+    "contest_off_wins",
+    "match_home_team_goals",
+    "home_advantage",
+    "contest_off_one_on_ones"
+  ]
+}

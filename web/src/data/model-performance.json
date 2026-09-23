@@ -1,0 +1,13 @@
+{
+  "original_base_rmse": 0.358172,
+  "coach_intelligence_rmse": 0.355865,
+  "champion_experiment": "base_plus_components",
+  "temporal_strategy": "expanding_all",
+  "fold_rmse": {
+    "2022": 0.3153137594342417,
+    "2023": 0.3809057262528894,
+    "2024": 0.3706214109917854,
+    "2025": 0.3566204989910542
+  },
+  "metric": "mean allocated rolling OOT RMSE"
+}

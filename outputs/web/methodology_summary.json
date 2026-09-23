@@ -1,0 +1,14 @@
+{
+  "project": "Brownlow Intelligence",
+  "objective": "Predict expected Brownlow umpire votes at player-match level",
+  "validation": "Rolling out-of-time validation (train < year, validate year for 2022\u20132025)",
+  "coach_intelligence": "Leakage-safe expected coaches votes + residual components",
+  "features": "Match-relative stats, context, lagged recognition, coaches votes, coach residuals",
+  "model": "CatBoostRegressor with frozen V2.1 hyperparameters",
+  "constraint": "Per-match capped-simplex allocation to sum=6 and bounds [0,3]",
+  "final_training": "Full-history expanding_all on all labelled seasons before 2026",
+  "verified_oot_rmse": {
+    "base": 0.358172,
+    "champion": 0.355865
+  }
+}

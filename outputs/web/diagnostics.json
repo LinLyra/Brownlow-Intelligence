@@ -1,0 +1,42 @@
+{
+  "zero_vote_rate": 0.9332499689967343,
+  "n_historical_rows": 96764,
+  "error_by_vote": [
+    {
+      "actual_votes": 0,
+      "mae": 0.057510244511508136,
+      "n": 35174,
+      "mean_prediction": 0.057510244511508136
+    },
+    {
+      "actual_votes": 1,
+      "mae": 0.6174259105810527,
+      "n": 818,
+      "mean_prediction": 0.7102828824813004
+    },
+    {
+      "actual_votes": 2,
+      "mae": 1.018133191341816,
+      "n": 818,
+      "mean_prediction": 1.0663001717477412
+    },
+    {
+      "actual_votes": 3,
+      "mae": 1.2495235682239285,
+      "n": 818,
+      "mean_prediction": 1.7504764317760713
+    }
+  ],
+  "ablation": {
+    "base": 0.358172,
+    "base_no_coach": 0.369215,
+    "base_plus_components": 0.355865
+  },
+  "temporal": {
+    "expanding_all": 0.355865,
+    "trailing_8": 0.355922,
+    "expanding_exclude_2020": 0.356953,
+    "trailing_6": 0.356982,
+    "trailing_4": 0.357914
+  }
+}

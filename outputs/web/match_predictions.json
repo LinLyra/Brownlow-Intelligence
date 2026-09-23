@@ -1,0 +1,5591 @@
+[
+  {
+    "match_id": 17059,
+    "match_round": 0,
+    "home": "Sydney",
+    "away": "Carlton",
+    "label": "Model-ranked Top 3",
+    "top3": [
+      {
+        "model_rank": 1,
+        "player_name": "Justin McInerney",
+        "player_team": "Sydney",
+        "allocated_expected_votes": 1.9771493831956937
+      },
+      {
+        "model_rank": 2,
+        "player_name": "Errol Gulden",
+        "player_team": "Sydney",
+        "allocated_expected_votes": 1.6024175120582376
+      },
+      {
+        "model_rank": 3,
+        "player_name": "Isaac Heeney",
+        "player_team": "Sydney",
+        "allocated_expected_votes": 0.5367249377703827
+      }
+    ]
+  },
+  {
+    "match_id": 17060,
+    "match_round": 0,
+    "home": "Gold Coast",
+    "away": "Geelong",
+    "label": "Model-ranked Top 3",
+    "top3": [
+      {
+        "model_rank": 1,
+        "player_name": "Christian Petracca",
+        "player_team": "Gold Coast",
+        "allocated_expected_votes": 2.58772724575717
+      },
+      {
+        "model_rank": 2,
+        "player_name": "Bailey Humphrey",
+        "player_team": "Gold Coast",
+        "allocated_expected_votes": 0.6075906867933629
+      },
+      {
+        "model_rank": 3,
+        "player_name": "Touk Miller",
+        "player_team": "Gold Coast",
+        "allocated_expected_votes": 0.5460198453357388
+      }
+    ]
+  },
+  {
+    "match_id": 17061,
+    "match_round": 0,
+    "home": "Greater Western Sydney",
+    "away": "Hawthorn",
+    "label": "Model-ranked Top 3",
+    "top3": [
+      {
+        "model_rank": 1,
+        "player_name": "Jake Stringer",
+        "player_team": "Greater Western Sydney",
+        "allocated_expected_votes": 2.2969498280152716
+      },
+      {
+        "model_rank": 2,
+        "player_name": "Clayton Oliver",
+        "player_team": "Greater Western Sydney",
+        "allocated_expected_votes": 1.2374652330661569
+      },
+      {
+        "model_rank": 3,
+        "player_name": "Finn Callaghan",
+        "player_team": "Greater Western Sydney",
+        "allocated_expected_votes": 1.2237019087255998
+      }
+    ]
+  },
+  {
+    "match_id": 17062,
+    "match_round": 0,
+    "home": "Brisbane Lions",
+    "away": "Western Bulldogs",
+    "label": "Model-ranked Top 3",
+    "top3": [
+      {
+        "model_rank": 1,
+        "player_name": "Ed Richards",
+        "player_team": "Western Bulldogs",
+        "allocated_expected_votes": 2.0073044094222077
+      },
+      {
+        "model_rank": 2,
+        "player_name": "Lachie Neale",
+        "player_team": "Brisbane Lions",
+        "allocated_expected_votes": 1.1959580496151494
+      },
+      {
+        "model_rank": 3,
+        "player_name": "Marcus Bontempelli",
+        "player_team": "Western Bulldogs",
+        "allocated_expected_votes": 0.5943942211704043
+      }
+    ]
+  },
+  {
+    "match_id": 17063,
+    "match_round": 0,
+    "home": "St Kilda",
+    "away": "Collingwood",
+    "label": "Model-ranked Top 3",
+    "top3": [
+      {
+        "model_rank": 1,
+        "player_name": "Nick Daicos",
+        "player_team": "Collingwood",
+        "allocated_expected_votes": 2.905471498392759
+      },
+      {
+        "model_rank": 2,
+        "player_name": "Jack Sinclair",
+        "player_team": "St Kilda",
+        "allocated_expected_votes": 0.8748360890320519
+      },
+      {
+        "model_rank": 3,
+        "player_name": "Josh Daicos",
+        "player_team": "Collingwood",
+        "allocated_expected_votes": 0.7423165783923785
+      }
+    ]
+  },
+  {
+    "match_id": 17064,
+    "match_round": 1,
+    "home": "Carlton",
+    "away": "Richmond",
+    "label": "Model-ranked Top 3",
+    "top3": [
+      {
+        "model_rank": 1,
+        "player_name": "Sam Walsh",
+        "player_team": "Carlton",
+        "allocated_expected_votes": 2.3840893328586055
+      },
+      {
+        "model_rank": 2,
+        "player_name": "Patrick Cripps",
+        "player_team": "Carlton",
+        "allocated_expected_votes": 1.7252866174658659
+      },
+      {
+        "model_rank": 3,
+        "player_name": "Jagga Smith",
+        "player_team": "Carlton",
+        "allocated_expected_votes": 0.8690387730369803
+      }
+    ]
+  },
+  {
+    "match_id": 17065,
+    "match_round": 1,
+    "home": "Essendon",
+    "away": "Hawthorn",
+    "label": "Model-ranked Top 3",
+    "top3": [
+      {
+        "model_rank": 1,
+        "player_name": "Nick Watson",
+        "player_team": "Hawthorn",
+        "allocated_expected_votes": 1.1775094882028163
+      },
+      {
+        "model_rank": 2,
+        "player_name": "Jack Gunston",
+        "player_team": "Hawthorn",
+        "allocated_expected_votes": 0.9246420475385545
+      },
+      {
+        "model_rank": 3,
+        "player_name": "James Sicily",
+        "player_team": "Hawthorn",
+        "allocated_expected_votes": 0.5066950912686902
+      }
+    ]
+  },
+  {
+    "match_id": 17066,
+    "match_round": 1,
+    "home": "Western Bulldogs",
+    "away": "Greater Western Sydney",
+    "label": "Model-ranked Top 3",
+    "top3": [
+      {
+        "model_rank": 1,
+        "player_name": "Marcus Bontempelli",
+        "player_team": "Western Bulldogs",
+        "allocated_expected_votes": 2.584977559547084
+      },
+      {
+        "model_rank": 2,
+        "player_name": "Aaron Naughton",
+        "player_team": "Western Bulldogs",
+        "allocated_expected_votes": 1.986079787009817
+      },
+      {
+        "model_rank": 3,
+        "player_name": "Tom Liberatore",
+        "player_team": "Western Bulldogs",
+        "allocated_expected_votes": 0.7273575017239116
+      }
+    ]
+  },
+  {
+    "match_id": 17067,
+    "match_round": 1,
+    "home": "Geelong",
+    "away": "Fremantle",
+    "label": "Model-ranked Top 3",
+    "top3": [
+      {
+        "model_rank": 1,
+        "player_name": "Max Holmes",
+        "player_team": "Geelong",
+        "allocated_expected_votes": 1.8729531740293888
+      },
+      {
+        "model_rank": 2,
+        "player_name": "Shannon Neale",
+        "player_team": "Geelong",
+        "allocated_expected_votes": 1.4004754412410039
+      },
+      {
+        "model_rank": 3,
+        "player_name": "Jeremy Cameron",
+        "player_team": "Geelong",
+        "allocated_expected_votes": 0.7571818159659662
+      }
+    ]
+  },
+  {
+    "match_id": 17068,
+    "match_round": 1,
+    "home": "Sydney",
+    "away": "Brisbane Lions",
+    "label": "Model-ranked Top 3",
+    "top3": [
+      {
+        "model_rank": 1,
+        "player_name": "Joel Amartey",
+        "player_team": "Sydney",
+        "allocated_expected_votes": 2.0526073883145077
+      },
+      {
+        "model_rank": 2,
+        "player_name": "Nick Blakey",
+        "player_team": "Sydney",
+        "allocated_expected_votes": 0.8423418448187698
+      },
+      {
+        "model_rank": 3,
+        "player_name": "Riley Bice",
+        "player_team": "Sydney",
+        "allocated_expected_votes": 0.667234233832468
+      }
+    ]
+  },
+  {
+    "match_id": 17069,
+    "match_round": 1,
+    "home": "Collingwood",
+    "away": "Adelaide",
+    "label": "Model-ranked Top 3",
+    "top3": [
+      {
+        "model_rank": 1,
+        "player_name": "Wayne Milera",
+        "player_team": "Adelaide",
+        "allocated_expected_votes": 1.6369845329287467
+      },
+      {
+        "model_rank": 2,
+        "player_name": "Nick Daicos",
+        "player_team": "Collingwood",
+        "allocated_expected_votes": 1.4067286761641495
+      },
+      {
+        "model_rank": 3,
+        "player_name": "Riley Thilthorpe",
+        "player_team": "Adelaide",
+        "allocated_expected_votes": 0.6382948925152727
+      }
+    ]
+  },
+  {
+    "match_id": 17070,
+    "match_round": 1,
+    "home": "North Melbourne",
+    "away": "Port Adelaide",
+    "label": "Model-ranked Top 3",
+    "top3": [
+      {
+        "model_rank": 1,
+        "player_name": "Harry Sheezel",
+        "player_team": "North Melbourne",
+        "allocated_expected_votes": 1.485833805364345
+      },
+      {
+        "model_rank": 2,
+        "player_name": "Luke Parker",
+        "player_team": "North Melbourne",
+        "allocated_expected_votes": 0.9371504972642126
+      },
+      {
+        "model_rank": 3,
+        "player_name": "Charlie Comben",
+        "player_team": "North Melbourne",
+        "allocated_expected_votes": 0.8850906018527469
+      }
+    ]
+  },
+  {
+    "match_id": 17071,
+    "match_round": 1,
+    "home": "Melbourne",
+    "away": "St Kilda",
+    "label": "Model-ranked Top 3",
+    "top3": [
+      {
+        "model_rank": 1,
+        "player_name": "Jacob van Rooyen",
+        "player_team": "Melbourne",
+        "allocated_expected_votes": 2.3187118128946476
+      },
+      {
+        "model_rank": 2,
+        "player_name": "Max Hall",
+        "player_team": "St Kilda",
+        "allocated_expected_votes": 1.2671306295525675
+      },
+      {
+        "model_rank": 3,
+        "player_name": "Max Gawn",
+        "player_team": "Melbourne",
+        "allocated_expected_votes": 1.0437392486203152
+      }
+    ]
+  },
+  {
+    "match_id": 17072,
+    "match_round": 1,
+    "home": "Gold Coast",
+    "away": "West Coast",
+    "label": "Model-ranked Top 3",
+    "top3": [
+      {
+        "model_rank": 1,
+        "player_name": "Christian Petracca",
+        "player_team": "Gold Coast",
+        "allocated_expected_votes": 2.6159015910604038
+      },
+      {
+        "model_rank": 2,
+        "player_name": "Noah Anderson",
+        "player_team": "Gold Coast",
+        "allocated_expected_votes": 1.70303841314481
+      },
+      {
+        "model_rank": 3,
+        "player_name": "Jarrod Witts",
+        "player_team": "Gold Coast",
+        "allocated_expected_votes": 0.9129974764097907
+      }
+    ]
+  },
+  {
+    "match_id": 17073,
+    "match_round": 2,
+    "home": "Hawthorn",
+    "away": "Sydney",
+    "label": "Model-ranked Top 3",
+    "top3": [
+      {
+        "model_rank": 1,
+        "player_name": "Jai Newcombe",
+        "player_team": "Hawthorn",
+        "allocated_expected_votes": 2.3991941988065193
+      },
+      {
+        "model_rank": 2,
+        "player_name": "Jack Gunston",
+        "player_team": "Hawthorn",
+        "allocated_expected_votes": 1.0682869542533555
+      },
+      {
+        "model_rank": 3,
+        "player_name": "Dylan Moore",
+        "player_team": "Hawthorn",
+        "allocated_expected_votes": 0.8498834989602331
+      }
+    ]
+  },
+  {
+    "match_id": 17074,
+    "match_round": 2,
+    "home": "Adelaide",
+    "away": "Western Bulldogs",
+    "label": "Model-ranked Top 3",
+    "top3": [
+      {
+        "model_rank": 1,
+        "player_name": "Marcus Bontempelli",
+        "player_team": "Western Bulldogs",
+        "allocated_expected_votes": 2.2933442142172082
+      },
+      {
+        "model_rank": 2,
+        "player_name": "Joel Freijah",
+        "player_team": "Western Bulldogs",
+        "allocated_expected_votes": 1.4889240346406531
+      },
+      {
+        "model_rank": 3,
+        "player_name": "Tom Liberatore",
+        "player_team": "Western Bulldogs",
+        "allocated_expected_votes": 0.46641144653783734
+      }
+    ]
+  },
+  {
+    "match_id": 17075,
+    "match_round": 2,
+    "home": "Richmond",
+    "away": "Gold Coast",
+    "label": "Model-ranked Top 3",
+    "top3": [
+      {
+        "model_rank": 1,
+        "player_name": "Ben King",
+        "player_team": "Gold Coast",
+        "allocated_expected_votes": 2.3190498533552844
+      },
+      {
+        "model_rank": 2,
+        "player_name": "Touk Miller",
+        "player_team": "Gold Coast",
+        "allocated_expected_votes": 1.6933476194832637
+      },
+      {
+        "model_rank": 3,
+        "player_name": "Bodhi Uwland",
+        "player_team": "Gold Coast",
+        "allocated_expected_votes": 0.6563896328891262
+      }
+    ]
+  },
+  {
+    "match_id": 17076,
+    "match_round": 2,
+    "home": "Greater Western Sydney",
+    "away": "St Kilda",
+    "label": "Model-ranked Top 3",
+    "top3": [
+      {
+        "model_rank": 1,
+        "player_name": "Callum Wilkie",
+        "player_team": "St Kilda",
+        "allocated_expected_votes": 1.2895397818454835
+      },
+      {
+        "model_rank": 2,
+        "player_name": "Lachie Ash",
+        "player_team": "Greater Western Sydney",
+        "allocated_expected_votes": 0.9727500483150356
+      },
+      {
+        "model_rank": 3,
+        "player_name": "Jack Sinclair",
+        "player_team": "St Kilda",
+        "allocated_expected_votes": 0.8231596320146912
+      }
+    ]
+  },
+  {
+    "match_id": 17077,
+    "match_round": 2,
+    "home": "Fremantle",
+    "away": "Melbourne",
+    "label": "Model-ranked Top 3",
+    "top3": [
+      {
+        "model_rank": 1,
+        "player_name": "Andrew Brayshaw",
+        "player_team": "Fremantle",
+        "allocated_expected_votes": 1.992166901979322
+      },
+      {
+        "model_rank": 2,
+        "player_name": "Shai Bolton",
+        "player_team": "Fremantle",
+        "allocated_expected_votes": 1.963450399299424
+      },
+      {
+        "model_rank": 3,
+        "player_name": "Josh Treacy",
+        "player_team": "Fremantle",
+        "allocated_expected_votes": 1.2743102778434805
+      }
+    ]
+  },
+  {
+    "match_id": 17078,
+    "match_round": 2,
+    "home": "Port Adelaide",
+    "away": "Essendon",
+    "label": "Model-ranked Top 3",
+    "top3": [
+      {
+        "model_rank": 1,
+        "player_name": "Zak Butters",
+        "player_team": "Port Adelaide",
+        "allocated_expected_votes": 2.503068517538547
+      },
+      {
+        "model_rank": 2,
+        "player_name": "Jason Horne-Francis",
+        "player_team": "Port Adelaide",
+        "allocated_expected_votes": 2.027508981831834
+      },
+      {
+        "model_rank": 3,
+        "player_name": "Aliir Aliir",
+        "player_team": "Port Adelaide",
+        "allocated_expected_votes": 0.4598670793399958
+      }
+    ]
+  },
+  {
+    "match_id": 17079,
+    "match_round": 2,
+    "home": "West Coast",
+    "away": "North Melbourne",
+    "label": "Model-ranked Top 3",
+    "top3": [
+      {
+        "model_rank": 1,
+        "player_name": "Harley Reid",
+        "player_team": "West Coast",
+        "allocated_expected_votes": 2.3583379747956745
+      },
+      {
+        "model_rank": 2,
+        "player_name": "Nick Larkey",
+        "player_team": "North Melbourne",
+        "allocated_expected_votes": 1.3365473118535258
+      },
+      {
+        "model_rank": 3,
+        "player_name": "Harry Sheezel",
+        "player_team": "North Melbourne",
+        "allocated_expected_votes": 0.947524850363219
+      }
+    ]
+  },
+  {
+    "match_id": 17080,
+    "match_round": 3,
+    "home": "Geelong",
+    "away": "Adelaide",
+    "label": "Model-ranked Top 3",
+    "top3": [
+      {
+        "model_rank": 1,
+        "player_name": "Bailey Smith",
+        "player_team": "Geelong",
+        "allocated_expected_votes": 2.353242603291282
+      },
+      {
+        "model_rank": 2,
+        "player_name": "Josh Rachele",
+        "player_team": "Adelaide",
+        "allocated_expected_votes": 0.9017489589345323
+      },
+      {
+        "model_rank": 3,
+        "player_name": "Max Holmes",
+        "player_team": "Geelong",
+        "allocated_expected_votes": 0.5978185592405164
+      }
+    ]
+  },
+  {
+    "match_id": 17081,
+    "match_round": 3,
+    "home": "Collingwood",
+    "away": "Greater Western Sydney",
+    "label": "Model-ranked Top 3",
+    "top3": [
+      {
+        "model_rank": 1,
+        "player_name": "Nick Daicos",
+        "player_team": "Collingwood",
+        "allocated_expected_votes": 2.8569175019232187
+      },
+      {
+        "model_rank": 2,
+        "player_name": "Tim Membrey",
+        "player_team": "Collingwood",
+        "allocated_expected_votes": 0.5208794556492147
+      },
+      {
+        "model_rank": 3,
+        "player_name": "Finn Callaghan",
+        "player_team": "Greater Western Sydney",
+        "allocated_expected_votes": 0.5191535848219779
+      }
+    ]
+  },
+  {
+    "match_id": 17082,
+    "match_round": 3,
+    "home": "St Kilda",
+    "away": "Brisbane Lions",
+    "label": "Model-ranked Top 3",
+    "top3": [
+      {
+        "model_rank": 1,
+        "player_name": "Will Ashcroft",
+        "player_team": "Brisbane Lions",
+        "allocated_expected_votes": 2.4519596195588385
+      },
+      {
+        "model_rank": 2,
+        "player_name": "Jarrod Berry",
+        "player_team": "Brisbane Lions",
+        "allocated_expected_votes": 1.2508772576556277
+      },
+      {
+        "model_rank": 3,
+        "player_name": "Lachie Neale",
+        "player_team": "Brisbane Lions",
+        "allocated_expected_votes": 0.7695530917597995
+      }
+    ]
+  },
+  {
+    "match_id": 17083,
+    "match_round": 3,
+    "home": "Fremantle",
+    "away": "Richmond",
+    "label": "Model-ranked Top 3",
+    "top3": [
+      {
+        "model_rank": 1,
+        "player_name": "Caleb Serong",
+        "player_team": "Fremantle",
+        "allocated_expected_votes": 2.390459188856519
+      },
+      {
+        "model_rank": 2,
+        "player_name": "Josh Treacy",
+        "player_team": "Fremantle",
+        "allocated_expected_votes": 1.720394401596748
+      },
+      {
+        "model_rank": 3,
+        "player_name": "Shai Bolton",
+        "player_team": "Fremantle",
+        "allocated_expected_votes": 1.2080620248872638
+      }
+    ]
+  },
+  {
+    "match_id": 17084,
+    "match_round": 3,
+    "home": "Essendon",
+    "away": "North Melbourne",
+    "label": "Model-ranked Top 3",
+    "top3": [
+      {
+        "model_rank": 1,
+        "player_name": "Harry Sheezel",
+        "player_team": "North Melbourne",
+        "allocated_expected_votes": 1.351470290678169
+      },
+      {
+        "model_rank": 2,
+        "player_name": "Colby McKercher",
+        "player_team": "North Melbourne",
+        "allocated_expected_votes": 1.287910097350052
+      },
+      {
+        "model_rank": 3,
+        "player_name": "Luke Parker",
+        "player_team": "North Melbourne",
+        "allocated_expected_votes": 0.8506266058319573
+      }
+    ]
+  },
+  {
+    "match_id": 17085,
+    "match_round": 3,
+    "home": "Port Adelaide",
+    "away": "West Coast",
+    "label": "Model-ranked Top 3",
+    "top3": [
+      {
+        "model_rank": 1,
+        "player_name": "Zak Butters",
+        "player_team": "Port Adelaide",
+        "allocated_expected_votes": 1.6689285657462922
+      },
+      {
+        "model_rank": 2,
+        "player_name": "Jake Waterman",
+        "player_team": "West Coast",
+        "allocated_expected_votes": 1.371102250928158
+      },
+      {
+        "model_rank": 3,
+        "player_name": "Harley Reid",
+        "player_team": "West Coast",
+        "allocated_expected_votes": 1.2250892802317743
+      }
+    ]
+  },
+  {
+    "match_id": 17086,
+    "match_round": 3,
+    "home": "Carlton",
+    "away": "Melbourne",
+    "label": "Model-ranked Top 3",
+    "top3": [
+      {
+        "model_rank": 1,
+        "player_name": "Kysaiah Pickett",
+        "player_team": "Melbourne",
+        "allocated_expected_votes": 2.2160396669697637
+      },
+      {
+        "model_rank": 2,
+        "player_name": "Max Gawn",
+        "player_team": "Melbourne",
+        "allocated_expected_votes": 1.014222655056792
+      },
+      {
+        "model_rank": 3,
+        "player_name": "Jack Steele",
+        "player_team": "Melbourne",
+        "allocated_expected_votes": 0.5871157532958902
+      }
+    ]
+  },
+  {
+    "match_id": 17087,
+    "match_round": 4,
+    "home": "Brisbane Lions",
+    "away": "Collingwood",
+    "label": "Model-ranked Top 3",
+    "top3": [
+      {
+        "model_rank": 1,
+        "player_name": "Will Ashcroft",
+        "player_team": "Brisbane Lions",
+        "allocated_expected_votes": 2.755808510110958
+      },
+      {
+        "model_rank": 2,
+        "player_name": "Lachie Neale",
+        "player_team": "Brisbane Lions",
+        "allocated_expected_votes": 1.4954075216980263
+      },
+      {
+        "model_rank": 3,
+        "player_name": "Zac Bailey",
+        "player_team": "Brisbane Lions",
+        "allocated_expected_votes": 0.9417904485087719
+      }
+    ]
+  },
+  {
+    "match_id": 17088,
+    "match_round": 4,
+    "home": "North Melbourne",
+    "away": "Carlton",
+    "label": "Model-ranked Top 3",
+    "top3": [
+      {
+        "model_rank": 1,
+        "player_name": "Caleb Daniel",
+        "player_team": "North Melbourne",
+        "allocated_expected_votes": 1.9652379405717748
+      },
+      {
+        "model_rank": 2,
+        "player_name": "Luke Davies-Uniacke",
+        "player_team": "North Melbourne",
+        "allocated_expected_votes": 0.8761604518606048
+      },
+      {
+        "model_rank": 3,
+        "player_name": "Dylan Stephens",
+        "player_team": "North Melbourne",
+        "allocated_expected_votes": 0.5342494830800968
+      }
+    ]
+  },
+  {
+    "match_id": 17089,
+    "match_round": 4,
+    "home": "Adelaide",
+    "away": "Fremantle",
+    "label": "Model-ranked Top 3",
+    "top3": [
+      {
+        "model_rank": 1,
+        "player_name": "Caleb Serong",
+        "player_team": "Fremantle",
+        "allocated_expected_votes": 2.0891723056395435
+      },
+      {
+        "model_rank": 2,
+        "player_name": "Andrew Brayshaw",
+        "player_team": "Fremantle",
+        "allocated_expected_votes": 0.7509806383019707
+      },
+      {
+        "model_rank": 3,
+        "player_name": "Jye Amiss",
+        "player_team": "Fremantle",
+        "allocated_expected_votes": 0.4524333698587195
+      }
+    ]
+  },
+  {
+    "match_id": 17090,
+    "match_round": 4,
+    "home": "Richmond",
+    "away": "Port Adelaide",
+    "label": "Model-ranked Top 3",
+    "top3": [
+      {
+        "model_rank": 1,
+        "player_name": "Aliir Aliir",
+        "player_team": "Port Adelaide",
+        "allocated_expected_votes": 2.2088218217567097
+      },
+      {
+        "model_rank": 2,
+        "player_name": "Zak Butters",
+        "player_team": "Port Adelaide",
+        "allocated_expected_votes": 2.054598494085297
+      },
+      {
+        "model_rank": 3,
+        "player_name": "Kane Farrell",
+        "player_team": "Port Adelaide",
+        "allocated_expected_votes": 0.6527314720306131
+      }
+    ]
+  },
+  {
+    "match_id": 17091,
+    "match_round": 4,
+    "home": "West Coast",
+    "away": "Sydney",
+    "label": "Model-ranked Top 3",
+    "top3": [
+      {
+        "model_rank": 1,
+        "player_name": "Isaac Heeney",
+        "player_team": "Sydney",
+        "allocated_expected_votes": 2.334653406093962
+      },
+      {
+        "model_rank": 2,
+        "player_name": "Brodie Grundy",
+        "player_team": "Sydney",
+        "allocated_expected_votes": 2.2042871360320917
+      },
+      {
+        "model_rank": 3,
+        "player_name": "Tom Papley",
+        "player_team": "Sydney",
+        "allocated_expected_votes": 0.7200248919215543
+      }
+    ]
+  },
+  {
+    "match_id": 17092,
+    "match_round": 4,
+    "home": "Melbourne",
+    "away": "Gold Coast",
+    "label": "Model-ranked Top 3",
+    "top3": [
+      {
+        "model_rank": 1,
+        "player_name": "Max Gawn",
+        "player_team": "Melbourne",
+        "allocated_expected_votes": 2.329343091914655
+      },
+      {
+        "model_rank": 2,
+        "player_name": "Jack Steele",
+        "player_team": "Melbourne",
+        "allocated_expected_votes": 1.761466025546351
+      },
+      {
+        "model_rank": 3,
+        "player_name": "Kysaiah Pickett",
+        "player_team": "Melbourne",
+        "allocated_expected_votes": 1.149040982530999
+      }
+    ]
+  },
+  {
+    "match_id": 17093,
+    "match_round": 4,
+    "home": "Western Bulldogs",
+    "away": "Essendon",
+    "label": "Model-ranked Top 3",
+    "top3": [
+      {
+        "model_rank": 1,
+        "player_name": "Marcus Bontempelli",
+        "player_team": "Western Bulldogs",
+        "allocated_expected_votes": 2.534078404889714
+      },
+      {
+        "model_rank": 2,
+        "player_name": "Matthew Kennedy",
+        "player_team": "Western Bulldogs",
+        "allocated_expected_votes": 1.9224488555662353
+      },
+      {
+        "model_rank": 3,
+        "player_name": "Zach Merrett",
+        "player_team": "Essendon",
+        "allocated_expected_votes": 0.4167332456236772
+      }
+    ]
+  },
+  {
+    "match_id": 17094,
+    "match_round": 4,
+    "home": "Hawthorn",
+    "away": "Geelong",
+    "label": "Model-ranked Top 3",
+    "top3": [
+      {
+        "model_rank": 1,
+        "player_name": "Bailey Smith",
+        "player_team": "Geelong",
+        "allocated_expected_votes": 1.2761961457189563
+      },
+      {
+        "model_rank": 2,
+        "player_name": "Connor Macdonald",
+        "player_team": "Hawthorn",
+        "allocated_expected_votes": 0.562347619047818
+      },
+      {
+        "model_rank": 3,
+        "player_name": "Josh Ward",
+        "player_team": "Hawthorn",
+        "allocated_expected_votes": 0.4542657265523721
+      }
+    ]
+  },
+  {
+    "match_id": 17095,
+    "match_round": 5,
+    "home": "Adelaide",
+    "away": "Carlton",
+    "label": "Model-ranked Top 3",
+    "top3": [
+      {
+        "model_rank": 1,
+        "player_name": "Josh Rachele",
+        "player_team": "Adelaide",
+        "allocated_expected_votes": 2.3872203249979385
+      },
+      {
+        "model_rank": 2,
+        "player_name": "Sam Berry",
+        "player_team": "Adelaide",
+        "allocated_expected_votes": 0.8326625396807865
+      },
+      {
+        "model_rank": 3,
+        "player_name": "Izak Rankine",
+        "player_team": "Adelaide",
+        "allocated_expected_votes": 0.4311804351873623
+      }
+    ]
+  },
+  {
+    "match_id": 17096,
+    "match_round": 5,
+    "home": "Collingwood",
+    "away": "Fremantle",
+    "label": "Model-ranked Top 3",
+    "top3": [
+      {
+        "model_rank": 1,
+        "player_name": "Luke Jackson",
+        "player_team": "Fremantle",
+        "allocated_expected_votes": 1.4606919343709006
+      },
+      {
+        "model_rank": 2,
+        "player_name": "Nick Daicos",
+        "player_team": "Collingwood",
+        "allocated_expected_votes": 1.4450939918080006
+      },
+      {
+        "model_rank": 3,
+        "player_name": "Luke Ryan",
+        "player_team": "Fremantle",
+        "allocated_expected_votes": 0.6693835085924144
+      }
+    ]
+  },
+  {
+    "match_id": 17097,
+    "match_round": 5,
+    "home": "North Melbourne",
+    "away": "Brisbane Lions",
+    "label": "Model-ranked Top 3",
+    "top3": [
+      {
+        "model_rank": 1,
+        "player_name": "Lachie Neale",
+        "player_team": "Brisbane Lions",
+        "allocated_expected_votes": 2.322545326223793
+      },
+      {
+        "model_rank": 2,
+        "player_name": "Luke Davies-Uniacke",
+        "player_team": "North Melbourne",
+        "allocated_expected_votes": 0.8787173755356908
+      },
+      {
+        "model_rank": 3,
+        "player_name": "Zac Bailey",
+        "player_team": "Brisbane Lions",
+        "allocated_expected_votes": 0.7712148965463619
+      }
+    ]
+  },
+  {
+    "match_id": 17098,
+    "match_round": 5,
+    "home": "Essendon",
+    "away": "Melbourne",
+    "label": "Model-ranked Top 3",
+    "top3": [
+      {
+        "model_rank": 1,
+        "player_name": "Archie Roberts",
+        "player_team": "Essendon",
+        "allocated_expected_votes": 2.3830242932501955
+      },
+      {
+        "model_rank": 2,
+        "player_name": "Darcy Parish",
+        "player_team": "Essendon",
+        "allocated_expected_votes": 1.4160952834957445
+      },
+      {
+        "model_rank": 3,
+        "player_name": "Zach Merrett",
+        "player_team": "Essendon",
+        "allocated_expected_votes": 0.8973095263927505
+      }
+    ]
+  },
+  {
+    "match_id": 17099,
+    "match_round": 5,
+    "home": "Sydney",
+    "away": "Gold Coast",
+    "label": "Model-ranked Top 3",
+    "top3": [
+      {
+        "model_rank": 1,
+        "player_name": "Isaac Heeney",
+        "player_team": "Sydney",
+        "allocated_expected_votes": 2.6089527458728656
+      },
+      {
+        "model_rank": 2,
+        "player_name": "Justin McInerney",
+        "player_team": "Sydney",
+        "allocated_expected_votes": 1.0722543224957302
+      },
+      {
+        "model_rank": 3,
+        "player_name": "Brodie Grundy",
+        "player_team": "Sydney",
+        "allocated_expected_votes": 0.8203045409941694
+      }
+    ]
+  },
+  {
+    "match_id": 17100,
+    "match_round": 5,
+    "home": "Hawthorn",
+    "away": "Western Bulldogs",
+    "label": "Model-ranked Top 3",
+    "top3": [
+      {
+        "model_rank": 1,
+        "player_name": "Jai Newcombe",
+        "player_team": "Hawthorn",
+        "allocated_expected_votes": 2.4503674260919315
+      },
+      {
+        "model_rank": 2,
+        "player_name": "Jack Ginnivan",
+        "player_team": "Hawthorn",
+        "allocated_expected_votes": 1.3134814516711502
+      },
+      {
+        "model_rank": 3,
+        "player_name": "Josh Battle",
+        "player_team": "Hawthorn",
+        "allocated_expected_votes": 0.3143389323180147
+      }
+    ]
+  },
+  {
+    "match_id": 17101,
+    "match_round": 5,
+    "home": "Geelong",
+    "away": "West Coast",
+    "label": "Model-ranked Top 3",
+    "top3": [
+      {
+        "model_rank": 1,
+        "player_name": "Bailey Smith",
+        "player_team": "Geelong",
+        "allocated_expected_votes": 2.0437205718917024
+      },
+      {
+        "model_rank": 2,
+        "player_name": "Max Holmes",
+        "player_team": "Geelong",
+        "allocated_expected_votes": 1.5575630183113067
+      },
+      {
+        "model_rank": 3,
+        "player_name": "Tanner Bruhn",
+        "player_team": "Geelong",
+        "allocated_expected_votes": 0.7855026986492658
+      }
+    ]
+  },
+  {
+    "match_id": 17102,
+    "match_round": 5,
+    "home": "Greater Western Sydney",
+    "away": "Richmond",
+    "label": "Model-ranked Top 3",
+    "top3": [
+      {
+        "model_rank": 1,
+        "player_name": "Finn Callaghan",
+        "player_team": "Greater Western Sydney",
+        "allocated_expected_votes": 2.245296963431405
+      },
+      {
+        "model_rank": 2,
+        "player_name": "Clayton Oliver",
+        "player_team": "Greater Western Sydney",
+        "allocated_expected_votes": 1.1991827180701249
+      },
+      {
+        "model_rank": 3,
+        "player_name": "Toby Greene",
+        "player_team": "Greater Western Sydney",
+        "allocated_expected_votes": 0.5318406190404645
+      }
+    ]
+  },
+  {
+    "match_id": 17103,
+    "match_round": 5,
+    "home": "Port Adelaide",
+    "away": "St Kilda",
+    "label": "Model-ranked Top 3",
+    "top3": [
+      {
+        "model_rank": 1,
+        "player_name": "Nasiah Wanganeen-Milera",
+        "player_team": "St Kilda",
+        "allocated_expected_votes": 2.421733841810322
+      },
+      {
+        "model_rank": 2,
+        "player_name": "Zak Butters",
+        "player_team": "Port Adelaide",
+        "allocated_expected_votes": 2.0895530416095487
+      },
+      {
+        "model_rank": 3,
+        "player_name": "Jason Horne-Francis",
+        "player_team": "Port Adelaide",
+        "allocated_expected_votes": 0.7123996957126484
+      }
+    ]
+  },
+  {
+    "match_id": 17104,
+    "match_round": 6,
+    "home": "Carlton",
+    "away": "Collingwood",
+    "label": "Model-ranked Top 3",
+    "top3": [
+      {
+        "model_rank": 1,
+        "player_name": "Nick Daicos",
+        "player_team": "Collingwood",
+        "allocated_expected_votes": 2.736542277705687
+      },
+      {
+        "model_rank": 2,
+        "player_name": "Sam Walsh",
+        "player_team": "Carlton",
+        "allocated_expected_votes": 0.4175389620842953
+      },
+      {
+        "model_rank": 3,
+        "player_name": "Jamie Elliott",
+        "player_team": "Collingwood",
+        "allocated_expected_votes": 0.3512809861489008
+      }
+    ]
+  },
+  {
+    "match_id": 17105,
+    "match_round": 6,
+    "home": "Geelong",
+    "away": "Western Bulldogs",
+    "label": "Model-ranked Top 3",
+    "top3": [
+      {
+        "model_rank": 1,
+        "player_name": "Jeremy Cameron",
+        "player_team": "Geelong",
+        "allocated_expected_votes": 2.8501363538611426
+      },
+      {
+        "model_rank": 2,
+        "player_name": "Bailey Smith",
+        "player_team": "Geelong",
+        "allocated_expected_votes": 1.8283409368452284
+      },
+      {
+        "model_rank": 3,
+        "player_name": "Max Holmes",
+        "player_team": "Geelong",
+        "allocated_expected_votes": 0.6764811471343725
+      }
+    ]
+  },
+  {
+    "match_id": 17106,
+    "match_round": 6,
+    "home": "Sydney",
+    "away": "Greater Western Sydney",
+    "label": "Model-ranked Top 3",
+    "top3": [
+      {
+        "model_rank": 1,
+        "player_name": "Nick Blakey",
+        "player_team": "Sydney",
+        "allocated_expected_votes": 1.864791370978344
+      },
+      {
+        "model_rank": 2,
+        "player_name": "Clayton Oliver",
+        "player_team": "Greater Western Sydney",
+        "allocated_expected_votes": 1.2199337373613537
+      },
+      {
+        "model_rank": 3,
+        "player_name": "Brodie Grundy",
+        "player_team": "Sydney",
+        "allocated_expected_votes": 0.8533836353970371
+      }
+    ]
+  },
+  {
+    "match_id": 17107,
+    "match_round": 6,
+    "home": "Gold Coast",
+    "away": "Essendon",
+    "label": "Model-ranked Top 3",
+    "top3": [
+      {
+        "model_rank": 1,
+        "player_name": "Christian Petracca",
+        "player_team": "Gold Coast",
+        "allocated_expected_votes": 2.039259994515915
+      },
+      {
+        "model_rank": 2,
+        "player_name": "Matt Rowell",
+        "player_team": "Gold Coast",
+        "allocated_expected_votes": 1.7264046111769755
+      },
+      {
+        "model_rank": 3,
+        "player_name": "Zach Merrett",
+        "player_team": "Essendon",
+        "allocated_expected_votes": 0.8623899790592597
+      }
+    ]
+  },
+  {
+    "match_id": 17108,
+    "match_round": 6,
+    "home": "Hawthorn",
+    "away": "Port Adelaide",
+    "label": "Model-ranked Top 3",
+    "top3": [
+      {
+        "model_rank": 1,
+        "player_name": "Zak Butters",
+        "player_team": "Port Adelaide",
+        "allocated_expected_votes": 1.988006911171257
+      },
+      {
+        "model_rank": 2,
+        "player_name": "Jason Horne-Francis",
+        "player_team": "Port Adelaide",
+        "allocated_expected_votes": 1.8120228770133773
+      },
+      {
+        "model_rank": 3,
+        "player_name": "Nick Watson",
+        "player_team": "Hawthorn",
+        "allocated_expected_votes": 1.3305243722229518
+      }
+    ]
+  },
+  {
+    "match_id": 17109,
+    "match_round": 6,
+    "home": "Adelaide",
+    "away": "St Kilda",
+    "label": "Model-ranked Top 3",
+    "top3": [
+      {
+        "model_rank": 1,
+        "player_name": "Taylor Walker",
+        "player_team": "Adelaide",
+        "allocated_expected_votes": 2.3622854396266946
+      },
+      {
+        "model_rank": 2,
+        "player_name": "Jack Sinclair",
+        "player_team": "St Kilda",
+        "allocated_expected_votes": 0.8200105837191156
+      },
+      {
+        "model_rank": 3,
+        "player_name": "Callum Wilkie",
+        "player_team": "St Kilda",
+        "allocated_expected_votes": 0.4132346364131808
+      }
+    ]
+  },
+  {
+    "match_id": 17110,
+    "match_round": 6,
+    "home": "North Melbourne",
+    "away": "Richmond",
+    "label": "Model-ranked Top 3",
+    "top3": [
+      {
+        "model_rank": 1,
+        "player_name": "Harry Sheezel",
+        "player_team": "North Melbourne",
+        "allocated_expected_votes": 2.9604651377959623
+      },
+      {
+        "model_rank": 2,
+        "player_name": "Paul Curtis",
+        "player_team": "North Melbourne",
+        "allocated_expected_votes": 1.9316867837144076
+      },
+      {
+        "model_rank": 3,
+        "player_name": "Luke Davies-Uniacke",
+        "player_team": "North Melbourne",
+        "allocated_expected_votes": 0.2732921746197003
+      }
+    ]
+  },
+  {
+    "match_id": 17111,
+    "match_round": 6,
+    "home": "Melbourne",
+    "away": "Brisbane Lions",
+    "label": "Model-ranked Top 3",
+    "top3": [
+      {
+        "model_rank": 1,
+        "player_name": "Harvey Langford",
+        "player_team": "Melbourne",
+        "allocated_expected_votes": 1.7110121110936958
+      },
+      {
+        "model_rank": 2,
+        "player_name": "Lachie Neale",
+        "player_team": "Brisbane Lions",
+        "allocated_expected_votes": 1.0730862256340856
+      },
+      {
+        "model_rank": 3,
+        "player_name": "Kade Chandler",
+        "player_team": "Melbourne",
+        "allocated_expected_votes": 0.5058300166042359
+      }
+    ]
+  },
+  {
+    "match_id": 17112,
+    "match_round": 6,
+    "home": "West Coast",
+    "away": "Fremantle",
+    "label": "Model-ranked Top 3",
+    "top3": [
+      {
+        "model_rank": 1,
+        "player_name": "Jye Amiss",
+        "player_team": "Fremantle",
+        "allocated_expected_votes": 2.3964714993890937
+      },
+      {
+        "model_rank": 2,
+        "player_name": "Jordan Clark",
+        "player_team": "Fremantle",
+        "allocated_expected_votes": 1.50998203244606
+      },
+      {
+        "model_rank": 3,
+        "player_name": "Caleb Serong",
+        "player_team": "Fremantle",
+        "allocated_expected_votes": 0.6921017467073471
+      }
+    ]
+  },
+  {
+    "match_id": 17113,
+    "match_round": 7,
+    "home": "Western Bulldogs",
+    "away": "Sydney",
+    "label": "Model-ranked Top 3",
+    "top3": [
+      {
+        "model_rank": 1,
+        "player_name": "Charlie Curnow",
+        "player_team": "Sydney",
+        "allocated_expected_votes": 2.6184347791089078
+      },
+      {
+        "model_rank": 2,
+        "player_name": "Marcus Bontempelli",
+        "player_team": "Western Bulldogs",
+        "allocated_expected_votes": 1.2693793929605728
+      },
+      {
+        "model_rank": 3,
+        "player_name": "Brodie Grundy",
+        "player_team": "Sydney",
+        "allocated_expected_votes": 1.2350018872100714
+      }
+    ]
+  },
+  {
+    "match_id": 17114,
+    "match_round": 7,
+    "home": "Richmond",
+    "away": "Melbourne",
+    "label": "Model-ranked Top 3",
+    "top3": [
+      {
+        "model_rank": 1,
+        "player_name": "Kysaiah Pickett",
+        "player_team": "Melbourne",
+        "allocated_expected_votes": 2.762296310794892
+      },
+      {
+        "model_rank": 2,
+        "player_name": "Tom Sparrow",
+        "player_team": "Melbourne",
+        "allocated_expected_votes": 1.26146592998725
+      },
+      {
+        "model_rank": 3,
+        "player_name": "Caleb Windsor",
+        "player_team": "Melbourne",
+        "allocated_expected_votes": 0.9294289998934868
+      }
+    ]
+  },
+  {
+    "match_id": 17115,
+    "match_round": 7,
+    "home": "Hawthorn",
+    "away": "Gold Coast",
+    "label": "Model-ranked Top 3",
+    "top3": [
+      {
+        "model_rank": 1,
+        "player_name": "Jack Gunston",
+        "player_team": "Hawthorn",
+        "allocated_expected_votes": 2.050444048648619
+      },
+      {
+        "model_rank": 2,
+        "player_name": "Jai Newcombe",
+        "player_team": "Hawthorn",
+        "allocated_expected_votes": 1.7465444405563593
+      },
+      {
+        "model_rank": 3,
+        "player_name": "Karl Amon",
+        "player_team": "Hawthorn",
+        "allocated_expected_votes": 0.5922813319894891
+      }
+    ]
+  },
+  {
+    "match_id": 17116,
+    "match_round": 7,
+    "home": "Essendon",
+    "away": "Collingwood",
+    "label": "Model-ranked Top 3",
+    "top3": [
+      {
+        "model_rank": 1,
+        "player_name": "Scott Pendlebury",
+        "player_team": "Collingwood",
+        "allocated_expected_votes": 2.811893439465177
+      },
+      {
+        "model_rank": 2,
+        "player_name": "Nick Daicos",
+        "player_team": "Collingwood",
+        "allocated_expected_votes": 2.363946315585058
+      },
+      {
+        "model_rank": 3,
+        "player_name": "Josh Daicos",
+        "player_team": "Collingwood",
+        "allocated_expected_votes": 0.32185735669484905
+      }
+    ]
+  },
+  {
+    "match_id": 17117,
+    "match_round": 7,
+    "home": "Port Adelaide",
+    "away": "Geelong",
+    "label": "Model-ranked Top 3",
+    "top3": [
+      {
+        "model_rank": 1,
+        "player_name": "Jason Horne-Francis",
+        "player_team": "Port Adelaide",
+        "allocated_expected_votes": 2.7262973701632363
+      },
+      {
+        "model_rank": 2,
+        "player_name": "Mitch Georgiades",
+        "player_team": "Port Adelaide",
+        "allocated_expected_votes": 1.607217156478758
+      },
+      {
+        "model_rank": 3,
+        "player_name": "Zak Butters",
+        "player_team": "Port Adelaide",
+        "allocated_expected_votes": 1.1956630505691714
+      }
+    ]
+  },
+  {
+    "match_id": 17118,
+    "match_round": 7,
+    "home": "Fremantle",
+    "away": "Carlton",
+    "label": "Model-ranked Top 3",
+    "top3": [
+      {
+        "model_rank": 1,
+        "player_name": "Shai Bolton",
+        "player_team": "Fremantle",
+        "allocated_expected_votes": 2.2330455832238822
+      },
+      {
+        "model_rank": 2,
+        "player_name": "Luke Jackson",
+        "player_team": "Fremantle",
+        "allocated_expected_votes": 1.5438053637040208
+      },
+      {
+        "model_rank": 3,
+        "player_name": "Sam Walsh",
+        "player_team": "Carlton",
+        "allocated_expected_votes": 0.8899419501459169
+      }
+    ]
+  },
+  {
+    "match_id": 17119,
+    "match_round": 7,
+    "home": "St Kilda",
+    "away": "West Coast",
+    "label": "Model-ranked Top 3",
+    "top3": [
+      {
+        "model_rank": 1,
+        "player_name": "Jack Higgins",
+        "player_team": "St Kilda",
+        "allocated_expected_votes": 1.7736611084263472
+      },
+      {
+        "model_rank": 2,
+        "player_name": "Nasiah Wanganeen-Milera",
+        "player_team": "St Kilda",
+        "allocated_expected_votes": 1.5789275013534005
+      },
+      {
+        "model_rank": 3,
+        "player_name": "Hugo Garcia",
+        "player_team": "St Kilda",
+        "allocated_expected_votes": 1.517568579239497
+      }
+    ]
+  },
+  {
+    "match_id": 17120,
+    "match_round": 7,
+    "home": "Brisbane Lions",
+    "away": "Adelaide",
+    "label": "Model-ranked Top 3",
+    "top3": [
+      {
+        "model_rank": 1,
+        "player_name": "Lachie Neale",
+        "player_team": "Brisbane Lions",
+        "allocated_expected_votes": 2.5820702360873202
+      },
+      {
+        "model_rank": 2,
+        "player_name": "Zac Bailey",
+        "player_team": "Brisbane Lions",
+        "allocated_expected_votes": 1.2001838380000744
+      },
+      {
+        "model_rank": 3,
+        "player_name": "Will Ashcroft",
+        "player_team": "Brisbane Lions",
+        "allocated_expected_votes": 1.0571656344610572
+      }
+    ]
+  },
+  {
+    "match_id": 17121,
+    "match_round": 7,
+    "home": "Greater Western Sydney",
+    "away": "North Melbourne",
+    "label": "Model-ranked Top 3",
+    "top3": [
+      {
+        "model_rank": 1,
+        "player_name": "Toby Greene",
+        "player_team": "Greater Western Sydney",
+        "allocated_expected_votes": 2.1099363518016765
+      },
+      {
+        "model_rank": 2,
+        "player_name": "Harry Sheezel",
+        "player_team": "North Melbourne",
+        "allocated_expected_votes": 1.1233147896624345
+      },
+      {
+        "model_rank": 3,
+        "player_name": "Lachie Ash",
+        "player_team": "Greater Western Sydney",
+        "allocated_expected_votes": 0.6689194838981551
+      }
+    ]
+  },
+  {
+    "match_id": 17122,
+    "match_round": 8,
+    "home": "Collingwood",
+    "away": "Hawthorn",
+    "label": "Model-ranked Top 3",
+    "top3": [
+      {
+        "model_rank": 1,
+        "player_name": "Connor Macdonald",
+        "player_team": "Hawthorn",
+        "allocated_expected_votes": 1.3803537298709185
+      },
+      {
+        "model_rank": 2,
+        "player_name": "Nick Daicos",
+        "player_team": "Collingwood",
+        "allocated_expected_votes": 1.2873482227520792
+      },
+      {
+        "model_rank": 3,
+        "player_name": "Dan Houston",
+        "player_team": "Collingwood",
+        "allocated_expected_votes": 0.6722304521866682
+      }
+    ]
+  },
+  {
+    "match_id": 17123,
+    "match_round": 8,
+    "home": "Western Bulldogs",
+    "away": "Fremantle",
+    "label": "Model-ranked Top 3",
+    "top3": [
+      {
+        "model_rank": 1,
+        "player_name": "Shai Bolton",
+        "player_team": "Fremantle",
+        "allocated_expected_votes": 1.7221474877197205
+      },
+      {
+        "model_rank": 2,
+        "player_name": "Marcus Bontempelli",
+        "player_team": "Western Bulldogs",
+        "allocated_expected_votes": 1.600134412022234
+      },
+      {
+        "model_rank": 3,
+        "player_name": "Luke Jackson",
+        "player_team": "Fremantle",
+        "allocated_expected_votes": 0.9241086885878586
+      }
+    ]
+  },
+  {
+    "match_id": 17124,
+    "match_round": 8,
+    "home": "Adelaide",
+    "away": "Port Adelaide",
+    "label": "Model-ranked Top 3",
+    "top3": [
+      {
+        "model_rank": 1,
+        "player_name": "Sam Berry",
+        "player_team": "Adelaide",
+        "allocated_expected_votes": 1.4858198376786798
+      },
+      {
+        "model_rank": 2,
+        "player_name": "Ollie Wines",
+        "player_team": "Port Adelaide",
+        "allocated_expected_votes": 1.01684850435717
+      },
+      {
+        "model_rank": 3,
+        "player_name": "Zak Butters",
+        "player_team": "Port Adelaide",
+        "allocated_expected_votes": 0.6002252659155084
+      }
+    ]
+  },
+  {
+    "match_id": 17125,
+    "match_round": 8,
+    "home": "Essendon",
+    "away": "Brisbane Lions",
+    "label": "Model-ranked Top 3",
+    "top3": [
+      {
+        "model_rank": 1,
+        "player_name": "Darcy Wilmot",
+        "player_team": "Brisbane Lions",
+        "allocated_expected_votes": 1.5677820620003824
+      },
+      {
+        "model_rank": 2,
+        "player_name": "Hugh McCluggage",
+        "player_team": "Brisbane Lions",
+        "allocated_expected_votes": 1.2527329764229052
+      },
+      {
+        "model_rank": 3,
+        "player_name": "Zac Bailey",
+        "player_team": "Brisbane Lions",
+        "allocated_expected_votes": 0.8158435354268955
+      }
+    ]
+  },
+  {
+    "match_id": 17126,
+    "match_round": 8,
+    "home": "West Coast",
+    "away": "Richmond",
+    "label": "Model-ranked Top 3",
+    "top3": [
+      {
+        "model_rank": 1,
+        "player_name": "Noah Balta",
+        "player_team": "Richmond",
+        "allocated_expected_votes": 2.029490164087605
+      },
+      {
+        "model_rank": 2,
+        "player_name": "Harley Reid",
+        "player_team": "West Coast",
+        "allocated_expected_votes": 1.361337732606263
+      },
+      {
+        "model_rank": 3,
+        "player_name": "Jack Ross",
+        "player_team": "Richmond",
+        "allocated_expected_votes": 1.276777754228762
+      }
+    ]
+  },
+  {
+    "match_id": 17127,
+    "match_round": 8,
+    "home": "Geelong",
+    "away": "North Melbourne",
+    "label": "Model-ranked Top 3",
+    "top3": [
+      {
+        "model_rank": 1,
+        "player_name": "Max Holmes",
+        "player_team": "Geelong",
+        "allocated_expected_votes": 2.1765315297489227
+      },
+      {
+        "model_rank": 2,
+        "player_name": "Shaun Mannagh",
+        "player_team": "Geelong",
+        "allocated_expected_votes": 0.9135915051831386
+      },
+      {
+        "model_rank": 3,
+        "player_name": "Tristan Xerri",
+        "player_team": "North Melbourne",
+        "allocated_expected_votes": 0.7548596202144741
+      }
+    ]
+  },
+  {
+    "match_id": 17128,
+    "match_round": 8,
+    "home": "Carlton",
+    "away": "St Kilda",
+    "label": "Model-ranked Top 3",
+    "top3": [
+      {
+        "model_rank": 1,
+        "player_name": "Rowan Marshall",
+        "player_team": "St Kilda",
+        "allocated_expected_votes": 2.519628526965338
+      },
+      {
+        "model_rank": 2,
+        "player_name": "Nasiah Wanganeen-Milera",
+        "player_team": "St Kilda",
+        "allocated_expected_votes": 1.8430580496140343
+      },
+      {
+        "model_rank": 3,
+        "player_name": "Cooper Sharman",
+        "player_team": "St Kilda",
+        "allocated_expected_votes": 0.5628547435353031
+      }
+    ]
+  },
+  {
+    "match_id": 17129,
+    "match_round": 8,
+    "home": "Sydney",
+    "away": "Melbourne",
+    "label": "Model-ranked Top 3",
+    "top3": [
+      {
+        "model_rank": 1,
+        "player_name": "Malcolm Rosas",
+        "player_team": "Sydney",
+        "allocated_expected_votes": 2.228471211365416
+      },
+      {
+        "model_rank": 2,
+        "player_name": "Isaac Heeney",
+        "player_team": "Sydney",
+        "allocated_expected_votes": 1.4317300083267166
+      },
+      {
+        "model_rank": 3,
+        "player_name": "Brodie Grundy",
+        "player_team": "Sydney",
+        "allocated_expected_votes": 1.3998080582851493
+      }
+    ]
+  },
+  {
+    "match_id": 17130,
+    "match_round": 8,
+    "home": "Gold Coast",
+    "away": "Greater Western Sydney",
+    "label": "Model-ranked Top 3",
+    "top3": [
+      {
+        "model_rank": 1,
+        "player_name": "Christian Petracca",
+        "player_team": "Gold Coast",
+        "allocated_expected_votes": 2.210099851922142
+      },
+      {
+        "model_rank": 2,
+        "player_name": "John Noble",
+        "player_team": "Gold Coast",
+        "allocated_expected_votes": 1.8740357615082464
+      },
+      {
+        "model_rank": 3,
+        "player_name": "Clayton Oliver",
+        "player_team": "Greater Western Sydney",
+        "allocated_expected_votes": 0.4751061922356274
+      }
+    ]
+  },
+  {
+    "match_id": 17131,
+    "match_round": 9,
+    "home": "Fremantle",
+    "away": "Hawthorn",
+    "label": "Model-ranked Top 3",
+    "top3": [
+      {
+        "model_rank": 1,
+        "player_name": "Jack Gunston",
+        "player_team": "Hawthorn",
+        "allocated_expected_votes": 1.9253603279848146
+      },
+      {
+        "model_rank": 2,
+        "player_name": "Luke Jackson",
+        "player_team": "Fremantle",
+        "allocated_expected_votes": 1.7820039393480291
+      },
+      {
+        "model_rank": 3,
+        "player_name": "Caleb Serong",
+        "player_team": "Fremantle",
+        "allocated_expected_votes": 1.134869158271917
+      }
+    ]
+  },
+  {
+    "match_id": 17132,
+    "match_round": 9,
+    "home": "Brisbane Lions",
+    "away": "Carlton",
+    "label": "Model-ranked Top 3",
+    "top3": [
+      {
+        "model_rank": 1,
+        "player_name": "Lachie Neale",
+        "player_team": "Brisbane Lions",
+        "allocated_expected_votes": 2.418303235567806
+      },
+      {
+        "model_rank": 2,
+        "player_name": "Patrick Cripps",
+        "player_team": "Carlton",
+        "allocated_expected_votes": 1.0877892902414428
+      },
+      {
+        "model_rank": 3,
+        "player_name": "Ryan Lester",
+        "player_team": "Brisbane Lions",
+        "allocated_expected_votes": 0.7267127312219528
+      }
+    ]
+  },
+  {
+    "match_id": 17133,
+    "match_round": 9,
+    "home": "Port Adelaide",
+    "away": "Western Bulldogs",
+    "label": "Model-ranked Top 3",
+    "top3": [
+      {
+        "model_rank": 1,
+        "player_name": "Marcus Bontempelli",
+        "player_team": "Western Bulldogs",
+        "allocated_expected_votes": 2.2743317768252025
+      },
+      {
+        "model_rank": 2,
+        "player_name": "Ryley Sanders",
+        "player_team": "Western Bulldogs",
+        "allocated_expected_votes": 1.198663643785251
+      },
+      {
+        "model_rank": 3,
+        "player_name": "Zak Butters",
+        "player_team": "Port Adelaide",
+        "allocated_expected_votes": 0.6902716137044418
+      }
+    ]
+  },
+  {
+    "match_id": 17134,
+    "match_round": 9,
+    "home": "North Melbourne",
+    "away": "Sydney",
+    "label": "Model-ranked Top 3",
+    "top3": [
+      {
+        "model_rank": 1,
+        "player_name": "Luke Davies-Uniacke",
+        "player_team": "North Melbourne",
+        "allocated_expected_votes": 1.9499293277247116
+      },
+      {
+        "model_rank": 2,
+        "player_name": "Isaac Heeney",
+        "player_team": "Sydney",
+        "allocated_expected_votes": 1.2968794667307328
+      },
+      {
+        "model_rank": 3,
+        "player_name": "Harry Sheezel",
+        "player_team": "North Melbourne",
+        "allocated_expected_votes": 0.8229951732825281
+      }
+    ]
+  },
+  {
+    "match_id": 17135,
+    "match_round": 9,
+    "home": "Greater Western Sydney",
+    "away": "Essendon",
+    "label": "Model-ranked Top 3",
+    "top3": [
+      {
+        "model_rank": 1,
+        "player_name": "Archie Roberts",
+        "player_team": "Essendon",
+        "allocated_expected_votes": 1.0291343985107375
+      },
+      {
+        "model_rank": 2,
+        "player_name": "Finn Callaghan",
+        "player_team": "Greater Western Sydney",
+        "allocated_expected_votes": 0.9306514350612508
+      },
+      {
+        "model_rank": 3,
+        "player_name": "Lachie Whitfield",
+        "player_team": "Greater Western Sydney",
+        "allocated_expected_votes": 0.7989808929589529
+      }
+    ]
+  },
+  {
+    "match_id": 17136,
+    "match_round": 9,
+    "home": "Gold Coast",
+    "away": "St Kilda",
+    "label": "Model-ranked Top 3",
+    "top3": [
+      {
+        "model_rank": 1,
+        "player_name": "Noah Anderson",
+        "player_team": "Gold Coast",
+        "allocated_expected_votes": 0.9266052701436115
+      },
+      {
+        "model_rank": 2,
+        "player_name": "John Noble",
+        "player_team": "Gold Coast",
+        "allocated_expected_votes": 0.7791167759754848
+      },
+      {
+        "model_rank": 3,
+        "player_name": "Daniel Rioli",
+        "player_team": "Gold Coast",
+        "allocated_expected_votes": 0.6929528301326884
+      }
+    ]
+  },
+  {
+    "match_id": 17137,
+    "match_round": 9,
+    "home": "Geelong",
+    "away": "Collingwood",
+    "label": "Model-ranked Top 3",
+    "top3": [
+      {
+        "model_rank": 1,
+        "player_name": "Bailey Smith",
+        "player_team": "Geelong",
+        "allocated_expected_votes": 2.6502767529348867
+      },
+      {
+        "model_rank": 2,
+        "player_name": "Max Holmes",
+        "player_team": "Geelong",
+        "allocated_expected_votes": 0.5419667062641962
+      },
+      {
+        "model_rank": 3,
+        "player_name": "Jordan de Goey",
+        "player_team": "Collingwood",
+        "allocated_expected_votes": 0.2496320916106048
+      }
+    ]
+  },
+  {
+    "match_id": 17138,
+    "match_round": 9,
+    "home": "Melbourne",
+    "away": "West Coast",
+    "label": "Model-ranked Top 3",
+    "top3": [
+      {
+        "model_rank": 1,
+        "player_name": "Jacob van Rooyen",
+        "player_team": "Melbourne",
+        "allocated_expected_votes": 1.9290499659465166
+      },
+      {
+        "model_rank": 2,
+        "player_name": "Ed Langdon",
+        "player_team": "Melbourne",
+        "allocated_expected_votes": 0.6913244259632406
+      },
+      {
+        "model_rank": 3,
+        "player_name": "Max Gawn",
+        "player_team": "Melbourne",
+        "allocated_expected_votes": 0.5965145067703603
+      }
+    ]
+  },
+  {
+    "match_id": 17139,
+    "match_round": 9,
+    "home": "Richmond",
+    "away": "Adelaide",
+    "label": "Model-ranked Top 3",
+    "top3": [
+      {
+        "model_rank": 1,
+        "player_name": "Izak Rankine",
+        "player_team": "Adelaide",
+        "allocated_expected_votes": 2.4388884703879135
+      },
+      {
+        "model_rank": 2,
+        "player_name": "Jordan Dawson",
+        "player_team": "Adelaide",
+        "allocated_expected_votes": 1.2625143077555436
+      },
+      {
+        "model_rank": 3,
+        "player_name": "Wayne Milera",
+        "player_team": "Adelaide",
+        "allocated_expected_votes": 0.9282911089314597
+      }
+    ]
+  },
+  {
+    "match_id": 17140,
+    "match_round": 10,
+    "home": "Brisbane Lions",
+    "away": "Geelong",
+    "label": "Model-ranked Top 3",
+    "top3": [
+      {
+        "model_rank": 1,
+        "player_name": "Shaun Mannagh",
+        "player_team": "Geelong",
+        "allocated_expected_votes": 2.2866586881880857
+      },
+      {
+        "model_rank": 2,
+        "player_name": "Bailey Smith",
+        "player_team": "Geelong",
+        "allocated_expected_votes": 1.9438768287270085
+      },
+      {
+        "model_rank": 3,
+        "player_name": "Tom Stewart",
+        "player_team": "Geelong",
+        "allocated_expected_votes": 0.5876073532635027
+      }
+    ]
+  },
+  {
+    "match_id": 17141,
+    "match_round": 10,
+    "home": "Sydney",
+    "away": "Collingwood",
+    "label": "Model-ranked Top 3",
+    "top3": [
+      {
+        "model_rank": 1,
+        "player_name": "Brodie Grundy",
+        "player_team": "Sydney",
+        "allocated_expected_votes": 2.310104495393827
+      },
+      {
+        "model_rank": 2,
+        "player_name": "Nick Blakey",
+        "player_team": "Sydney",
+        "allocated_expected_votes": 1.4615681931472775
+      },
+      {
+        "model_rank": 3,
+        "player_name": "Isaac Heeney",
+        "player_team": "Sydney",
+        "allocated_expected_votes": 1.107781225157448
+      }
+    ]
+  },
+  {
+    "match_id": 17142,
+    "match_round": 10,
+    "home": "Gold Coast",
+    "away": "Port Adelaide",
+    "label": "Model-ranked Top 3",
+    "top3": [
+      {
+        "model_rank": 1,
+        "player_name": "Noah Anderson",
+        "player_team": "Gold Coast",
+        "allocated_expected_votes": 1.7102538210848421
+      },
+      {
+        "model_rank": 2,
+        "player_name": "John Noble",
+        "player_team": "Gold Coast",
+        "allocated_expected_votes": 0.9614793759831408
+      },
+      {
+        "model_rank": 3,
+        "player_name": "Bodhi Uwland",
+        "player_team": "Gold Coast",
+        "allocated_expected_votes": 0.7018975533313173
+      }
+    ]
+  },
+  {
+    "match_id": 17143,
+    "match_round": 10,
+    "home": "Adelaide",
+    "away": "North Melbourne",
+    "label": "Model-ranked Top 3",
+    "top3": [
+      {
+        "model_rank": 1,
+        "player_name": "Izak Rankine",
+        "player_team": "Adelaide",
+        "allocated_expected_votes": 1.9952813920709715
+      },
+      {
+        "model_rank": 2,
+        "player_name": "Jordan Dawson",
+        "player_team": "Adelaide",
+        "allocated_expected_votes": 1.9451344338424443
+      },
+      {
+        "model_rank": 3,
+        "player_name": "James Peatling",
+        "player_team": "Adelaide",
+        "allocated_expected_votes": 0.47205056040375964
+      }
+    ]
+  },
+  {
+    "match_id": 17144,
+    "match_round": 10,
+    "home": "Melbourne",
+    "away": "Hawthorn",
+    "label": "Model-ranked Top 3",
+    "top3": [
+      {
+        "model_rank": 1,
+        "player_name": "Tom Sparrow",
+        "player_team": "Melbourne",
+        "allocated_expected_votes": 1.2903815620365595
+      },
+      {
+        "model_rank": 2,
+        "player_name": "Max Gawn",
+        "player_team": "Melbourne",
+        "allocated_expected_votes": 0.9789654420751079
+      },
+      {
+        "model_rank": 3,
+        "player_name": "Dylan Moore",
+        "player_team": "Hawthorn",
+        "allocated_expected_votes": 0.5703837599857613
+      }
+    ]
+  },
+  {
+    "match_id": 17145,
+    "match_round": 10,
+    "home": "Carlton",
+    "away": "Western Bulldogs",
+    "label": "Model-ranked Top 3",
+    "top3": [
+      {
+        "model_rank": 1,
+        "player_name": "Patrick Cripps",
+        "player_team": "Carlton",
+        "allocated_expected_votes": 2.608817128253877
+      },
+      {
+        "model_rank": 2,
+        "player_name": "Oliver Florent",
+        "player_team": "Carlton",
+        "allocated_expected_votes": 0.9705278555367424
+      },
+      {
+        "model_rank": 3,
+        "player_name": "Matt Carroll",
+        "player_team": "Carlton",
+        "allocated_expected_votes": 0.7777698960639461
+      }
+    ]
+  },
+  {
+    "match_id": 17146,
+    "match_round": 10,
+    "home": "Essendon",
+    "away": "Fremantle",
+    "label": "Model-ranked Top 3",
+    "top3": [
+      {
+        "model_rank": 1,
+        "player_name": "Patrick Voss",
+        "player_team": "Fremantle",
+        "allocated_expected_votes": 1.9502174182958085
+      },
+      {
+        "model_rank": 2,
+        "player_name": "Murphy Reid",
+        "player_team": "Fremantle",
+        "allocated_expected_votes": 1.4920579524855606
+      },
+      {
+        "model_rank": 3,
+        "player_name": "Shai Bolton",
+        "player_team": "Fremantle",
+        "allocated_expected_votes": 0.9434125571408034
+      }
+    ]
+  },
+  {
+    "match_id": 17147,
+    "match_round": 10,
+    "home": "St Kilda",
+    "away": "Richmond",
+    "label": "Model-ranked Top 3",
+    "top3": [
+      {
+        "model_rank": 1,
+        "player_name": "Hugo Garcia",
+        "player_team": "St Kilda",
+        "allocated_expected_votes": 1.4515099429160905
+      },
+      {
+        "model_rank": 2,
+        "player_name": "Max Hall",
+        "player_team": "St Kilda",
+        "allocated_expected_votes": 1.2096635687752852
+      },
+      {
+        "model_rank": 3,
+        "player_name": "Jack Macrae",
+        "player_team": "St Kilda",
+        "allocated_expected_votes": 0.7516458656769643
+      }
+    ]
+  },
+  {
+    "match_id": 17148,
+    "match_round": 10,
+    "home": "West Coast",
+    "away": "Greater Western Sydney",
+    "label": "Model-ranked Top 3",
+    "top3": [
+      {
+        "model_rank": 1,
+        "player_name": "Harley Reid",
+        "player_team": "West Coast",
+        "allocated_expected_votes": 2.7898730132982967
+      },
+      {
+        "model_rank": 2,
+        "player_name": "Clayton Oliver",
+        "player_team": "Greater Western Sydney",
+        "allocated_expected_votes": 1.4512606562624968
+      },
+      {
+        "model_rank": 3,
+        "player_name": "Bailey Williams",
+        "player_team": "West Coast",
+        "allocated_expected_votes": 1.2396104482688621
+      }
+    ]
+  },
+  {
+    "match_id": 17149,
+    "match_round": 11,
+    "home": "Hawthorn",
+    "away": "Adelaide",
+    "label": "Model-ranked Top 3",
+    "top3": [
+      {
+        "model_rank": 1,
+        "player_name": "Blake Hardwick",
+        "player_team": "Hawthorn",
+        "allocated_expected_votes": 1.5611585653466724
+      },
+      {
+        "model_rank": 2,
+        "player_name": "Jordan Dawson",
+        "player_team": "Adelaide",
+        "allocated_expected_votes": 1.044936837378226
+      },
+      {
+        "model_rank": 3,
+        "player_name": "Jarman Impey",
+        "player_team": "Hawthorn",
+        "allocated_expected_votes": 0.9406607902925574
+      }
+    ]
+  },
+  {
+    "match_id": 17150,
+    "match_round": 11,
+    "home": "Richmond",
+    "away": "Essendon",
+    "label": "Model-ranked Top 3",
+    "top3": [
+      {
+        "model_rank": 1,
+        "player_name": "Darcy Parish",
+        "player_team": "Essendon",
+        "allocated_expected_votes": 2.276540834442154
+      },
+      {
+        "model_rank": 2,
+        "player_name": "Tim Taranto",
+        "player_team": "Richmond",
+        "allocated_expected_votes": 1.324997193526917
+      },
+      {
+        "model_rank": 3,
+        "player_name": "Zach Merrett",
+        "player_team": "Essendon",
+        "allocated_expected_votes": 0.8929294082886009
+      }
+    ]
+  },
+  {
+    "match_id": 17151,
+    "match_round": 11,
+    "home": "Fremantle",
+    "away": "St Kilda",
+    "label": "Model-ranked Top 3",
+    "top3": [
+      {
+        "model_rank": 1,
+        "player_name": "Murphy Reid",
+        "player_team": "Fremantle",
+        "allocated_expected_votes": 1.7082788457339904
+      },
+      {
+        "model_rank": 2,
+        "player_name": "Shai Bolton",
+        "player_team": "Fremantle",
+        "allocated_expected_votes": 0.7806616561852704
+      },
+      {
+        "model_rank": 3,
+        "player_name": "Josh Treacy",
+        "player_team": "Fremantle",
+        "allocated_expected_votes": 0.5836510591743812
+      }
+    ]
+  },
+  {
+    "match_id": 17152,
+    "match_round": 11,
+    "home": "North Melbourne",
+    "away": "Gold Coast",
+    "label": "Model-ranked Top 3",
+    "top3": [
+      {
+        "model_rank": 1,
+        "player_name": "Harry Sheezel",
+        "player_team": "North Melbourne",
+        "allocated_expected_votes": 1.463352833819033
+      },
+      {
+        "model_rank": 2,
+        "player_name": "Luke Davies-Uniacke",
+        "player_team": "North Melbourne",
+        "allocated_expected_votes": 1.2947402883975472
+      },
+      {
+        "model_rank": 3,
+        "player_name": "Matt Rowell",
+        "player_team": "Gold Coast",
+        "allocated_expected_votes": 1.0820488731448665
+      }
+    ]
+  },
+  {
+    "match_id": 17153,
+    "match_round": 11,
+    "home": "Geelong",
+    "away": "Sydney",
+    "label": "Model-ranked Top 3",
+    "top3": [
+      {
+        "model_rank": 1,
+        "player_name": "Max Holmes",
+        "player_team": "Geelong",
+        "allocated_expected_votes": 2.0442955889679943
+      },
+      {
+        "model_rank": 2,
+        "player_name": "Lawson Humphries",
+        "player_team": "Geelong",
+        "allocated_expected_votes": 1.254862201103342
+      },
+      {
+        "model_rank": 3,
+        "player_name": "Bailey Smith",
+        "player_team": "Geelong",
+        "allocated_expected_votes": 0.8467101119595132
+      }
+    ]
+  },
+  {
+    "match_id": 17154,
+    "match_round": 11,
+    "home": "Collingwood",
+    "away": "West Coast",
+    "label": "Model-ranked Top 3",
+    "top3": [
+      {
+        "model_rank": 1,
+        "player_name": "Nick Daicos",
+        "player_team": "Collingwood",
+        "allocated_expected_votes": 2.7687249878233313
+      },
+      {
+        "model_rank": 2,
+        "player_name": "Darcy Cameron",
+        "player_team": "Collingwood",
+        "allocated_expected_votes": 1.1385649154530222
+      },
+      {
+        "model_rank": 3,
+        "player_name": "Jack Crisp",
+        "player_team": "Collingwood",
+        "allocated_expected_votes": 0.5535285108895762
+      }
+    ]
+  },
+  {
+    "match_id": 17155,
+    "match_round": 11,
+    "home": "Port Adelaide",
+    "away": "Carlton",
+    "label": "Model-ranked Top 3",
+    "top3": [
+      {
+        "model_rank": 1,
+        "player_name": "Patrick Cripps",
+        "player_team": "Carlton",
+        "allocated_expected_votes": 2.9865950831461046
+      },
+      {
+        "model_rank": 2,
+        "player_name": "Jason Horne-Francis",
+        "player_team": "Port Adelaide",
+        "allocated_expected_votes": 1.595350805631963
+      },
+      {
+        "model_rank": 3,
+        "player_name": "Jagga Smith",
+        "player_team": "Carlton",
+        "allocated_expected_votes": 0.6228519658449164
+      }
+    ]
+  },
+  {
+    "match_id": 17156,
+    "match_round": 11,
+    "home": "Greater Western Sydney",
+    "away": "Brisbane Lions",
+    "label": "Model-ranked Top 3",
+    "top3": [
+      {
+        "model_rank": 1,
+        "player_name": "Clayton Oliver",
+        "player_team": "Greater Western Sydney",
+        "allocated_expected_votes": 2.1900736003526404
+      },
+      {
+        "model_rank": 2,
+        "player_name": "Toby Greene",
+        "player_team": "Greater Western Sydney",
+        "allocated_expected_votes": 1.6148035193832029
+      },
+      {
+        "model_rank": 3,
+        "player_name": "Phoenix Gothard",
+        "player_team": "Greater Western Sydney",
+        "allocated_expected_votes": 0.6433543971214198
+      }
+    ]
+  },
+  {
+    "match_id": 17157,
+    "match_round": 11,
+    "home": "Western Bulldogs",
+    "away": "Melbourne",
+    "label": "Model-ranked Top 3",
+    "top3": [
+      {
+        "model_rank": 1,
+        "player_name": "Marcus Bontempelli",
+        "player_team": "Western Bulldogs",
+        "allocated_expected_votes": 2.0669931235920482
+      },
+      {
+        "model_rank": 2,
+        "player_name": "Ed Richards",
+        "player_team": "Western Bulldogs",
+        "allocated_expected_votes": 1.9390062527101608
+      },
+      {
+        "model_rank": 3,
+        "player_name": "Ryley Sanders",
+        "player_team": "Western Bulldogs",
+        "allocated_expected_votes": 0.5391803455344261
+      }
+    ]
+  },
+  {
+    "match_id": 17158,
+    "match_round": 12,
+    "home": "St Kilda",
+    "away": "Hawthorn",
+    "label": "Model-ranked Top 3",
+    "top3": [
+      {
+        "model_rank": 1,
+        "player_name": "James Sicily",
+        "player_team": "Hawthorn",
+        "allocated_expected_votes": 2.100245134009755
+      },
+      {
+        "model_rank": 2,
+        "player_name": "Jack Gunston",
+        "player_team": "Hawthorn",
+        "allocated_expected_votes": 0.9881824323139698
+      },
+      {
+        "model_rank": 3,
+        "player_name": "Cam Mackenzie",
+        "player_team": "Hawthorn",
+        "allocated_expected_votes": 0.7369858793981318
+      }
+    ]
+  },
+  {
+    "match_id": 17159,
+    "match_round": 12,
+    "home": "Carlton",
+    "away": "Geelong",
+    "label": "Model-ranked Top 3",
+    "top3": [
+      {
+        "model_rank": 1,
+        "player_name": "Patrick Cripps",
+        "player_team": "Carlton",
+        "allocated_expected_votes": 2.396116710396665
+      },
+      {
+        "model_rank": 2,
+        "player_name": "Sam Walsh",
+        "player_team": "Carlton",
+        "allocated_expected_votes": 1.4914961983163422
+      },
+      {
+        "model_rank": 3,
+        "player_name": "Bailey Smith",
+        "player_team": "Geelong",
+        "allocated_expected_votes": 0.8641392837235133
+      }
+    ]
+  },
+  {
+    "match_id": 17160,
+    "match_round": 12,
+    "home": "Sydney",
+    "away": "Richmond",
+    "label": "Model-ranked Top 3",
+    "top3": [
+      {
+        "model_rank": 1,
+        "player_name": "Charlie Curnow",
+        "player_team": "Sydney",
+        "allocated_expected_votes": 2.239317071700543
+      },
+      {
+        "model_rank": 2,
+        "player_name": "Isaac Heeney",
+        "player_team": "Sydney",
+        "allocated_expected_votes": 2.0909325209048193
+      },
+      {
+        "model_rank": 3,
+        "player_name": "Chad Warner",
+        "player_team": "Sydney",
+        "allocated_expected_votes": 1.5238661033504695
+      }
+    ]
+  },
+  {
+    "match_id": 17161,
+    "match_round": 12,
+    "home": "Brisbane Lions",
+    "away": "Fremantle",
+    "label": "Model-ranked Top 3",
+    "top3": [
+      {
+        "model_rank": 1,
+        "player_name": "Jye Amiss",
+        "player_team": "Fremantle",
+        "allocated_expected_votes": 1.1292761711866133
+      },
+      {
+        "model_rank": 2,
+        "player_name": "Josh Treacy",
+        "player_team": "Fremantle",
+        "allocated_expected_votes": 0.9160605794294079
+      },
+      {
+        "model_rank": 3,
+        "player_name": "Patrick Voss",
+        "player_team": "Fremantle",
+        "allocated_expected_votes": 0.6888995976884174
+      }
+    ]
+  },
+  {
+    "match_id": 17162,
+    "match_round": 12,
+    "home": "Western Bulldogs",
+    "away": "Collingwood",
+    "label": "Model-ranked Top 3",
+    "top3": [
+      {
+        "model_rank": 1,
+        "player_name": "Jordan de Goey",
+        "player_team": "Collingwood",
+        "allocated_expected_votes": 1.4504558681775834
+      },
+      {
+        "model_rank": 2,
+        "player_name": "Nick Daicos",
+        "player_team": "Collingwood",
+        "allocated_expected_votes": 0.9747034887002597
+      },
+      {
+        "model_rank": 3,
+        "player_name": "Marcus Bontempelli",
+        "player_team": "Western Bulldogs",
+        "allocated_expected_votes": 0.9631552691848169
+      }
+    ]
+  },
+  {
+    "match_id": 17163,
+    "match_round": 12,
+    "home": "Melbourne",
+    "away": "Greater Western Sydney",
+    "label": "Model-ranked Top 3",
+    "top3": [
+      {
+        "model_rank": 1,
+        "player_name": "Finn Callaghan",
+        "player_team": "Greater Western Sydney",
+        "allocated_expected_votes": 2.1612462505927357
+      },
+      {
+        "model_rank": 2,
+        "player_name": "Lachie Ash",
+        "player_team": "Greater Western Sydney",
+        "allocated_expected_votes": 0.7702938673526766
+      },
+      {
+        "model_rank": 3,
+        "player_name": "Clayton Oliver",
+        "player_team": "Greater Western Sydney",
+        "allocated_expected_votes": 0.667652197895159
+      }
+    ]
+  },
+  {
+    "match_id": 17164,
+    "match_round": 12,
+    "home": "West Coast",
+    "away": "Essendon",
+    "label": "Model-ranked Top 3",
+    "top3": [
+      {
+        "model_rank": 1,
+        "player_name": "Harley Reid",
+        "player_team": "West Coast",
+        "allocated_expected_votes": 0.8641221911817579
+      },
+      {
+        "model_rank": 2,
+        "player_name": "Reuben Ginbey",
+        "player_team": "West Coast",
+        "allocated_expected_votes": 0.8447357870737677
+      },
+      {
+        "model_rank": 3,
+        "player_name": "Tim Kelly",
+        "player_team": "West Coast",
+        "allocated_expected_votes": 0.8213177234472196
+      }
+    ]
+  },
+  {
+    "match_id": 17165,
+    "match_round": 13,
+    "home": "Adelaide",
+    "away": "Geelong",
+    "label": "Model-ranked Top 3",
+    "top3": [
+      {
+        "model_rank": 1,
+        "player_name": "Jordan Dawson",
+        "player_team": "Adelaide",
+        "allocated_expected_votes": 2.510103744981071
+      },
+      {
+        "model_rank": 2,
+        "player_name": "Patrick Dangerfield",
+        "player_team": "Geelong",
+        "allocated_expected_votes": 1.346737011540173
+      },
+      {
+        "model_rank": 3,
+        "player_name": "Daniel Curtin",
+        "player_team": "Adelaide",
+        "allocated_expected_votes": 0.7528647064566903
+      }
+    ]
+  },
+  {
+    "match_id": 17166,
+    "match_round": 13,
+    "home": "Hawthorn",
+    "away": "Western Bulldogs",
+    "label": "Model-ranked Top 3",
+    "top3": [
+      {
+        "model_rank": 1,
+        "player_name": "Jai Newcombe",
+        "player_team": "Hawthorn",
+        "allocated_expected_votes": 2.2530928352278528
+      },
+      {
+        "model_rank": 2,
+        "player_name": "Marcus Bontempelli",
+        "player_team": "Western Bulldogs",
+        "allocated_expected_votes": 1.1938015380450304
+      },
+      {
+        "model_rank": 3,
+        "player_name": "Bailey Dale",
+        "player_team": "Western Bulldogs",
+        "allocated_expected_votes": 1.0295911508806397
+      }
+    ]
+  },
+  {
+    "match_id": 17167,
+    "match_round": 13,
+    "home": "North Melbourne",
+    "away": "Fremantle",
+    "label": "Model-ranked Top 3",
+    "top3": [
+      {
+        "model_rank": 1,
+        "player_name": "Andrew Brayshaw",
+        "player_team": "Fremantle",
+        "allocated_expected_votes": 2.025034976063055
+      },
+      {
+        "model_rank": 2,
+        "player_name": "Patrick Voss",
+        "player_team": "Fremantle",
+        "allocated_expected_votes": 1.3671515077961287
+      },
+      {
+        "model_rank": 3,
+        "player_name": "Luke Jackson",
+        "player_team": "Fremantle",
+        "allocated_expected_votes": 1.3049710173256153
+      }
+    ]
+  },
+  {
+    "match_id": 17168,
+    "match_round": 13,
+    "home": "Gold Coast",
+    "away": "Brisbane Lions",
+    "label": "Model-ranked Top 3",
+    "top3": [
+      {
+        "model_rank": 1,
+        "player_name": "Logan Morris",
+        "player_team": "Brisbane Lions",
+        "allocated_expected_votes": 2.8446741695949207
+      },
+      {
+        "model_rank": 2,
+        "player_name": "Lachie Neale",
+        "player_team": "Brisbane Lions",
+        "allocated_expected_votes": 2.025975123442951
+      },
+      {
+        "model_rank": 3,
+        "player_name": "Darcy Wilmot",
+        "player_team": "Brisbane Lions",
+        "allocated_expected_votes": 0.37207274707130145
+      }
+    ]
+  },
+  {
+    "match_id": 17169,
+    "match_round": 13,
+    "home": "West Coast",
+    "away": "Port Adelaide",
+    "label": "Model-ranked Top 3",
+    "top3": [
+      {
+        "model_rank": 1,
+        "player_name": "Jason Horne-Francis",
+        "player_team": "Port Adelaide",
+        "allocated_expected_votes": 1.6306189324690985
+      },
+      {
+        "model_rank": 2,
+        "player_name": "Zak Butters",
+        "player_team": "Port Adelaide",
+        "allocated_expected_votes": 1.0373985677225803
+      },
+      {
+        "model_rank": 3,
+        "player_name": "Esava Ratugolea",
+        "player_team": "Port Adelaide",
+        "allocated_expected_votes": 0.7306354651520188
+      }
+    ]
+  },
+  {
+    "match_id": 17170,
+    "match_round": 13,
+    "home": "Sydney",
+    "away": "St Kilda",
+    "label": "Model-ranked Top 3",
+    "top3": [
+      {
+        "model_rank": 1,
+        "player_name": "Isaac Heeney",
+        "player_team": "Sydney",
+        "allocated_expected_votes": 2.3400763546575574
+      },
+      {
+        "model_rank": 2,
+        "player_name": "Liam Ryan",
+        "player_team": "St Kilda",
+        "allocated_expected_votes": 1.1593696511272003
+      },
+      {
+        "model_rank": 3,
+        "player_name": "Chad Warner",
+        "player_team": "Sydney",
+        "allocated_expected_votes": 1.0985212023629805
+      }
+    ]
+  },
+  {
+    "match_id": 17171,
+    "match_round": 13,
+    "home": "Essendon",
+    "away": "Carlton",
+    "label": "Model-ranked Top 3",
+    "top3": [
+      {
+        "model_rank": 1,
+        "player_name": "Sam Durham",
+        "player_team": "Essendon",
+        "allocated_expected_votes": 1.2526335240956563
+      },
+      {
+        "model_rank": 2,
+        "player_name": "Harry McKay",
+        "player_team": "Carlton",
+        "allocated_expected_votes": 1.0628693030704497
+      },
+      {
+        "model_rank": 3,
+        "player_name": "George Hewett",
+        "player_team": "Carlton",
+        "allocated_expected_votes": 0.9678389222749805
+      }
+    ]
+  },
+  {
+    "match_id": 17172,
+    "match_round": 13,
+    "home": "Collingwood",
+    "away": "Melbourne",
+    "label": "Model-ranked Top 3",
+    "top3": [
+      {
+        "model_rank": 1,
+        "player_name": "Kysaiah Pickett",
+        "player_team": "Melbourne",
+        "allocated_expected_votes": 2.547189639774812
+      },
+      {
+        "model_rank": 2,
+        "player_name": "Nick Daicos",
+        "player_team": "Collingwood",
+        "allocated_expected_votes": 1.822079945592957
+      },
+      {
+        "model_rank": 3,
+        "player_name": "Max Gawn",
+        "player_team": "Melbourne",
+        "allocated_expected_votes": 0.6414906212347926
+      }
+    ]
+  },
+  {
+    "match_id": 17173,
+    "match_round": 14,
+    "home": "Western Bulldogs",
+    "away": "Adelaide",
+    "label": "Model-ranked Top 3",
+    "top3": [
+      {
+        "model_rank": 1,
+        "player_name": "Jordan Dawson",
+        "player_team": "Adelaide",
+        "allocated_expected_votes": 2.6038441441113047
+      },
+      {
+        "model_rank": 2,
+        "player_name": "Sam Berry",
+        "player_team": "Adelaide",
+        "allocated_expected_votes": 1.0525262853323976
+      },
+      {
+        "model_rank": 3,
+        "player_name": "Rory Laird",
+        "player_team": "Adelaide",
+        "allocated_expected_votes": 0.9173632197819634
+      }
+    ]
+  },
+  {
+    "match_id": 17174,
+    "match_round": 14,
+    "home": "Geelong",
+    "away": "Gold Coast",
+    "label": "Model-ranked Top 3",
+    "top3": [
+      {
+        "model_rank": 1,
+        "player_name": "Max Holmes",
+        "player_team": "Geelong",
+        "allocated_expected_votes": 2.0736794140247823
+      },
+      {
+        "model_rank": 2,
+        "player_name": "Bailey Smith",
+        "player_team": "Geelong",
+        "allocated_expected_votes": 1.4887192849487845
+      },
+      {
+        "model_rank": 3,
+        "player_name": "Noah Anderson",
+        "player_team": "Gold Coast",
+        "allocated_expected_votes": 0.4913076436925029
+      }
+    ]
+  },
+  {
+    "match_id": 17175,
+    "match_round": 14,
+    "home": "Melbourne",
+    "away": "Essendon",
+    "label": "Model-ranked Top 3",
+    "top3": [
+      {
+        "model_rank": 1,
+        "player_name": "Kysaiah Pickett",
+        "player_team": "Melbourne",
+        "allocated_expected_votes": 2.67058654280841
+      },
+      {
+        "model_rank": 2,
+        "player_name": "Max Gawn",
+        "player_team": "Melbourne",
+        "allocated_expected_votes": 1.9231593351741314
+      },
+      {
+        "model_rank": 3,
+        "player_name": "Ed Langdon",
+        "player_team": "Melbourne",
+        "allocated_expected_votes": 0.4290388432617878
+      }
+    ]
+  },
+  {
+    "match_id": 17176,
+    "match_round": 14,
+    "home": "North Melbourne",
+    "away": "West Coast",
+    "label": "Model-ranked Top 3",
+    "top3": [
+      {
+        "model_rank": 1,
+        "player_name": "Harry Sheezel",
+        "player_team": "North Melbourne",
+        "allocated_expected_votes": 2.0619343044533367
+      },
+      {
+        "model_rank": 2,
+        "player_name": "Tim Kelly",
+        "player_team": "West Coast",
+        "allocated_expected_votes": 1.2217774120653795
+      },
+      {
+        "model_rank": 3,
+        "player_name": "Jack Darling",
+        "player_team": "North Melbourne",
+        "allocated_expected_votes": 0.975733323761114
+      }
+    ]
+  },
+  {
+    "match_id": 17177,
+    "match_round": 14,
+    "home": "Port Adelaide",
+    "away": "Sydney",
+    "label": "Model-ranked Top 3",
+    "top3": [
+      {
+        "model_rank": 1,
+        "player_name": "Isaac Heeney",
+        "player_team": "Sydney",
+        "allocated_expected_votes": 2.401291090519426
+      },
+      {
+        "model_rank": 2,
+        "player_name": "Zak Butters",
+        "player_team": "Port Adelaide",
+        "allocated_expected_votes": 0.8820841664229279
+      },
+      {
+        "model_rank": 3,
+        "player_name": "Chad Warner",
+        "player_team": "Sydney",
+        "allocated_expected_votes": 0.5028342342047527
+      }
+    ]
+  },
+  {
+    "match_id": 17178,
+    "match_round": 14,
+    "home": "Richmond",
+    "away": "Brisbane Lions",
+    "label": "Model-ranked Top 3",
+    "top3": [
+      {
+        "model_rank": 1,
+        "player_name": "Will Ashcroft",
+        "player_team": "Brisbane Lions",
+        "allocated_expected_votes": 2.7308293736471905
+      },
+      {
+        "model_rank": 2,
+        "player_name": "Lachie Neale",
+        "player_team": "Brisbane Lions",
+        "allocated_expected_votes": 1.5940532134831276
+      },
+      {
+        "model_rank": 3,
+        "player_name": "Tim Taranto",
+        "player_team": "Richmond",
+        "allocated_expected_votes": 0.923779035691098
+      }
+    ]
+  },
+  {
+    "match_id": 17179,
+    "match_round": 14,
+    "home": "St Kilda",
+    "away": "Greater Western Sydney",
+    "label": "Model-ranked Top 3",
+    "top3": [
+      {
+        "model_rank": 1,
+        "player_name": "Liam Ryan",
+        "player_team": "St Kilda",
+        "allocated_expected_votes": 1.8767508172978455
+      },
+      {
+        "model_rank": 2,
+        "player_name": "Nasiah Wanganeen-Milera",
+        "player_team": "St Kilda",
+        "allocated_expected_votes": 1.7746029218217596
+      },
+      {
+        "model_rank": 3,
+        "player_name": "Clayton Oliver",
+        "player_team": "Greater Western Sydney",
+        "allocated_expected_votes": 0.7238782196928925
+      }
+    ]
+  },
+  {
+    "match_id": 17180,
+    "match_round": 15,
+    "home": "Fremantle",
+    "away": "Geelong",
+    "label": "Model-ranked Top 3",
+    "top3": [
+      {
+        "model_rank": 1,
+        "player_name": "Luke Jackson",
+        "player_team": "Fremantle",
+        "allocated_expected_votes": 2.7569894601842586
+      },
+      {
+        "model_rank": 2,
+        "player_name": "Andrew Brayshaw",
+        "player_team": "Fremantle",
+        "allocated_expected_votes": 1.981722680501968
+      },
+      {
+        "model_rank": 3,
+        "player_name": "Max Holmes",
+        "player_team": "Geelong",
+        "allocated_expected_votes": 0.3877234277696305
+      }
+    ]
+  },
+  {
+    "match_id": 17181,
+    "match_round": 15,
+    "home": "Gold Coast",
+    "away": "Hawthorn",
+    "label": "Model-ranked Top 3",
+    "top3": [
+      {
+        "model_rank": 1,
+        "player_name": "Jai Newcombe",
+        "player_team": "Hawthorn",
+        "allocated_expected_votes": 2.1359489356252985
+      },
+      {
+        "model_rank": 2,
+        "player_name": "Noah Anderson",
+        "player_team": "Gold Coast",
+        "allocated_expected_votes": 1.1832072158905338
+      },
+      {
+        "model_rank": 3,
+        "player_name": "Ben Long",
+        "player_team": "Gold Coast",
+        "allocated_expected_votes": 0.5156639742558469
+      }
+    ]
+  },
+  {
+    "match_id": 17182,
+    "match_round": 15,
+    "home": "Adelaide",
+    "away": "Melbourne",
+    "label": "Model-ranked Top 3",
+    "top3": [
+      {
+        "model_rank": 1,
+        "player_name": "Max Gawn",
+        "player_team": "Melbourne",
+        "allocated_expected_votes": 1.5735555808340023
+      },
+      {
+        "model_rank": 2,
+        "player_name": "Mark Keane",
+        "player_team": "Adelaide",
+        "allocated_expected_votes": 0.8937754257026558
+      },
+      {
+        "model_rank": 3,
+        "player_name": "Wayne Milera",
+        "player_team": "Adelaide",
+        "allocated_expected_votes": 0.5192028810007212
+      }
+    ]
+  },
+  {
+    "match_id": 17183,
+    "match_round": 15,
+    "home": "Greater Western Sydney",
+    "away": "Carlton",
+    "label": "Model-ranked Top 3",
+    "top3": [
+      {
+        "model_rank": 1,
+        "player_name": "Patrick Cripps",
+        "player_team": "Carlton",
+        "allocated_expected_votes": 1.9572291333659093
+      },
+      {
+        "model_rank": 2,
+        "player_name": "Sam Walsh",
+        "player_team": "Carlton",
+        "allocated_expected_votes": 1.9197365407339235
+      },
+      {
+        "model_rank": 3,
+        "player_name": "George Hewett",
+        "player_team": "Carlton",
+        "allocated_expected_votes": 1.2751771516571568
+      }
+    ]
+  },
+  {
+    "match_id": 17184,
+    "match_round": 15,
+    "home": "Collingwood",
+    "away": "Port Adelaide",
+    "label": "Model-ranked Top 3",
+    "top3": [
+      {
+        "model_rank": 1,
+        "player_name": "Nick Daicos",
+        "player_team": "Collingwood",
+        "allocated_expected_votes": 2.6965379311617186
+      },
+      {
+        "model_rank": 2,
+        "player_name": "Jordan de Goey",
+        "player_team": "Collingwood",
+        "allocated_expected_votes": 2.1554020285738082
+      },
+      {
+        "model_rank": 3,
+        "player_name": "Jason Horne-Francis",
+        "player_team": "Port Adelaide",
+        "allocated_expected_votes": 0.477949690420933
+      }
+    ]
+  },
+  {
+    "match_id": 17185,
+    "match_round": 15,
+    "home": "Richmond",
+    "away": "North Melbourne",
+    "label": "Model-ranked Top 3",
+    "top3": [
+      {
+        "model_rank": 1,
+        "player_name": "Caleb Daniel",
+        "player_team": "North Melbourne",
+        "allocated_expected_votes": 2.5048514175239043
+      },
+      {
+        "model_rank": 2,
+        "player_name": "Harry Sheezel",
+        "player_team": "North Melbourne",
+        "allocated_expected_votes": 1.4264135948870742
+      },
+      {
+        "model_rank": 3,
+        "player_name": "Cooper Trembath",
+        "player_team": "North Melbourne",
+        "allocated_expected_votes": 1.2533124115595355
+      }
+    ]
+  },
+  {
+    "match_id": 17186,
+    "match_round": 15,
+    "home": "St Kilda",
+    "away": "Western Bulldogs",
+    "label": "Model-ranked Top 3",
+    "top3": [
+      {
+        "model_rank": 1,
+        "player_name": "Marcus Bontempelli",
+        "player_team": "Western Bulldogs",
+        "allocated_expected_votes": 2.707662261088984
+      },
+      {
+        "model_rank": 2,
+        "player_name": "Nasiah Wanganeen-Milera",
+        "player_team": "St Kilda",
+        "allocated_expected_votes": 1.4740159760020426
+      },
+      {
+        "model_rank": 3,
+        "player_name": "Hugo Garcia",
+        "player_team": "St Kilda",
+        "allocated_expected_votes": 0.5831900285177171
+      }
+    ]
+  },
+  {
+    "match_id": 17187,
+    "match_round": 16,
+    "home": "Brisbane Lions",
+    "away": "Sydney",
+    "label": "Model-ranked Top 3",
+    "top3": [
+      {
+        "model_rank": 1,
+        "player_name": "Will Ashcroft",
+        "player_team": "Brisbane Lions",
+        "allocated_expected_votes": 1.9290254044347814
+      },
+      {
+        "model_rank": 2,
+        "player_name": "Chad Warner",
+        "player_team": "Sydney",
+        "allocated_expected_votes": 1.9201891626244736
+      },
+      {
+        "model_rank": 3,
+        "player_name": "Lachie Neale",
+        "player_team": "Brisbane Lions",
+        "allocated_expected_votes": 0.9074952780499863
+      }
+    ]
+  },
+  {
+    "match_id": 17188,
+    "match_round": 16,
+    "home": "Hawthorn",
+    "away": "Greater Western Sydney",
+    "label": "Model-ranked Top 3",
+    "top3": [
+      {
+        "model_rank": 1,
+        "player_name": "Jai Newcombe",
+        "player_team": "Hawthorn",
+        "allocated_expected_votes": 2.322328731199948
+      },
+      {
+        "model_rank": 2,
+        "player_name": "Will Day",
+        "player_team": "Hawthorn",
+        "allocated_expected_votes": 0.9997670207294224
+      },
+      {
+        "model_rank": 3,
+        "player_name": "Finn Callaghan",
+        "player_team": "Greater Western Sydney",
+        "allocated_expected_votes": 0.6991710248136049
+      }
+    ]
+  },
+  {
+    "match_id": 17189,
+    "match_round": 16,
+    "home": "Carlton",
+    "away": "West Coast",
+    "label": "Model-ranked Top 3",
+    "top3": [
+      {
+        "model_rank": 1,
+        "player_name": "Patrick Cripps",
+        "player_team": "Carlton",
+        "allocated_expected_votes": 2.8377176411329925
+      },
+      {
+        "model_rank": 2,
+        "player_name": "Sam Walsh",
+        "player_team": "Carlton",
+        "allocated_expected_votes": 1.5766329803723889
+      },
+      {
+        "model_rank": 3,
+        "player_name": "Ben Ainsworth",
+        "player_team": "Carlton",
+        "allocated_expected_votes": 0.8413631282732668
+      }
+    ]
+  },
+  {
+    "match_id": 17190,
+    "match_round": 16,
+    "home": "Collingwood",
+    "away": "Richmond",
+    "label": "Model-ranked Top 3",
+    "top3": [
+      {
+        "model_rank": 1,
+        "player_name": "Nick Daicos",
+        "player_team": "Collingwood",
+        "allocated_expected_votes": 2.7245468211880848
+      },
+      {
+        "model_rank": 2,
+        "player_name": "Tim Taranto",
+        "player_team": "Richmond",
+        "allocated_expected_votes": 1.375746338467552
+      },
+      {
+        "model_rank": 3,
+        "player_name": "Jordan de Goey",
+        "player_team": "Collingwood",
+        "allocated_expected_votes": 0.8440733189874865
+      }
+    ]
+  },
+  {
+    "match_id": 17191,
+    "match_round": 16,
+    "home": "Port Adelaide",
+    "away": "Adelaide",
+    "label": "Model-ranked Top 3",
+    "top3": [
+      {
+        "model_rank": 1,
+        "player_name": "Zak Butters",
+        "player_team": "Port Adelaide",
+        "allocated_expected_votes": 2.5827185504454135
+      },
+      {
+        "model_rank": 2,
+        "player_name": "Jason Horne-Francis",
+        "player_team": "Port Adelaide",
+        "allocated_expected_votes": 1.9784370453630091
+      },
+      {
+        "model_rank": 3,
+        "player_name": "Darcy Fogarty",
+        "player_team": "Adelaide",
+        "allocated_expected_votes": 0.7162128404033592
+      }
+    ]
+  },
+  {
+    "match_id": 17192,
+    "match_round": 16,
+    "home": "North Melbourne",
+    "away": "Essendon",
+    "label": "Model-ranked Top 3",
+    "top3": [
+      {
+        "model_rank": 1,
+        "player_name": "Harry Sheezel",
+        "player_team": "North Melbourne",
+        "allocated_expected_votes": 2.948323741737853
+      },
+      {
+        "model_rank": 2,
+        "player_name": "Luke Davies-Uniacke",
+        "player_team": "North Melbourne",
+        "allocated_expected_votes": 1.4402403421646426
+      },
+      {
+        "model_rank": 3,
+        "player_name": "Caleb Daniel",
+        "player_team": "North Melbourne",
+        "allocated_expected_votes": 0.9524388865510035
+      }
+    ]
+  },
+  {
+    "match_id": 17193,
+    "match_round": 16,
+    "home": "Fremantle",
+    "away": "Gold Coast",
+    "label": "Model-ranked Top 3",
+    "top3": [
+      {
+        "model_rank": 1,
+        "player_name": "Andrew Brayshaw",
+        "player_team": "Fremantle",
+        "allocated_expected_votes": 2.3494565554955185
+      },
+      {
+        "model_rank": 2,
+        "player_name": "Michael Frederick",
+        "player_team": "Fremantle",
+        "allocated_expected_votes": 1.236063786365186
+      },
+      {
+        "model_rank": 3,
+        "player_name": "Luke Jackson",
+        "player_team": "Fremantle",
+        "allocated_expected_votes": 0.8674716690131349
+      }
+    ]
+  },
+  {
+    "match_id": 17194,
+    "match_round": 17,
+    "home": "Geelong",
+    "away": "Brisbane Lions",
+    "label": "Model-ranked Top 3",
+    "top3": [
+      {
+        "model_rank": 1,
+        "player_name": "Will Ashcroft",
+        "player_team": "Brisbane Lions",
+        "allocated_expected_votes": 2.2600648524064955
+      },
+      {
+        "model_rank": 2,
+        "player_name": "Patrick Dangerfield",
+        "player_team": "Geelong",
+        "allocated_expected_votes": 1.1769895757809632
+      },
+      {
+        "model_rank": 3,
+        "player_name": "Kai Lohmann",
+        "player_team": "Brisbane Lions",
+        "allocated_expected_votes": 0.690823997443661
+      }
+    ]
+  },
+  {
+    "match_id": 17195,
+    "match_round": 17,
+    "home": "Sydney",
+    "away": "Western Bulldogs",
+    "label": "Model-ranked Top 3",
+    "top3": [
+      {
+        "model_rank": 1,
+        "player_name": "Charlie Curnow",
+        "player_team": "Sydney",
+        "allocated_expected_votes": 2.589636966074523
+      },
+      {
+        "model_rank": 2,
+        "player_name": "Isaac Heeney",
+        "player_team": "Sydney",
+        "allocated_expected_votes": 1.1585195886725141
+      },
+      {
+        "model_rank": 3,
+        "player_name": "Brodie Grundy",
+        "player_team": "Sydney",
+        "allocated_expected_votes": 0.7900011706643941
+      }
+    ]
+  },
+  {
+    "match_id": 17196,
+    "match_round": 17,
+    "home": "West Coast",
+    "away": "Adelaide",
+    "label": "Model-ranked Top 3",
+    "top3": [
+      {
+        "model_rank": 1,
+        "player_name": "Jordan Dawson",
+        "player_team": "Adelaide",
+        "allocated_expected_votes": 2.5935288351486103
+      },
+      {
+        "model_rank": 2,
+        "player_name": "Darcy Fogarty",
+        "player_team": "Adelaide",
+        "allocated_expected_votes": 1.318242342578302
+      },
+      {
+        "model_rank": 3,
+        "player_name": "Izak Rankine",
+        "player_team": "Adelaide",
+        "allocated_expected_votes": 1.056821823830014
+      }
+    ]
+  },
+  {
+    "match_id": 17197,
+    "match_round": 17,
+    "home": "Hawthorn",
+    "away": "Melbourne",
+    "label": "Model-ranked Top 3",
+    "top3": [
+      {
+        "model_rank": 1,
+        "player_name": "Jacob van Rooyen",
+        "player_team": "Melbourne",
+        "allocated_expected_votes": 2.088443981655008
+      },
+      {
+        "model_rank": 2,
+        "player_name": "Max Gawn",
+        "player_team": "Melbourne",
+        "allocated_expected_votes": 1.6243013487608207
+      },
+      {
+        "model_rank": 3,
+        "player_name": "Bayley Fritsch",
+        "player_team": "Melbourne",
+        "allocated_expected_votes": 0.8838022665318729
+      }
+    ]
+  },
+  {
+    "match_id": 17198,
+    "match_round": 17,
+    "home": "Greater Western Sydney",
+    "away": "Fremantle",
+    "label": "Model-ranked Top 3",
+    "top3": [
+      {
+        "model_rank": 1,
+        "player_name": "Jake Stringer",
+        "player_team": "Greater Western Sydney",
+        "allocated_expected_votes": 2.3719697030403437
+      },
+      {
+        "model_rank": 2,
+        "player_name": "Toby Greene",
+        "player_team": "Greater Western Sydney",
+        "allocated_expected_votes": 1.7960076699821585
+      },
+      {
+        "model_rank": 3,
+        "player_name": "Clayton Oliver",
+        "player_team": "Greater Western Sydney",
+        "allocated_expected_votes": 1.174216968492966
+      }
+    ]
+  },
+  {
+    "match_id": 17199,
+    "match_round": 17,
+    "home": "Gold Coast",
+    "away": "Collingwood",
+    "label": "Model-ranked Top 3",
+    "top3": [
+      {
+        "model_rank": 1,
+        "player_name": "Nick Daicos",
+        "player_team": "Collingwood",
+        "allocated_expected_votes": 2.136514250485923
+      },
+      {
+        "model_rank": 2,
+        "player_name": "Zeke Uwland",
+        "player_team": "Gold Coast",
+        "allocated_expected_votes": 0.5186201390072269
+      },
+      {
+        "model_rank": 3,
+        "player_name": "Tim Membrey",
+        "player_team": "Collingwood",
+        "allocated_expected_votes": 0.451508866589751
+      }
+    ]
+  },
+  {
+    "match_id": 17200,
+    "match_round": 17,
+    "home": "Richmond",
+    "away": "Carlton",
+    "label": "Model-ranked Top 3",
+    "top3": [
+      {
+        "model_rank": 1,
+        "player_name": "George Hewett",
+        "player_team": "Carlton",
+        "allocated_expected_votes": 2.207340532642083
+      },
+      {
+        "model_rank": 2,
+        "player_name": "Jagga Smith",
+        "player_team": "Carlton",
+        "allocated_expected_votes": 1.5578010481591091
+      },
+      {
+        "model_rank": 3,
+        "player_name": "Tim Taranto",
+        "player_team": "Richmond",
+        "allocated_expected_votes": 0.8466161921930855
+      }
+    ]
+  },
+  {
+    "match_id": 17201,
+    "match_round": 17,
+    "home": "Essendon",
+    "away": "St Kilda",
+    "label": "Model-ranked Top 3",
+    "top3": [
+      {
+        "model_rank": 1,
+        "player_name": "Nasiah Wanganeen-Milera",
+        "player_team": "St Kilda",
+        "allocated_expected_votes": 2.729072946170587
+      },
+      {
+        "model_rank": 2,
+        "player_name": "Bradley Hill",
+        "player_team": "St Kilda",
+        "allocated_expected_votes": 1.413829603959803
+      },
+      {
+        "model_rank": 3,
+        "player_name": "Max Hall",
+        "player_team": "St Kilda",
+        "allocated_expected_votes": 0.8144729035353344
+      }
+    ]
+  },
+  {
+    "match_id": 17202,
+    "match_round": 17,
+    "home": "Port Adelaide",
+    "away": "North Melbourne",
+    "label": "Model-ranked Top 3",
+    "top3": [
+      {
+        "model_rank": 1,
+        "player_name": "Jason Horne-Francis",
+        "player_team": "Port Adelaide",
+        "allocated_expected_votes": 1.8376249701604233
+      },
+      {
+        "model_rank": 2,
+        "player_name": "Zak Butters",
+        "player_team": "Port Adelaide",
+        "allocated_expected_votes": 1.257098253173409
+      },
+      {
+        "model_rank": 3,
+        "player_name": "Harry Sheezel",
+        "player_team": "North Melbourne",
+        "allocated_expected_votes": 0.9948442052607954
+      }
+    ]
+  },
+  {
+    "match_id": 17203,
+    "match_round": 18,
+    "home": "Fremantle",
+    "away": "Sydney",
+    "label": "Model-ranked Top 3",
+    "top3": [
+      {
+        "model_rank": 1,
+        "player_name": "Murphy Reid",
+        "player_team": "Fremantle",
+        "allocated_expected_votes": 1.4651432652581518
+      },
+      {
+        "model_rank": 2,
+        "player_name": "Charlie Curnow",
+        "player_team": "Sydney",
+        "allocated_expected_votes": 1.0481864436573112
+      },
+      {
+        "model_rank": 3,
+        "player_name": "Caleb Serong",
+        "player_team": "Fremantle",
+        "allocated_expected_votes": 1.0097414164747023
+      }
+    ]
+  },
+  {
+    "match_id": 17204,
+    "match_round": 18,
+    "home": "Collingwood",
+    "away": "North Melbourne",
+    "label": "Model-ranked Top 3",
+    "top3": [
+      {
+        "model_rank": 1,
+        "player_name": "Josh Daicos",
+        "player_team": "Collingwood",
+        "allocated_expected_votes": 1.3395533922999354
+      },
+      {
+        "model_rank": 2,
+        "player_name": "Darcy Cameron",
+        "player_team": "Collingwood",
+        "allocated_expected_votes": 0.664301878208866
+      },
+      {
+        "model_rank": 3,
+        "player_name": "Nick Daicos",
+        "player_team": "Collingwood",
+        "allocated_expected_votes": 0.4285421290818446
+      }
+    ]
+  },
+  {
+    "match_id": 17205,
+    "match_round": 18,
+    "home": "St Kilda",
+    "away": "Port Adelaide",
+    "label": "Model-ranked Top 3",
+    "top3": [
+      {
+        "model_rank": 1,
+        "player_name": "Bradley Hill",
+        "player_team": "St Kilda",
+        "allocated_expected_votes": 1.238109269835233
+      },
+      {
+        "model_rank": 2,
+        "player_name": "Callum Wilkie",
+        "player_team": "St Kilda",
+        "allocated_expected_votes": 1.2218363510999117
+      },
+      {
+        "model_rank": 3,
+        "player_name": "Rowan Marshall",
+        "player_team": "St Kilda",
+        "allocated_expected_votes": 1.210299463927217
+      }
+    ]
+  },
+  {
+    "match_id": 17206,
+    "match_round": 18,
+    "home": "Greater Western Sydney",
+    "away": "Geelong",
+    "label": "Model-ranked Top 3",
+    "top3": [
+      {
+        "model_rank": 1,
+        "player_name": "Shaun Mannagh",
+        "player_team": "Geelong",
+        "allocated_expected_votes": 1.661656509041323
+      },
+      {
+        "model_rank": 2,
+        "player_name": "Clayton Oliver",
+        "player_team": "Greater Western Sydney",
+        "allocated_expected_votes": 1.4499311583684558
+      },
+      {
+        "model_rank": 3,
+        "player_name": "Toby Greene",
+        "player_team": "Greater Western Sydney",
+        "allocated_expected_votes": 0.9884965994200205
+      }
+    ]
+  },
+  {
+    "match_id": 17207,
+    "match_round": 18,
+    "home": "Carlton",
+    "away": "Hawthorn",
+    "label": "Model-ranked Top 3",
+    "top3": [
+      {
+        "model_rank": 1,
+        "player_name": "Jack Ginnivan",
+        "player_team": "Hawthorn",
+        "allocated_expected_votes": 1.4919072729225575
+      },
+      {
+        "model_rank": 2,
+        "player_name": "Lloyd Meek",
+        "player_team": "Hawthorn",
+        "allocated_expected_votes": 0.975534575190605
+      },
+      {
+        "model_rank": 3,
+        "player_name": "Connor Macdonald",
+        "player_team": "Hawthorn",
+        "allocated_expected_votes": 0.7605870408504503
+      }
+    ]
+  },
+  {
+    "match_id": 17208,
+    "match_round": 18,
+    "home": "Adelaide",
+    "away": "Gold Coast",
+    "label": "Model-ranked Top 3",
+    "top3": [
+      {
+        "model_rank": 1,
+        "player_name": "Jordan Dawson",
+        "player_team": "Adelaide",
+        "allocated_expected_votes": 2.0339584688184145
+      },
+      {
+        "model_rank": 2,
+        "player_name": "Izak Rankine",
+        "player_team": "Adelaide",
+        "allocated_expected_votes": 1.683142877618552
+      },
+      {
+        "model_rank": 3,
+        "player_name": "Taylor Walker",
+        "player_team": "Adelaide",
+        "allocated_expected_votes": 1.0451636799819009
+      }
+    ]
+  },
+  {
+    "match_id": 17209,
+    "match_round": 18,
+    "home": "Western Bulldogs",
+    "away": "West Coast",
+    "label": "Model-ranked Top 3",
+    "top3": [
+      {
+        "model_rank": 1,
+        "player_name": "Marcus Bontempelli",
+        "player_team": "Western Bulldogs",
+        "allocated_expected_votes": 2.439528126833502
+      },
+      {
+        "model_rank": 2,
+        "player_name": "Aaron Naughton",
+        "player_team": "Western Bulldogs",
+        "allocated_expected_votes": 1.5948282680960733
+      },
+      {
+        "model_rank": 3,
+        "player_name": "Harley Reid",
+        "player_team": "West Coast",
+        "allocated_expected_votes": 0.9458132953092002
+      }
+    ]
+  },
+  {
+    "match_id": 17210,
+    "match_round": 18,
+    "home": "Melbourne",
+    "away": "Richmond",
+    "label": "Model-ranked Top 3",
+    "top3": [
+      {
+        "model_rank": 1,
+        "player_name": "Jacob van Rooyen",
+        "player_team": "Melbourne",
+        "allocated_expected_votes": 2.471165265105894
+      },
+      {
+        "model_rank": 2,
+        "player_name": "Tom Sparrow",
+        "player_team": "Melbourne",
+        "allocated_expected_votes": 0.9081931491457356
+      },
+      {
+        "model_rank": 3,
+        "player_name": "Jake Bowey",
+        "player_team": "Melbourne",
+        "allocated_expected_votes": 0.7421723235360883
+      }
+    ]
+  },
+  {
+    "match_id": 17211,
+    "match_round": 18,
+    "home": "Brisbane Lions",
+    "away": "Essendon",
+    "label": "Model-ranked Top 3",
+    "top3": [
+      {
+        "model_rank": 1,
+        "player_name": "Will Ashcroft",
+        "player_team": "Brisbane Lions",
+        "allocated_expected_votes": 2.5621841191877275
+      },
+      {
+        "model_rank": 2,
+        "player_name": "Lachie Neale",
+        "player_team": "Brisbane Lions",
+        "allocated_expected_votes": 2.3583192219360423
+      },
+      {
+        "model_rank": 3,
+        "player_name": "Zac Bailey",
+        "player_team": "Brisbane Lions",
+        "allocated_expected_votes": 0.44412425402874905
+      }
+    ]
+  },
+  {
+    "match_id": 17212,
+    "match_round": 19,
+    "home": "Geelong",
+    "away": "St Kilda",
+    "label": "Model-ranked Top 3",
+    "top3": [
+      {
+        "model_rank": 1,
+        "player_name": "Bailey Smith",
+        "player_team": "Geelong",
+        "allocated_expected_votes": 2.587468114202595
+      },
+      {
+        "model_rank": 2,
+        "player_name": "Rowan Marshall",
+        "player_team": "St Kilda",
+        "allocated_expected_votes": 1.748208823534032
+      },
+      {
+        "model_rank": 3,
+        "player_name": "Gryan Miers",
+        "player_team": "Geelong",
+        "allocated_expected_votes": 0.9392837576275278
+      }
+    ]
+  },
+  {
+    "match_id": 17213,
+    "match_round": 19,
+    "home": "Sydney",
+    "away": "Adelaide",
+    "label": "Model-ranked Top 3",
+    "top3": [
+      {
+        "model_rank": 1,
+        "player_name": "Darcy Fogarty",
+        "player_team": "Adelaide",
+        "allocated_expected_votes": 1.5049091321228385
+      },
+      {
+        "model_rank": 2,
+        "player_name": "Tom Papley",
+        "player_team": "Sydney",
+        "allocated_expected_votes": 1.273241703899608
+      },
+      {
+        "model_rank": 3,
+        "player_name": "Izak Rankine",
+        "player_team": "Adelaide",
+        "allocated_expected_votes": 1.1904802857118022
+      }
+    ]
+  },
+  {
+    "match_id": 17214,
+    "match_round": 19,
+    "home": "Port Adelaide",
+    "away": "Fremantle",
+    "label": "Model-ranked Top 3",
+    "top3": [
+      {
+        "model_rank": 1,
+        "player_name": "Caleb Serong",
+        "player_team": "Fremantle",
+        "allocated_expected_votes": 1.6579900376004442
+      },
+      {
+        "model_rank": 2,
+        "player_name": "Andrew Brayshaw",
+        "player_team": "Fremantle",
+        "allocated_expected_votes": 1.2051373986503602
+      },
+      {
+        "model_rank": 3,
+        "player_name": "Jye Amiss",
+        "player_team": "Fremantle",
+        "allocated_expected_votes": 1.0815939269650081
+      }
+    ]
+  },
+  {
+    "match_id": 17215,
+    "match_round": 19,
+    "home": "North Melbourne",
+    "away": "Melbourne",
+    "label": "Model-ranked Top 3",
+    "top3": [
+      {
+        "model_rank": 1,
+        "player_name": "Tom Sparrow",
+        "player_team": "Melbourne",
+        "allocated_expected_votes": 2.2060454381903867
+      },
+      {
+        "model_rank": 2,
+        "player_name": "Kysaiah Pickett",
+        "player_team": "Melbourne",
+        "allocated_expected_votes": 1.2984930858014827
+      },
+      {
+        "model_rank": 3,
+        "player_name": "Matthew Jefferson",
+        "player_team": "Melbourne",
+        "allocated_expected_votes": 0.5168441905712072
+      }
+    ]
+  },
+  {
+    "match_id": 17216,
+    "match_round": 19,
+    "home": "Collingwood",
+    "away": "Carlton",
+    "label": "Model-ranked Top 3",
+    "top3": [
+      {
+        "model_rank": 1,
+        "player_name": "Nick Daicos",
+        "player_team": "Collingwood",
+        "allocated_expected_votes": 2.341344321372167
+      },
+      {
+        "model_rank": 2,
+        "player_name": "Patrick Cripps",
+        "player_team": "Carlton",
+        "allocated_expected_votes": 1.7898913751912338
+      },
+      {
+        "model_rank": 3,
+        "player_name": "Darcy Cameron",
+        "player_team": "Collingwood",
+        "allocated_expected_votes": 0.46141977777637105
+      }
+    ]
+  },
+  {
+    "match_id": 17217,
+    "match_round": 19,
+    "home": "West Coast",
+    "away": "Brisbane Lions",
+    "label": "Model-ranked Top 3",
+    "top3": [
+      {
+        "model_rank": 1,
+        "player_name": "Will Ashcroft",
+        "player_team": "Brisbane Lions",
+        "allocated_expected_votes": 1.3349710116045534
+      },
+      {
+        "model_rank": 2,
+        "player_name": "Harris Andrews",
+        "player_team": "Brisbane Lions",
+        "allocated_expected_votes": 1.2882891357957573
+      },
+      {
+        "model_rank": 3,
+        "player_name": "Kai Lohmann",
+        "player_team": "Brisbane Lions",
+        "allocated_expected_votes": 1.2231714096346507
+      }
+    ]
+  },
+  {
+    "match_id": 17218,
+    "match_round": 19,
+    "home": "Richmond",
+    "away": "Hawthorn",
+    "label": "Model-ranked Top 3",
+    "top3": [
+      {
+        "model_rank": 1,
+        "player_name": "Jarman Impey",
+        "player_team": "Hawthorn",
+        "allocated_expected_votes": 1.7802563556239335
+      },
+      {
+        "model_rank": 2,
+        "player_name": "Mitch Lewis",
+        "player_team": "Hawthorn",
+        "allocated_expected_votes": 1.4759009251824593
+      },
+      {
+        "model_rank": 3,
+        "player_name": "Nick Watson",
+        "player_team": "Hawthorn",
+        "allocated_expected_votes": 1.2183903733202812
+      }
+    ]
+  },
+  {
+    "match_id": 17219,
+    "match_round": 19,
+    "home": "Gold Coast",
+    "away": "Western Bulldogs",
+    "label": "Model-ranked Top 3",
+    "top3": [
+      {
+        "model_rank": 1,
+        "player_name": "Marcus Bontempelli",
+        "player_team": "Western Bulldogs",
+        "allocated_expected_votes": 2.6549772013849853
+      },
+      {
+        "model_rank": 2,
+        "player_name": "Touk Miller",
+        "player_team": "Gold Coast",
+        "allocated_expected_votes": 0.9121958433024885
+      },
+      {
+        "model_rank": 3,
+        "player_name": "Matt Rowell",
+        "player_team": "Gold Coast",
+        "allocated_expected_votes": 0.8255237391347624
+      }
+    ]
+  },
+  {
+    "match_id": 17220,
+    "match_round": 19,
+    "home": "Essendon",
+    "away": "Greater Western Sydney",
+    "label": "Model-ranked Top 3",
+    "top3": [
+      {
+        "model_rank": 1,
+        "player_name": "Zach Merrett",
+        "player_team": "Essendon",
+        "allocated_expected_votes": 2.0823546175242065
+      },
+      {
+        "model_rank": 2,
+        "player_name": "Sam Durham",
+        "player_team": "Essendon",
+        "allocated_expected_votes": 1.1668059263204493
+      },
+      {
+        "model_rank": 3,
+        "player_name": "Nick Bryan",
+        "player_team": "Essendon",
+        "allocated_expected_votes": 0.9001589686276118
+      }
+    ]
+  },
+  {
+    "match_id": 17221,
+    "match_round": 20,
+    "home": "Adelaide",
+    "away": "Collingwood",
+    "label": "Model-ranked Top 3",
+    "top3": [
+      {
+        "model_rank": 1,
+        "player_name": "Nick Daicos",
+        "player_team": "Collingwood",
+        "allocated_expected_votes": 2.65214125617421
+      },
+      {
+        "model_rank": 2,
+        "player_name": "Darcy Cameron",
+        "player_team": "Collingwood",
+        "allocated_expected_votes": 0.8990105623792269
+      },
+      {
+        "model_rank": 3,
+        "player_name": "Scott Pendlebury",
+        "player_team": "Collingwood",
+        "allocated_expected_votes": 0.45478008507782064
+      }
+    ]
+  },
+  {
+    "match_id": 17222,
+    "match_round": 20,
+    "home": "Melbourne",
+    "away": "Geelong",
+    "label": "Model-ranked Top 3",
+    "top3": [
+      {
+        "model_rank": 1,
+        "player_name": "Shannon Neale",
+        "player_team": "Geelong",
+        "allocated_expected_votes": 1.537804766022627
+      },
+      {
+        "model_rank": 2,
+        "player_name": "Bailey Smith",
+        "player_team": "Geelong",
+        "allocated_expected_votes": 0.8621341705446663
+      },
+      {
+        "model_rank": 3,
+        "player_name": "Connor OSullivan",
+        "player_team": "Geelong",
+        "allocated_expected_votes": 0.6398694546027277
+      }
+    ]
+  },
+  {
+    "match_id": 17223,
+    "match_round": 20,
+    "home": "Fremantle",
+    "away": "West Coast",
+    "label": "Model-ranked Top 3",
+    "top3": [
+      {
+        "model_rank": 1,
+        "player_name": "Jye Amiss",
+        "player_team": "Fremantle",
+        "allocated_expected_votes": 2.155802131670524
+      },
+      {
+        "model_rank": 2,
+        "player_name": "Caleb Serong",
+        "player_team": "Fremantle",
+        "allocated_expected_votes": 1.1801561184960698
+      },
+      {
+        "model_rank": 3,
+        "player_name": "Murphy Reid",
+        "player_team": "Fremantle",
+        "allocated_expected_votes": 0.8540044736275618
+      }
+    ]
+  },
+  {
+    "match_id": 17224,
+    "match_round": 20,
+    "home": "Carlton",
+    "away": "Gold Coast",
+    "label": "Model-ranked Top 3",
+    "top3": [
+      {
+        "model_rank": 1,
+        "player_name": "Patrick Cripps",
+        "player_team": "Carlton",
+        "allocated_expected_votes": 1.7963374776971082
+      },
+      {
+        "model_rank": 2,
+        "player_name": "Jagga Smith",
+        "player_team": "Carlton",
+        "allocated_expected_votes": 1.0891016137764458
+      },
+      {
+        "model_rank": 3,
+        "player_name": "Noah Anderson",
+        "player_team": "Gold Coast",
+        "allocated_expected_votes": 0.6768280682693004
+      }
+    ]
+  },
+  {
+    "match_id": 17225,
+    "match_round": 20,
+    "home": "Hawthorn",
+    "away": "Essendon",
+    "label": "Model-ranked Top 3",
+    "top3": [
+      {
+        "model_rank": 1,
+        "player_name": "Jack Gunston",
+        "player_team": "Hawthorn",
+        "allocated_expected_votes": 2.3934171941093636
+      },
+      {
+        "model_rank": 2,
+        "player_name": "Jarman Impey",
+        "player_team": "Hawthorn",
+        "allocated_expected_votes": 2.1008112173721463
+      },
+      {
+        "model_rank": 3,
+        "player_name": "Josh Ward",
+        "player_team": "Hawthorn",
+        "allocated_expected_votes": 0.586450966310828
+      }
+    ]
+  },
+  {
+    "match_id": 17226,
+    "match_round": 20,
+    "home": "Greater Western Sydney",
+    "away": "Sydney",
+    "label": "Model-ranked Top 3",
+    "top3": [
+      {
+        "model_rank": 1,
+        "player_name": "Errol Gulden",
+        "player_team": "Sydney",
+        "allocated_expected_votes": 2.579669237392038
+      },
+      {
+        "model_rank": 2,
+        "player_name": "Chad Warner",
+        "player_team": "Sydney",
+        "allocated_expected_votes": 1.7036085426867924
+      },
+      {
+        "model_rank": 3,
+        "player_name": "Brodie Grundy",
+        "player_team": "Sydney",
+        "allocated_expected_votes": 0.7933450630590763
+      }
+    ]
+  },
+  {
+    "match_id": 17227,
+    "match_round": 20,
+    "home": "Western Bulldogs",
+    "away": "Richmond",
+    "label": "Model-ranked Top 3",
+    "top3": [
+      {
+        "model_rank": 1,
+        "player_name": "Ed Richards",
+        "player_team": "Western Bulldogs",
+        "allocated_expected_votes": 2.451765588023269
+      },
+      {
+        "model_rank": 2,
+        "player_name": "Marcus Bontempelli",
+        "player_team": "Western Bulldogs",
+        "allocated_expected_votes": 2.2834697451099832
+      },
+      {
+        "model_rank": 3,
+        "player_name": "Lachlan Bramble",
+        "player_team": "Western Bulldogs",
+        "allocated_expected_votes": 0.1280201842035904
+      }
+    ]
+  },
+  {
+    "match_id": 17228,
+    "match_round": 20,
+    "home": "Brisbane Lions",
+    "away": "Port Adelaide",
+    "label": "Model-ranked Top 3",
+    "top3": [
+      {
+        "model_rank": 1,
+        "player_name": "Will Ashcroft",
+        "player_team": "Brisbane Lions",
+        "allocated_expected_votes": 2.126514630427376
+      },
+      {
+        "model_rank": 2,
+        "player_name": "Zac Bailey",
+        "player_team": "Brisbane Lions",
+        "allocated_expected_votes": 1.1781443575156727
+      },
+      {
+        "model_rank": 3,
+        "player_name": "Dayne Zorko",
+        "player_team": "Brisbane Lions",
+        "allocated_expected_votes": 0.8605291925916608
+      }
+    ]
+  },
+  {
+    "match_id": 17229,
+    "match_round": 20,
+    "home": "North Melbourne",
+    "away": "St Kilda",
+    "label": "Model-ranked Top 3",
+    "top3": [
+      {
+        "model_rank": 1,
+        "player_name": "Nasiah Wanganeen-Milera",
+        "player_team": "St Kilda",
+        "allocated_expected_votes": 2.5061386833595685
+      },
+      {
+        "model_rank": 2,
+        "player_name": "Bradley Hill",
+        "player_team": "St Kilda",
+        "allocated_expected_votes": 0.44289043129150396
+      },
+      {
+        "model_rank": 3,
+        "player_name": "Tom De Koning",
+        "player_team": "St Kilda",
+        "allocated_expected_votes": 0.262461037712886
+      }
+    ]
+  },
+  {
+    "match_id": 17230,
+    "match_round": 21,
+    "home": "Collingwood",
+    "away": "Geelong",
+    "label": "Model-ranked Top 3",
+    "top3": [
+      {
+        "model_rank": 1,
+        "player_name": "Oliver Dempsey",
+        "player_team": "Geelong",
+        "allocated_expected_votes": 2.1818789528316995
+      },
+      {
+        "model_rank": 2,
+        "player_name": "Nick Daicos",
+        "player_team": "Collingwood",
+        "allocated_expected_votes": 1.0773647013795158
+      },
+      {
+        "model_rank": 3,
+        "player_name": "Daniel McStay",
+        "player_team": "Collingwood",
+        "allocated_expected_votes": 0.9848570783398277
+      }
+    ]
+  },
+  {
+    "match_id": 17231,
+    "match_round": 21,
+    "home": "Fremantle",
+    "away": "Western Bulldogs",
+    "label": "Model-ranked Top 3",
+    "top3": [
+      {
+        "model_rank": 1,
+        "player_name": "Karl Worner",
+        "player_team": "Fremantle",
+        "allocated_expected_votes": 1.7605038146695073
+      },
+      {
+        "model_rank": 2,
+        "player_name": "Josh Treacy",
+        "player_team": "Fremantle",
+        "allocated_expected_votes": 0.5631863683626123
+      },
+      {
+        "model_rank": 3,
+        "player_name": "Oscar McDonald",
+        "player_team": "Fremantle",
+        "allocated_expected_votes": 0.4589691461038892
+      }
+    ]
+  },
+  {
+    "match_id": 17232,
+    "match_round": 21,
+    "home": "St Kilda",
+    "away": "Sydney",
+    "label": "Model-ranked Top 3",
+    "top3": [
+      {
+        "model_rank": 1,
+        "player_name": "Errol Gulden",
+        "player_team": "Sydney",
+        "allocated_expected_votes": 2.2905867300647493
+      },
+      {
+        "model_rank": 2,
+        "player_name": "Chad Warner",
+        "player_team": "Sydney",
+        "allocated_expected_votes": 1.5228221168137699
+      },
+      {
+        "model_rank": 3,
+        "player_name": "Isaac Heeney",
+        "player_team": "Sydney",
+        "allocated_expected_votes": 0.5694917937721757
+      }
+    ]
+  },
+  {
+    "match_id": 17233,
+    "match_round": 21,
+    "home": "Hawthorn",
+    "away": "North Melbourne",
+    "label": "Model-ranked Top 3",
+    "top3": [
+      {
+        "model_rank": 1,
+        "player_name": "Jai Newcombe",
+        "player_team": "Hawthorn",
+        "allocated_expected_votes": 2.338959248956595
+      },
+      {
+        "model_rank": 2,
+        "player_name": "Nick Watson",
+        "player_team": "Hawthorn",
+        "allocated_expected_votes": 1.6361229581964984
+      },
+      {
+        "model_rank": 3,
+        "player_name": "Jarman Impey",
+        "player_team": "Hawthorn",
+        "allocated_expected_votes": 0.4951620330781588
+      }
+    ]
+  },
+  {
+    "match_id": 17234,
+    "match_round": 21,
+    "home": "Port Adelaide",
+    "away": "Greater Western Sydney",
+    "label": "Model-ranked Top 3",
+    "top3": [
+      {
+        "model_rank": 1,
+        "player_name": "Lachie Whitfield",
+        "player_team": "Greater Western Sydney",
+        "allocated_expected_votes": 2.272055553348919
+      },
+      {
+        "model_rank": 2,
+        "player_name": "Jason Horne-Francis",
+        "player_team": "Port Adelaide",
+        "allocated_expected_votes": 1.905611627683254
+      },
+      {
+        "model_rank": 3,
+        "player_name": "Stephen Coniglio",
+        "player_team": "Greater Western Sydney",
+        "allocated_expected_votes": 1.2028037849096245
+      }
+    ]
+  },
+  {
+    "match_id": 17235,
+    "match_round": 21,
+    "home": "Carlton",
+    "away": "Brisbane Lions",
+    "label": "Model-ranked Top 3",
+    "top3": [
+      {
+        "model_rank": 1,
+        "player_name": "Jagga Smith",
+        "player_team": "Carlton",
+        "allocated_expected_votes": 1.846964491452527
+      },
+      {
+        "model_rank": 2,
+        "player_name": "George Hewett",
+        "player_team": "Carlton",
+        "allocated_expected_votes": 1.4612597461714456
+      },
+      {
+        "model_rank": 3,
+        "player_name": "Brodie Kemp",
+        "player_team": "Carlton",
+        "allocated_expected_votes": 1.0516873538622706
+      }
+    ]
+  },
+  {
+    "match_id": 17236,
+    "match_round": 21,
+    "home": "Richmond",
+    "away": "West Coast",
+    "label": "Model-ranked Top 3",
+    "top3": [
+      {
+        "model_rank": 1,
+        "player_name": "Tim Taranto",
+        "player_team": "Richmond",
+        "allocated_expected_votes": 2.1941389517101797
+      },
+      {
+        "model_rank": 2,
+        "player_name": "Harley Reid",
+        "player_team": "West Coast",
+        "allocated_expected_votes": 1.899335479393092
+      },
+      {
+        "model_rank": 3,
+        "player_name": "Jack Ross",
+        "player_team": "Richmond",
+        "allocated_expected_votes": 0.32834161178837307
+      }
+    ]
+  },
+  {
+    "match_id": 17237,
+    "match_round": 21,
+    "home": "Gold Coast",
+    "away": "Melbourne",
+    "label": "Model-ranked Top 3",
+    "top3": [
+      {
+        "model_rank": 1,
+        "player_name": "Max Gawn",
+        "player_team": "Melbourne",
+        "allocated_expected_votes": 2.098121202663304
+      },
+      {
+        "model_rank": 2,
+        "player_name": "Matt Rowell",
+        "player_team": "Gold Coast",
+        "allocated_expected_votes": 1.1135516995408976
+      },
+      {
+        "model_rank": 3,
+        "player_name": "Joel Fitzgerald",
+        "player_team": "Melbourne",
+        "allocated_expected_votes": 0.736279449430791
+      }
+    ]
+  },
+  {
+    "match_id": 17238,
+    "match_round": 21,
+    "home": "Essendon",
+    "away": "Adelaide",
+    "label": "Model-ranked Top 3",
+    "top3": [
+      {
+        "model_rank": 1,
+        "player_name": "Riley Thilthorpe",
+        "player_team": "Adelaide",
+        "allocated_expected_votes": 2.2268431952395638
+      },
+      {
+        "model_rank": 2,
+        "player_name": "Izak Rankine",
+        "player_team": "Adelaide",
+        "allocated_expected_votes": 1.6297122639571644
+      },
+      {
+        "model_rank": 3,
+        "player_name": "Jordan Dawson",
+        "player_team": "Adelaide",
+        "allocated_expected_votes": 1.3891293344217732
+      }
+    ]
+  },
+  {
+    "match_id": 17239,
+    "match_round": 22,
+    "home": "Western Bulldogs",
+    "away": "North Melbourne",
+    "label": "Model-ranked Top 3",
+    "top3": [
+      {
+        "model_rank": 1,
+        "player_name": "Luke Davies-Uniacke",
+        "player_team": "North Melbourne",
+        "allocated_expected_votes": 2.628433402092596
+      },
+      {
+        "model_rank": 2,
+        "player_name": "Paul Curtis",
+        "player_team": "North Melbourne",
+        "allocated_expected_votes": 0.8929398716892737
+      },
+      {
+        "model_rank": 3,
+        "player_name": "Caleb Daniel",
+        "player_team": "North Melbourne",
+        "allocated_expected_votes": 0.49478510344515403
+      }
+    ]
+  },
+  {
+    "match_id": 17240,
+    "match_round": 22,
+    "home": "Brisbane Lions",
+    "away": "Hawthorn",
+    "label": "Model-ranked Top 3",
+    "top3": [
+      {
+        "model_rank": 1,
+        "player_name": "Kai Lohmann",
+        "player_team": "Brisbane Lions",
+        "allocated_expected_votes": 2.296608282210684
+      },
+      {
+        "model_rank": 2,
+        "player_name": "Will Ashcroft",
+        "player_team": "Brisbane Lions",
+        "allocated_expected_votes": 1.8339301922534514
+      },
+      {
+        "model_rank": 3,
+        "player_name": "Lachie Neale",
+        "player_team": "Brisbane Lions",
+        "allocated_expected_votes": 0.8410982701482224
+      }
+    ]
+  },
+  {
+    "match_id": 17241,
+    "match_round": 22,
+    "home": "Melbourne",
+    "away": "Fremantle",
+    "label": "Model-ranked Top 3",
+    "top3": [
+      {
+        "model_rank": 1,
+        "player_name": "Kysaiah Pickett",
+        "player_team": "Melbourne",
+        "allocated_expected_votes": 2.062358705613298
+      },
+      {
+        "model_rank": 2,
+        "player_name": "Jye Amiss",
+        "player_team": "Fremantle",
+        "allocated_expected_votes": 0.5399399293278696
+      },
+      {
+        "model_rank": 3,
+        "player_name": "Tom Sparrow",
+        "player_team": "Melbourne",
+        "allocated_expected_votes": 0.4079320745780001
+      }
+    ]
+  },
+  {
+    "match_id": 17242,
+    "match_round": 22,
+    "home": "Sydney",
+    "away": "Port Adelaide",
+    "label": "Model-ranked Top 3",
+    "top3": [
+      {
+        "model_rank": 1,
+        "player_name": "Errol Gulden",
+        "player_team": "Sydney",
+        "allocated_expected_votes": 2.2950027729925173
+      },
+      {
+        "model_rank": 2,
+        "player_name": "Chad Warner",
+        "player_team": "Sydney",
+        "allocated_expected_votes": 1.7604930975724682
+      },
+      {
+        "model_rank": 3,
+        "player_name": "Charlie Curnow",
+        "player_team": "Sydney",
+        "allocated_expected_votes": 0.7123674344288028
+      }
+    ]
+  },
+  {
+    "match_id": 17243,
+    "match_round": 22,
+    "home": "Geelong",
+    "away": "Essendon",
+    "label": "Model-ranked Top 3",
+    "top3": [
+      {
+        "model_rank": 1,
+        "player_name": "Bailey Smith",
+        "player_team": "Geelong",
+        "allocated_expected_votes": 2.1099080347323818
+      },
+      {
+        "model_rank": 2,
+        "player_name": "Oliver Dempsey",
+        "player_team": "Geelong",
+        "allocated_expected_votes": 1.591078472400216
+      },
+      {
+        "model_rank": 3,
+        "player_name": "Oliver Henry",
+        "player_team": "Geelong",
+        "allocated_expected_votes": 0.7625756871382113
+      }
+    ]
+  },
+  {
+    "match_id": 17244,
+    "match_round": 22,
+    "home": "Adelaide",
+    "away": "Richmond",
+    "label": "Model-ranked Top 3",
+    "top3": [
+      {
+        "model_rank": 1,
+        "player_name": "Izak Rankine",
+        "player_team": "Adelaide",
+        "allocated_expected_votes": 2.4786050058045754
+      },
+      {
+        "model_rank": 2,
+        "player_name": "Jordan Dawson",
+        "player_team": "Adelaide",
+        "allocated_expected_votes": 1.7981881094240288
+      },
+      {
+        "model_rank": 3,
+        "player_name": "Jack Ross",
+        "player_team": "Richmond",
+        "allocated_expected_votes": 0.4347039217901286
+      }
+    ]
+  },
+  {
+    "match_id": 17245,
+    "match_round": 22,
+    "home": "Greater Western Sydney",
+    "away": "Gold Coast",
+    "label": "Model-ranked Top 3",
+    "top3": [
+      {
+        "model_rank": 1,
+        "player_name": "Matt Rowell",
+        "player_team": "Gold Coast",
+        "allocated_expected_votes": 2.5617621337031906
+      },
+      {
+        "model_rank": 2,
+        "player_name": "Touk Miller",
+        "player_team": "Gold Coast",
+        "allocated_expected_votes": 1.7842654167712653
+      },
+      {
+        "model_rank": 3,
+        "player_name": "Noah Anderson",
+        "player_team": "Gold Coast",
+        "allocated_expected_votes": 0.4247028008444654
+      }
+    ]
+  },
+  {
+    "match_id": 17246,
+    "match_round": 22,
+    "home": "West Coast",
+    "away": "Collingwood",
+    "label": "Model-ranked Top 3",
+    "top3": [
+      {
+        "model_rank": 1,
+        "player_name": "Nick Daicos",
+        "player_team": "Collingwood",
+        "allocated_expected_votes": 2.4570319241278327
+      },
+      {
+        "model_rank": 2,
+        "player_name": "Josh Daicos",
+        "player_team": "Collingwood",
+        "allocated_expected_votes": 1.3067840457545459
+      },
+      {
+        "model_rank": 3,
+        "player_name": "Daniel McStay",
+        "player_team": "Collingwood",
+        "allocated_expected_votes": 1.2364025472697324
+      }
+    ]
+  },
+  {
+    "match_id": 17247,
+    "match_round": 22,
+    "home": "St Kilda",
+    "away": "Carlton",
+    "label": "Model-ranked Top 3",
+    "top3": [
+      {
+        "model_rank": 1,
+        "player_name": "Francis Evans",
+        "player_team": "Carlton",
+        "allocated_expected_votes": 1.1947354031735218
+      },
+      {
+        "model_rank": 2,
+        "player_name": "Patrick Cripps",
+        "player_team": "Carlton",
+        "allocated_expected_votes": 1.0665647410853247
+      },
+      {
+        "model_rank": 3,
+        "player_name": "Max Hall",
+        "player_team": "St Kilda",
+        "allocated_expected_votes": 0.8686318909693818
+      }
+    ]
+  },
+  {
+    "match_id": 17248,
+    "match_round": 23,
+    "home": "Fremantle",
+    "away": "Adelaide",
+    "label": "Model-ranked Top 3",
+    "top3": [
+      {
+        "model_rank": 1,
+        "player_name": "Caleb Serong",
+        "player_team": "Fremantle",
+        "allocated_expected_votes": 2.391543596676301
+      },
+      {
+        "model_rank": 2,
+        "player_name": "Izak Rankine",
+        "player_team": "Adelaide",
+        "allocated_expected_votes": 1.3334491490212164
+      },
+      {
+        "model_rank": 3,
+        "player_name": "Jye Amiss",
+        "player_team": "Fremantle",
+        "allocated_expected_votes": 0.9679651919143926
+      }
+    ]
+  },
+  {
+    "match_id": 17249,
+    "match_round": 23,
+    "home": "Richmond",
+    "away": "St Kilda",
+    "label": "Model-ranked Top 3",
+    "top3": [
+      {
+        "model_rank": 1,
+        "player_name": "Max Hall",
+        "player_team": "St Kilda",
+        "allocated_expected_votes": 1.9666856581849779
+      },
+      {
+        "model_rank": 2,
+        "player_name": "Mitch Owens",
+        "player_team": "St Kilda",
+        "allocated_expected_votes": 1.454084602965304
+      },
+      {
+        "model_rank": 3,
+        "player_name": "Bradley Hill",
+        "player_team": "St Kilda",
+        "allocated_expected_votes": 1.4447322027817942
+      }
+    ]
+  },
+  {
+    "match_id": 17250,
+    "match_round": 23,
+    "home": "North Melbourne",
+    "away": "Geelong",
+    "label": "Model-ranked Top 3",
+    "top3": [
+      {
+        "model_rank": 1,
+        "player_name": "Tanner Bruhn",
+        "player_team": "Geelong",
+        "allocated_expected_votes": 1.7097137330422383
+      },
+      {
+        "model_rank": 2,
+        "player_name": "Bailey Smith",
+        "player_team": "Geelong",
+        "allocated_expected_votes": 0.9670092240202071
+      },
+      {
+        "model_rank": 3,
+        "player_name": "Shaun Mannagh",
+        "player_team": "Geelong",
+        "allocated_expected_votes": 0.6667326711330273
+      }
+    ]
+  },
+  {
+    "match_id": 17251,
+    "match_round": 23,
+    "home": "Brisbane Lions",
+    "away": "Gold Coast",
+    "label": "Model-ranked Top 3",
+    "top3": [
+      {
+        "model_rank": 1,
+        "player_name": "Will Ashcroft",
+        "player_team": "Brisbane Lions",
+        "allocated_expected_votes": 2.3131648796740754
+      },
+      {
+        "model_rank": 2,
+        "player_name": "Levi Ashcroft",
+        "player_team": "Brisbane Lions",
+        "allocated_expected_votes": 0.6607866031237246
+      },
+      {
+        "model_rank": 3,
+        "player_name": "Lachie Neale",
+        "player_team": "Brisbane Lions",
+        "allocated_expected_votes": 0.607899270601602
+      }
+    ]
+  },
+  {
+    "match_id": 17252,
+    "match_round": 23,
+    "home": "Hawthorn",
+    "away": "Collingwood",
+    "label": "Model-ranked Top 3",
+    "top3": [
+      {
+        "model_rank": 1,
+        "player_name": "Nick Daicos",
+        "player_team": "Collingwood",
+        "allocated_expected_votes": 2.0764026900947443
+      },
+      {
+        "model_rank": 2,
+        "player_name": "Beau McCreery",
+        "player_team": "Collingwood",
+        "allocated_expected_votes": 0.9751605837713974
+      },
+      {
+        "model_rank": 3,
+        "player_name": "Josh Ward",
+        "player_team": "Hawthorn",
+        "allocated_expected_votes": 0.49552228611566446
+      }
+    ]
+  },
+  {
+    "match_id": 17253,
+    "match_round": 23,
+    "home": "Port Adelaide",
+    "away": "Melbourne",
+    "label": "Model-ranked Top 3",
+    "top3": [
+      {
+        "model_rank": 1,
+        "player_name": "Kade Chandler",
+        "player_team": "Melbourne",
+        "allocated_expected_votes": 1.3478384717934593
+      },
+      {
+        "model_rank": 2,
+        "player_name": "Max Gawn",
+        "player_team": "Melbourne",
+        "allocated_expected_votes": 1.2783545006799564
+      },
+      {
+        "model_rank": 3,
+        "player_name": "Jack Steele",
+        "player_team": "Melbourne",
+        "allocated_expected_votes": 0.7470562450495323
+      }
+    ]
+  },
+  {
+    "match_id": 17254,
+    "match_round": 23,
+    "home": "Greater Western Sydney",
+    "away": "West Coast",
+    "label": "Model-ranked Top 3",
+    "top3": [
+      {
+        "model_rank": 1,
+        "player_name": "Lachie Ash",
+        "player_team": "Greater Western Sydney",
+        "allocated_expected_votes": 2.059451217046539
+      },
+      {
+        "model_rank": 2,
+        "player_name": "Lachie Whitfield",
+        "player_team": "Greater Western Sydney",
+        "allocated_expected_votes": 1.4172695690425148
+      },
+      {
+        "model_rank": 3,
+        "player_name": "Clayton Oliver",
+        "player_team": "Greater Western Sydney",
+        "allocated_expected_votes": 0.561533472477124
+      }
+    ]
+  },
+  {
+    "match_id": 17255,
+    "match_round": 23,
+    "home": "Western Bulldogs",
+    "away": "Carlton",
+    "label": "Model-ranked Top 3",
+    "top3": [
+      {
+        "model_rank": 1,
+        "player_name": "Patrick Cripps",
+        "player_team": "Carlton",
+        "allocated_expected_votes": 1.5538508254018948
+      },
+      {
+        "model_rank": 2,
+        "player_name": "Ed Richards",
+        "player_team": "Western Bulldogs",
+        "allocated_expected_votes": 1.5509992598916538
+      },
+      {
+        "model_rank": 3,
+        "player_name": "Tom Liberatore",
+        "player_team": "Western Bulldogs",
+        "allocated_expected_votes": 0.8865506460805054
+      }
+    ]
+  },
+  {
+    "match_id": 17256,
+    "match_round": 23,
+    "home": "Essendon",
+    "away": "Sydney",
+    "label": "Model-ranked Top 3",
+    "top3": [
+      {
+        "model_rank": 1,
+        "player_name": "Isaac Heeney",
+        "player_team": "Sydney",
+        "allocated_expected_votes": 2.3106376204138606
+      },
+      {
+        "model_rank": 2,
+        "player_name": "Errol Gulden",
+        "player_team": "Sydney",
+        "allocated_expected_votes": 2.1068096915219865
+      },
+      {
+        "model_rank": 3,
+        "player_name": "Chad Warner",
+        "player_team": "Sydney",
+        "allocated_expected_votes": 1.1828215334016265
+      }
+    ]
+  },
+  {
+    "match_id": 17257,
+    "match_round": 24,
+    "home": "St Kilda",
+    "away": "Gold Coast",
+    "label": "Model-ranked Top 3",
+    "top3": [
+      {
+        "model_rank": 1,
+        "player_name": "Matt Rowell",
+        "player_team": "Gold Coast",
+        "allocated_expected_votes": 1.8225511834228139
+      },
+      {
+        "model_rank": 2,
+        "player_name": "Noah Anderson",
+        "player_team": "Gold Coast",
+        "allocated_expected_votes": 1.5698438732700075
+      },
+      {
+        "model_rank": 3,
+        "player_name": "John Noble",
+        "player_team": "Gold Coast",
+        "allocated_expected_votes": 1.3784480753251114
+      }
+    ]
+  },
+  {
+    "match_id": 17258,
+    "match_round": 24,
+    "home": "Collingwood",
+    "away": "Brisbane Lions",
+    "label": "Model-ranked Top 3",
+    "top3": [
+      {
+        "model_rank": 1,
+        "player_name": "Logan Morris",
+        "player_team": "Brisbane Lions",
+        "allocated_expected_votes": 2.6563117061033115
+      },
+      {
+        "model_rank": 2,
+        "player_name": "Lachie Neale",
+        "player_team": "Brisbane Lions",
+        "allocated_expected_votes": 1.878857514293934
+      },
+      {
+        "model_rank": 3,
+        "player_name": "Jordan de Goey",
+        "player_team": "Collingwood",
+        "allocated_expected_votes": 0.4988815999539402
+      }
+    ]
+  },
+  {
+    "match_id": 17259,
+    "match_round": 24,
+    "home": "Carlton",
+    "away": "Fremantle",
+    "label": "Model-ranked Top 3",
+    "top3": [
+      {
+        "model_rank": 1,
+        "player_name": "Sam Walsh",
+        "player_team": "Carlton",
+        "allocated_expected_votes": 2.1263114516182746
+      },
+      {
+        "model_rank": 2,
+        "player_name": "Francis Evans",
+        "player_team": "Carlton",
+        "allocated_expected_votes": 1.1727491152869995
+      },
+      {
+        "model_rank": 3,
+        "player_name": "Jagga Smith",
+        "player_team": "Carlton",
+        "allocated_expected_votes": 1.075129951730109
+      }
+    ]
+  },
+  {
+    "match_id": 17260,
+    "match_round": 24,
+    "home": "Melbourne",
+    "away": "Western Bulldogs",
+    "label": "Model-ranked Top 3",
+    "top3": [
+      {
+        "model_rank": 1,
+        "player_name": "Ed Richards",
+        "player_team": "Western Bulldogs",
+        "allocated_expected_votes": 1.5814459381474293
+      },
+      {
+        "model_rank": 2,
+        "player_name": "Max Gawn",
+        "player_team": "Melbourne",
+        "allocated_expected_votes": 1.4063657794524875
+      },
+      {
+        "model_rank": 3,
+        "player_name": "Marcus Bontempelli",
+        "player_team": "Western Bulldogs",
+        "allocated_expected_votes": 0.9516325010044104
+      }
+    ]
+  },
+  {
+    "match_id": 17261,
+    "match_round": 24,
+    "home": "Geelong",
+    "away": "Richmond",
+    "label": "Model-ranked Top 3",
+    "top3": [
+      {
+        "model_rank": 1,
+        "player_name": "Bailey Smith",
+        "player_team": "Geelong",
+        "allocated_expected_votes": 2.563497595576502
+      },
+      {
+        "model_rank": 2,
+        "player_name": "Shaun Mannagh",
+        "player_team": "Geelong",
+        "allocated_expected_votes": 1.4724496283356545
+      },
+      {
+        "model_rank": 3,
+        "player_name": "Patrick Dangerfield",
+        "player_team": "Geelong",
+        "allocated_expected_votes": 1.019429375159104
+      }
+    ]
+  },
+  {
+    "match_id": 17262,
+    "match_round": 24,
+    "home": "Adelaide",
+    "away": "Greater Western Sydney",
+    "label": "Model-ranked Top 3",
+    "top3": [
+      {
+        "model_rank": 1,
+        "player_name": "Izak Rankine",
+        "player_team": "Adelaide",
+        "allocated_expected_votes": 2.6368922536457973
+      },
+      {
+        "model_rank": 2,
+        "player_name": "Jordan Dawson",
+        "player_team": "Adelaide",
+        "allocated_expected_votes": 1.4399980583316445
+      },
+      {
+        "model_rank": 3,
+        "player_name": "Taylor Walker",
+        "player_team": "Adelaide",
+        "allocated_expected_votes": 1.2400367315770109
+      }
+    ]
+  },
+  {
+    "match_id": 17263,
+    "match_round": 24,
+    "home": "Essendon",
+    "away": "Port Adelaide",
+    "label": "Model-ranked Top 3",
+    "top3": [
+      {
+        "model_rank": 1,
+        "player_name": "Jase Burgoyne",
+        "player_team": "Port Adelaide",
+        "allocated_expected_votes": 2.0315052442149826
+      },
+      {
+        "model_rank": 2,
+        "player_name": "Nate Caddy",
+        "player_team": "Essendon",
+        "allocated_expected_votes": 1.3621838251072356
+      },
+      {
+        "model_rank": 3,
+        "player_name": "Mitch Georgiades",
+        "player_team": "Port Adelaide",
+        "allocated_expected_votes": 1.3611133357251486
+      }
+    ]
+  },
+  {
+    "match_id": 17264,
+    "match_round": 24,
+    "home": "Sydney",
+    "away": "North Melbourne",
+    "label": "Model-ranked Top 3",
+    "top3": [
+      {
+        "model_rank": 1,
+        "player_name": "Errol Gulden",
+        "player_team": "Sydney",
+        "allocated_expected_votes": 2.6355336198827586
+      },
+      {
+        "model_rank": 2,
+        "player_name": "Brodie Grundy",
+        "player_team": "Sydney",
+        "allocated_expected_votes": 1.1804509372369627
+      },
+      {
+        "model_rank": 3,
+        "player_name": "Braeden Campbell",
+        "player_team": "Sydney",
+        "allocated_expected_votes": 0.3676643004086199
+      }
+    ]
+  },
+  {
+    "match_id": 17265,
+    "match_round": 24,
+    "home": "West Coast",
+    "away": "Hawthorn",
+    "label": "Model-ranked Top 3",
+    "top3": [
+      {
+        "model_rank": 1,
+        "player_name": "Will Day",
+        "player_team": "Hawthorn",
+        "allocated_expected_votes": 1.8315328918172458
+      },
+      {
+        "model_rank": 2,
+        "player_name": "Jack Gunston",
+        "player_team": "Hawthorn",
+        "allocated_expected_votes": 1.241482955870879
+      },
+      {
+        "model_rank": 3,
+        "player_name": "Connor Macdonald",
+        "player_team": "Hawthorn",
+        "allocated_expected_votes": 0.92785795120543
+      }
+    ]
+  }
+]

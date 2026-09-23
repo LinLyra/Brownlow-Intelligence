@@ -1,0 +1,66 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --bg: #f4f5f7;
+  --surface: #ffffff;
+  --ink: #0f172a;
+  --muted: #64748b;
+  --line: #e2e8f0;
+  --navy: #0b1220;
+  --navy-2: #151d2e;
+  --gold: #b8963e;
+  --gold-soft: #d4b45c;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  html {
+    scroll-behavior: auto;
+  }
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+  }
+}
+
+body {
+  background: var(--bg);
+  color: var(--ink);
+  font-family: var(--font-sans), ui-sans-serif, system-ui, sans-serif;
+  text-rendering: optimizeLegibility;
+}
+
+::selection {
+  background: color-mix(in srgb, var(--gold) 30%, white);
+}
+
+.num {
+  font-variant-numeric: tabular-nums;
+}
+
+.card {
+  border: 1px solid var(--line);
+  border-radius: 0.75rem;
+  background: var(--surface);
+}
+
+.card-flush {
+  border: 1px solid var(--line);
+  border-radius: 0.75rem;
+}
+
+.label {
+  @apply text-[11px] font-medium uppercase tracking-[0.14em] text-muted;
+}
+
+.page-wrap {
+  @apply mx-auto max-w-[1200px] px-4 py-6 md:px-6 md:py-8;
+}

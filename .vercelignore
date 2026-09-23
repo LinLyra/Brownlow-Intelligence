@@ -1,0 +1,2 @@
+# Next.js should not use this root by default.
+# In Vercel project settings set Root Directory to: web

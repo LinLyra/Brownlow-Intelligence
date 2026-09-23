@@ -1,0 +1,5 @@
+pair,correlation,n
+coach_residual_vs_brownlow_votes,0.15661279698169656,37628
+coach_residual_vs_base_brownlow_residual,-0.05054302791119666,37628
+expected_coaches_vs_brownlow_votes,0.6958665860724619,37628
+actual_coaches_vs_brownlow_votes,0.6668428343863099,37628

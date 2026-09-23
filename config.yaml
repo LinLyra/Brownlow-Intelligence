@@ -1,0 +1,20 @@
+data_path: data/raw/brownlow_datathon_dataset.csv
+template_path: data/raw/submission_template_v2.csv
+output_dir: outputs
+train_end_season: 2025
+predict_season: 2026
+validation_seasons: [2022, 2023, 2024, 2025]
+random_seed: 42
+models:
+  lightgbm: true
+  catboost: true
+  two_stage: true
+allocation:
+  methods: [scale, capped_simplex]
+  default: capped_simplex
+features:
+  add_match_relative: true
+  add_team_relative: true
+  add_thresholds: true
+  add_history: true
+  scale_2020_rate_stats: false
