@@ -1,7 +1,8 @@
 "use client";
 
+import { useState } from "react";
 import Link from "next/link";
-import { Calendar, ChartLine, Star, Users } from "lucide-react";
+import { Calendar, ChartLine, ChevronLeft, ChevronRight, Star, Users } from "lucide-react";
 import { leaderboard, modelPerformance, playerProfiles } from "@/lib/data";
 import { formatInt, formatRmse, formatVotes } from "@/lib/format";
 import { playerImage, positionLabel, teamAbbr, teamColor } from "@/lib/teams";
@@ -11,6 +12,8 @@ import { PageHeader } from "@/components/layout/PageHeader";
 import { PlayerAvatar } from "@/components/ui/PlayerAvatar";
 import { TeamBadge } from "@/components/ui/TeamBadge";
 import { RaceChart } from "@/components/race/RaceChart";
+
+const LEADERBOARD_PAGE_SIZE = 5;
 
 function resolveImage(
   playerId: number,
@@ -25,6 +28,14 @@ export function RaceView() {
   const maxVotes = top20[0]?.expectedVotes ?? 1;
   const leader = top5[0];
   const leaderProfile = playerProfiles.find((p) => p.playerId === leader?.playerId);
+  const [lbPage, setLbPage] = useState(1);
+  const lbPageCount = Math.max(1, Math.ceil(top20.length / LEADERBOARD_PAGE_SIZE));
+  const lbItems = top20.slice(
+    (lbPage - 1) * LEADERBOARD_PAGE_SIZE,
+    lbPage * LEADERBOARD_PAGE_SIZE
+  );
+  const lbFrom = top20.length === 0 ? 0 : (lbPage - 1) * LEADERBOARD_PAGE_SIZE + 1;
+  const lbTo = Math.min(lbPage * LEADERBOARD_PAGE_SIZE, top20.length);
 
   return (
     <div className="page-wrap space-y-6">
@@ -167,12 +178,39 @@ export function RaceView() {
         </div>
       </article>
 
-      {/* Full Top 20 table + bars */}
+      {/* Top 20 table — 5 per page */}
       <article id="full-top-20" className="card shadow-card p-5 md:p-6">
-        <h2 className="text-sm font-semibold uppercase tracking-[0.12em]">
-          2026 Predicted Brownlow Leaderboard
-        </h2>
-        <p className="mt-1 text-sm text-muted">Full Top 20 by expected votes.</p>
+        <div className="flex flex-wrap items-end justify-between gap-3">
+          <div>
+            <h2 className="text-sm font-semibold uppercase tracking-[0.12em]">
+              2026 Predicted Brownlow Leaderboard
+            </h2>
+            <p className="mt-1 text-sm text-muted">
+              Top 20 by expected votes · showing {lbFrom}–{lbTo}
+            </p>
+          </div>
+          <div className="flex items-center gap-2 text-sm">
+            <button
+              type="button"
+              className="inline-flex items-center gap-1 rounded-md border border-line bg-white px-2.5 py-1.5 text-ink disabled:opacity-40"
+              disabled={lbPage <= 1}
+              onClick={() => setLbPage((p) => Math.max(1, p - 1))}
+            >
+              <ChevronLeft size={14} /> Prev
+            </button>
+            <span className="num text-ink">
+              {lbPage} / {lbPageCount}
+            </span>
+            <button
+              type="button"
+              className="inline-flex items-center gap-1 rounded-md border border-line bg-white px-2.5 py-1.5 text-ink disabled:opacity-40"
+              disabled={lbPage >= lbPageCount}
+              onClick={() => setLbPage((p) => Math.min(lbPageCount, p + 1))}
+            >
+              Next <ChevronRight size={14} />
+            </button>
+          </div>
+        </div>
 
         <div className="mt-5 overflow-x-auto">
           <table className="w-full min-w-[640px] text-sm">
@@ -187,7 +225,7 @@ export function RaceView() {
               </tr>
             </thead>
             <tbody>
-              {top20.map((p) => {
+              {lbItems.map((p) => {
                 const profile = playerProfiles.find((x) => x.playerId === p.playerId);
                 return (
                   <tr
@@ -239,6 +277,33 @@ export function RaceView() {
               })}
             </tbody>
           </table>
+        </div>
+
+        <div className="mt-4 flex flex-wrap items-center justify-between gap-3 text-sm text-muted">
+          <p>
+            Showing {lbFrom}–{lbTo} of {top20.length}
+          </p>
+          <div className="flex items-center gap-2">
+            <button
+              type="button"
+              className="inline-flex items-center gap-1 rounded-md border border-line bg-white px-2.5 py-1.5 text-ink disabled:opacity-40"
+              disabled={lbPage <= 1}
+              onClick={() => setLbPage((p) => Math.max(1, p - 1))}
+            >
+              <ChevronLeft size={14} /> Prev
+            </button>
+            <span className="num text-ink">
+              {lbPage} / {lbPageCount}
+            </span>
+            <button
+              type="button"
+              className="inline-flex items-center gap-1 rounded-md border border-line bg-white px-2.5 py-1.5 text-ink disabled:opacity-40"
+              disabled={lbPage >= lbPageCount}
+              onClick={() => setLbPage((p) => Math.min(lbPageCount, p + 1))}
+            >
+              Next <ChevronRight size={14} />
+            </button>
+          </div>
         </div>
       </article>
 

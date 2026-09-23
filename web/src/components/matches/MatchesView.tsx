@@ -8,7 +8,7 @@ import { teamAbbr } from "@/lib/teams";
 import { PageHeader } from "@/components/layout/PageHeader";
 import { TeamBadge } from "@/components/ui/TeamBadge";
 
-const PAGE_SIZE = 12;
+const PAGE_SIZE = 6;
 
 export function MatchesView() {
   const rounds = useMemo(
