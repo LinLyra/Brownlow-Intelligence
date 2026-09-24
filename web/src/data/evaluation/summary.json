@@ -1,0 +1,103 @@
+{
+  "forecast": {
+    "file": "outputs/final/2026_player_match_predictions.csv",
+    "sha256": "5be4cc3381529c4bb88ca5c5197f5c5481b7e114f62a5c697ad61e71a1bfb5ad",
+    "n_rows": 9522,
+    "n_matches": 207,
+    "total_expected_votes": 1241.9999999999727,
+    "model": "base_plus_components",
+    "historical_oot_rmse": 0.355865
+  },
+  "actual": {
+    "source": "AFL Tables 2026 Brownlow totals matrix",
+    "source_url": "https://afltables.com/afl/brownlow/brownlow2026.html",
+    "file": "data/evaluation/brownlow_2026_actual_votes.csv",
+    "n_matches_ok": 207,
+    "n_anomalies": 0,
+    "total_votes": 1242.0,
+    "medallist": "Nick Daicos",
+    "medallist_votes": 47.0
+  },
+  "evaluation": {
+    "primary": {
+      "n_player_match": 9522,
+      "n_matches": 207,
+      "rmse": 0.30053969773156564,
+      "mae": 0.09966087231856813,
+      "mse": 0.09032410991258084,
+      "mean_prediction_bias": -2.8669335103550292e-15,
+      "pearson": 0.8332761867762974,
+      "spearman": 0.4205461033407132,
+      "historical_oot_rmse": 0.355865,
+      "rmse_minus_historical": -0.05532530226843435,
+      "rmse_relative_pct_vs_historical": -15.54671076628338,
+      "rmse_ci95": [
+        0.2865766890312566,
+        0.3144866863712253
+      ],
+      "mae_ci95": [
+        0.0944106205259884,
+        0.10490743047132463
+      ],
+      "rmse_boot_mean": 0.30058724191513647,
+      "mae_boot_mean": 0.09969873154322074,
+      "rmse_boot_std": 0.0072416528226444616,
+      "mae_boot_std": 0.002698712262449797
+    },
+    "ranking": {
+      "top1_3vote_accuracy": 0.6956521739130435,
+      "top3_recall": 0.7568438003220613,
+      "exact_top3_set_rate": 0.37681159420289856,
+      "exact_ordered_321_rate": 0.18357487922705315,
+      "mean_rank_actual_3": 1.6473429951690821,
+      "mean_rank_actual_2": 2.782608695652174,
+      "mean_rank_actual_1": 4.072463768115942,
+      "mrr_actual_3": 0.816407867494824,
+      "n_matches": 207
+    },
+    "season": {
+      "pearson": 0.9675293655252197,
+      "spearman": 0.7360100528445628,
+      "mae": 0.7162422839055721,
+      "rmse": 1.4519884494675428,
+      "top_3_overlap": 1.0,
+      "top_5_overlap": 0.8,
+      "top_10_overlap": 0.8,
+      "top_20_overlap": 0.85,
+      "predicted_rank1_player": "Nick Daicos",
+      "actual_rank1_player": "Nick Daicos",
+      "predicted_rank1_is_actual_rank1": true,
+      "predicted_rank1_expected_votes": 40.02669195867445,
+      "actual_rank1_votes": 47.0
+    },
+    "generalisation": {
+      "historical_years": [
+        {
+          "year": 2022,
+          "allocated_rmse": 0.3153137594342417
+        },
+        {
+          "year": 2023,
+          "allocated_rmse": 0.3809057262528894
+        },
+        {
+          "year": 2024,
+          "allocated_rmse": 0.3706214109917854
+        },
+        {
+          "year": 2025,
+          "allocated_rmse": 0.3566204989910542
+        }
+      ],
+      "historical_mean": 0.35586534891749266,
+      "historical_std": 0.028808352528917364,
+      "historical_min": 0.3153137594342417,
+      "historical_max": 0.3809057262528894,
+      "champion_reported_mean": 0.355865,
+      "holdout_2026_rmse": 0.30053969773156564,
+      "within_historical_range": false,
+      "z_vs_historical": -1.920472582748077
+    },
+    "calibration_ece": 0.02553095708257194
+  }
+}

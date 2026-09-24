@@ -1,0 +1,208 @@
+match_id,match_round,home,away,sum_votes,n_3,n_2,n_1,ok
+17059,0,Sydney,Carlton,6,1,1,1,True
+17060,0,Gold Coast,Geelong,6,1,1,1,True
+17061,0,Greater Western Sydney,Hawthorn,6,1,1,1,True
+17062,0,Brisbane Lions,Western Bulldogs,6,1,1,1,True
+17063,0,St Kilda,Collingwood,6,1,1,1,True
+17064,1,Carlton,Richmond,6,1,1,1,True
+17065,1,Essendon,Hawthorn,6,1,1,1,True
+17066,1,Western Bulldogs,Greater Western Sydney,6,1,1,1,True
+17067,1,Geelong,Fremantle,6,1,1,1,True
+17068,1,Sydney,Brisbane Lions,6,1,1,1,True
+17069,1,Collingwood,Adelaide,6,1,1,1,True
+17070,1,North Melbourne,Port Adelaide,6,1,1,1,True
+17071,1,Melbourne,St Kilda,6,1,1,1,True
+17072,1,Gold Coast,West Coast,6,1,1,1,True
+17073,2,Hawthorn,Sydney,6,1,1,1,True
+17074,2,Adelaide,Western Bulldogs,6,1,1,1,True
+17075,2,Richmond,Gold Coast,6,1,1,1,True
+17076,2,Greater Western Sydney,St Kilda,6,1,1,1,True
+17077,2,Fremantle,Melbourne,6,1,1,1,True
+17078,2,Port Adelaide,Essendon,6,1,1,1,True
+17079,2,West Coast,North Melbourne,6,1,1,1,True
+17080,3,Geelong,Adelaide,6,1,1,1,True
+17081,3,Collingwood,Greater Western Sydney,6,1,1,1,True
+17082,3,St Kilda,Brisbane Lions,6,1,1,1,True
+17083,3,Fremantle,Richmond,6,1,1,1,True
+17084,3,Essendon,North Melbourne,6,1,1,1,True
+17085,3,Port Adelaide,West Coast,6,1,1,1,True
+17086,3,Carlton,Melbourne,6,1,1,1,True
+17087,4,Brisbane Lions,Collingwood,6,1,1,1,True
+17088,4,North Melbourne,Carlton,6,1,1,1,True
+17089,4,Adelaide,Fremantle,6,1,1,1,True
+17090,4,Richmond,Port Adelaide,6,1,1,1,True
+17091,4,West Coast,Sydney,6,1,1,1,True
+17092,4,Melbourne,Gold Coast,6,1,1,1,True
+17093,4,Western Bulldogs,Essendon,6,1,1,1,True
+17094,4,Hawthorn,Geelong,6,1,1,1,True
+17095,5,Adelaide,Carlton,6,1,1,1,True
+17096,5,Collingwood,Fremantle,6,1,1,1,True
+17097,5,North Melbourne,Brisbane Lions,6,1,1,1,True
+17098,5,Essendon,Melbourne,6,1,1,1,True
+17099,5,Sydney,Gold Coast,6,1,1,1,True
+17100,5,Hawthorn,Western Bulldogs,6,1,1,1,True
+17101,5,Geelong,West Coast,6,1,1,1,True
+17102,5,Greater Western Sydney,Richmond,6,1,1,1,True
+17103,5,Port Adelaide,St Kilda,6,1,1,1,True
+17104,6,Carlton,Collingwood,6,1,1,1,True
+17105,6,Geelong,Western Bulldogs,6,1,1,1,True
+17106,6,Sydney,Greater Western Sydney,6,1,1,1,True
+17107,6,Gold Coast,Essendon,6,1,1,1,True
+17108,6,Hawthorn,Port Adelaide,6,1,1,1,True
+17109,6,Adelaide,St Kilda,6,1,1,1,True
+17110,6,North Melbourne,Richmond,6,1,1,1,True
+17111,6,Melbourne,Brisbane Lions,6,1,1,1,True
+17112,6,West Coast,Fremantle,6,1,1,1,True
+17113,7,Western Bulldogs,Sydney,6,1,1,1,True
+17114,7,Richmond,Melbourne,6,1,1,1,True
+17115,7,Hawthorn,Gold Coast,6,1,1,1,True
+17116,7,Essendon,Collingwood,6,1,1,1,True
+17117,7,Port Adelaide,Geelong,6,1,1,1,True
+17118,7,Fremantle,Carlton,6,1,1,1,True
+17119,7,St Kilda,West Coast,6,1,1,1,True
+17120,7,Brisbane Lions,Adelaide,6,1,1,1,True
+17121,7,Greater Western Sydney,North Melbourne,6,1,1,1,True
+17122,8,Collingwood,Hawthorn,6,1,1,1,True
+17123,8,Western Bulldogs,Fremantle,6,1,1,1,True
+17124,8,Adelaide,Port Adelaide,6,1,1,1,True
+17125,8,Essendon,Brisbane Lions,6,1,1,1,True
+17126,8,West Coast,Richmond,6,1,1,1,True
+17127,8,Geelong,North Melbourne,6,1,1,1,True
+17128,8,Carlton,St Kilda,6,1,1,1,True
+17129,8,Sydney,Melbourne,6,1,1,1,True
+17130,8,Gold Coast,Greater Western Sydney,6,1,1,1,True
+17131,9,Fremantle,Hawthorn,6,1,1,1,True
+17132,9,Brisbane Lions,Carlton,6,1,1,1,True
+17133,9,Port Adelaide,Western Bulldogs,6,1,1,1,True
+17134,9,North Melbourne,Sydney,6,1,1,1,True
+17135,9,Greater Western Sydney,Essendon,6,1,1,1,True
+17136,9,Gold Coast,St Kilda,6,1,1,1,True
+17137,9,Geelong,Collingwood,6,1,1,1,True
+17138,9,Melbourne,West Coast,6,1,1,1,True
+17139,9,Richmond,Adelaide,6,1,1,1,True
+17140,10,Brisbane Lions,Geelong,6,1,1,1,True
+17141,10,Sydney,Collingwood,6,1,1,1,True
+17142,10,Gold Coast,Port Adelaide,6,1,1,1,True
+17143,10,Adelaide,North Melbourne,6,1,1,1,True
+17144,10,Melbourne,Hawthorn,6,1,1,1,True
+17145,10,Carlton,Western Bulldogs,6,1,1,1,True
+17146,10,Essendon,Fremantle,6,1,1,1,True
+17147,10,St Kilda,Richmond,6,1,1,1,True
+17148,10,West Coast,Greater Western Sydney,6,1,1,1,True
+17149,11,Hawthorn,Adelaide,6,1,1,1,True
+17150,11,Richmond,Essendon,6,1,1,1,True
+17151,11,Fremantle,St Kilda,6,1,1,1,True
+17152,11,North Melbourne,Gold Coast,6,1,1,1,True
+17153,11,Geelong,Sydney,6,1,1,1,True
+17154,11,Collingwood,West Coast,6,1,1,1,True
+17155,11,Port Adelaide,Carlton,6,1,1,1,True
+17156,11,Greater Western Sydney,Brisbane Lions,6,1,1,1,True
+17157,11,Western Bulldogs,Melbourne,6,1,1,1,True
+17158,12,St Kilda,Hawthorn,6,1,1,1,True
+17159,12,Carlton,Geelong,6,1,1,1,True
+17160,12,Sydney,Richmond,6,1,1,1,True
+17161,12,Brisbane Lions,Fremantle,6,1,1,1,True
+17162,12,Western Bulldogs,Collingwood,6,1,1,1,True
+17163,12,Melbourne,Greater Western Sydney,6,1,1,1,True
+17164,12,West Coast,Essendon,6,1,1,1,True
+17165,13,Adelaide,Geelong,6,1,1,1,True
+17166,13,Hawthorn,Western Bulldogs,6,1,1,1,True
+17167,13,North Melbourne,Fremantle,6,1,1,1,True
+17168,13,Gold Coast,Brisbane Lions,6,1,1,1,True
+17169,13,West Coast,Port Adelaide,6,1,1,1,True
+17170,13,Sydney,St Kilda,6,1,1,1,True
+17171,13,Essendon,Carlton,6,1,1,1,True
+17172,13,Collingwood,Melbourne,6,1,1,1,True
+17173,14,Western Bulldogs,Adelaide,6,1,1,1,True
+17174,14,Geelong,Gold Coast,6,1,1,1,True
+17175,14,Melbourne,Essendon,6,1,1,1,True
+17176,14,North Melbourne,West Coast,6,1,1,1,True
+17177,14,Port Adelaide,Sydney,6,1,1,1,True
+17178,14,Richmond,Brisbane Lions,6,1,1,1,True
+17179,14,St Kilda,Greater Western Sydney,6,1,1,1,True
+17180,15,Fremantle,Geelong,6,1,1,1,True
+17181,15,Gold Coast,Hawthorn,6,1,1,1,True
+17182,15,Adelaide,Melbourne,6,1,1,1,True
+17183,15,Greater Western Sydney,Carlton,6,1,1,1,True
+17184,15,Collingwood,Port Adelaide,6,1,1,1,True
+17185,15,Richmond,North Melbourne,6,1,1,1,True
+17186,15,St Kilda,Western Bulldogs,6,1,1,1,True
+17187,16,Brisbane Lions,Sydney,6,1,1,1,True
+17188,16,Hawthorn,Greater Western Sydney,6,1,1,1,True
+17189,16,Carlton,West Coast,6,1,1,1,True
+17190,16,Collingwood,Richmond,6,1,1,1,True
+17191,16,Port Adelaide,Adelaide,6,1,1,1,True
+17192,16,North Melbourne,Essendon,6,1,1,1,True
+17193,16,Fremantle,Gold Coast,6,1,1,1,True
+17194,17,Geelong,Brisbane Lions,6,1,1,1,True
+17195,17,Sydney,Western Bulldogs,6,1,1,1,True
+17196,17,West Coast,Adelaide,6,1,1,1,True
+17197,17,Hawthorn,Melbourne,6,1,1,1,True
+17198,17,Greater Western Sydney,Fremantle,6,1,1,1,True
+17199,17,Gold Coast,Collingwood,6,1,1,1,True
+17200,17,Richmond,Carlton,6,1,1,1,True
+17201,17,Essendon,St Kilda,6,1,1,1,True
+17202,17,Port Adelaide,North Melbourne,6,1,1,1,True
+17203,18,Fremantle,Sydney,6,1,1,1,True
+17204,18,Collingwood,North Melbourne,6,1,1,1,True
+17205,18,St Kilda,Port Adelaide,6,1,1,1,True
+17206,18,Greater Western Sydney,Geelong,6,1,1,1,True
+17207,18,Carlton,Hawthorn,6,1,1,1,True
+17208,18,Adelaide,Gold Coast,6,1,1,1,True
+17209,18,Western Bulldogs,West Coast,6,1,1,1,True
+17210,18,Melbourne,Richmond,6,1,1,1,True
+17211,18,Brisbane Lions,Essendon,6,1,1,1,True
+17212,19,Geelong,St Kilda,6,1,1,1,True
+17213,19,Sydney,Adelaide,6,1,1,1,True
+17214,19,Port Adelaide,Fremantle,6,1,1,1,True
+17215,19,North Melbourne,Melbourne,6,1,1,1,True
+17216,19,Collingwood,Carlton,6,1,1,1,True
+17217,19,West Coast,Brisbane Lions,6,1,1,1,True
+17218,19,Richmond,Hawthorn,6,1,1,1,True
+17219,19,Gold Coast,Western Bulldogs,6,1,1,1,True
+17220,19,Essendon,Greater Western Sydney,6,1,1,1,True
+17221,20,Adelaide,Collingwood,6,1,1,1,True
+17222,20,Melbourne,Geelong,6,1,1,1,True
+17223,20,Fremantle,West Coast,6,1,1,1,True
+17224,20,Carlton,Gold Coast,6,1,1,1,True
+17225,20,Hawthorn,Essendon,6,1,1,1,True
+17226,20,Greater Western Sydney,Sydney,6,1,1,1,True
+17227,20,Western Bulldogs,Richmond,6,1,1,1,True
+17228,20,Brisbane Lions,Port Adelaide,6,1,1,1,True
+17229,20,North Melbourne,St Kilda,6,1,1,1,True
+17230,21,Collingwood,Geelong,6,1,1,1,True
+17231,21,Fremantle,Western Bulldogs,6,1,1,1,True
+17232,21,St Kilda,Sydney,6,1,1,1,True
+17233,21,Hawthorn,North Melbourne,6,1,1,1,True
+17234,21,Port Adelaide,Greater Western Sydney,6,1,1,1,True
+17235,21,Carlton,Brisbane Lions,6,1,1,1,True
+17236,21,Richmond,West Coast,6,1,1,1,True
+17237,21,Gold Coast,Melbourne,6,1,1,1,True
+17238,21,Essendon,Adelaide,6,1,1,1,True
+17239,22,Western Bulldogs,North Melbourne,6,1,1,1,True
+17240,22,Brisbane Lions,Hawthorn,6,1,1,1,True
+17241,22,Melbourne,Fremantle,6,1,1,1,True
+17242,22,Sydney,Port Adelaide,6,1,1,1,True
+17243,22,Geelong,Essendon,6,1,1,1,True
+17244,22,Adelaide,Richmond,6,1,1,1,True
+17245,22,Greater Western Sydney,Gold Coast,6,1,1,1,True
+17246,22,West Coast,Collingwood,6,1,1,1,True
+17247,22,St Kilda,Carlton,6,1,1,1,True
+17248,23,Fremantle,Adelaide,6,1,1,1,True
+17249,23,Richmond,St Kilda,6,1,1,1,True
+17250,23,North Melbourne,Geelong,6,1,1,1,True
+17251,23,Brisbane Lions,Gold Coast,6,1,1,1,True
+17252,23,Hawthorn,Collingwood,6,1,1,1,True
+17253,23,Port Adelaide,Melbourne,6,1,1,1,True
+17254,23,Greater Western Sydney,West Coast,6,1,1,1,True
+17255,23,Western Bulldogs,Carlton,6,1,1,1,True
+17256,23,Essendon,Sydney,6,1,1,1,True
+17257,24,St Kilda,Gold Coast,6,1,1,1,True
+17258,24,Collingwood,Brisbane Lions,6,1,1,1,True
+17259,24,Carlton,Fremantle,6,1,1,1,True
+17260,24,Melbourne,Western Bulldogs,6,1,1,1,True
+17261,24,Geelong,Richmond,6,1,1,1,True
+17262,24,Adelaide,Greater Western Sydney,6,1,1,1,True
+17263,24,Essendon,Port Adelaide,6,1,1,1,True
+17264,24,Sydney,North Melbourne,6,1,1,1,True
+17265,24,West Coast,Hawthorn,6,1,1,1,True

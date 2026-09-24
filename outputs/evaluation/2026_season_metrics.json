@@ -1,0 +1,15 @@
+{
+  "pearson": 0.9675293655252197,
+  "spearman": 0.7360100528445628,
+  "mae": 0.7162422839055721,
+  "rmse": 1.4519884494675428,
+  "top_3_overlap": 1.0,
+  "top_5_overlap": 0.8,
+  "top_10_overlap": 0.8,
+  "top_20_overlap": 0.85,
+  "predicted_rank1_player": "Nick Daicos",
+  "actual_rank1_player": "Nick Daicos",
+  "predicted_rank1_is_actual_rank1": true,
+  "predicted_rank1_expected_votes": 40.02669195867445,
+  "actual_rank1_votes": 47.0
+}

@@ -139,4 +139,7 @@ export const NAV_ITEMS = [
   { href: "/matches", label: "Matches" },
   { href: "/insights", label: "Insights" },
   { href: "/methodology", label: "Methodology" },
+  { href: "/evaluation", label: "Evaluation", badge: "NEW" as const },
 ] as const;
+
+export const EVAL_MODAL_STORAGE_KEY = "bis-eval-modal-dismissed-v1";

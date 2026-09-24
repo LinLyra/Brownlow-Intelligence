@@ -27,6 +27,7 @@ export function AppNav() {
             const active =
               pathname === item.href ||
               (item.href !== "/race" && pathname.startsWith(item.href));
+            const badge = "badge" in item ? item.badge : undefined;
             return (
               <Link
                 key={item.href}
@@ -37,7 +38,14 @@ export function AppNav() {
                     : "text-white/65 hover:text-white"
                 }`}
               >
-                {item.label}
+                <span className="inline-flex items-center gap-1.5">
+                  {item.label}
+                  {badge ? (
+                    <span className="rounded px-1 py-px text-[9px] font-semibold tracking-[0.08em] text-navy bg-gold/90">
+                      {badge}
+                    </span>
+                  ) : null}
+                </span>
                 {active ? (
                   <span
                     className="absolute inset-x-2.5 -bottom-0.5 h-0.5 rounded-full bg-gold sm:inset-x-3"

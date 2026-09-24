@@ -1,0 +1,20 @@
+{
+  "actual_3_mean_pred": 1.9319454930594773,
+  "actual_3_mean_error_pred_minus_actual": -1.0680545069405227,
+  "corr_residual_vs_coaches_votes": 0.08706590128723388,
+  "corr_abs_error_vs_coaches_votes": 0.5325599427382406,
+  "corr_residual_vs_coach_residual": -0.13384437231716984,
+  "vote_getter_share_winning_team": 0.7761674718196457,
+  "winning_team_vote_getter_mean_pred": 1.4236267712883914,
+  "winning_team_vote_getter_mae": 0.7934165778771701,
+  "losing_team_vote_getter_mean_pred": 0.8496865045954771,
+  "losing_team_vote_getter_mae": 0.9268961408662809,
+  "rmse_close_le12": 0.3129140259800594,
+  "rmse_mid": 0.30183627570577015,
+  "rmse_blowout_ge40": 0.2885566108936592,
+  "pred_std": 0.39666540917146237,
+  "actual_std": 0.5360360002581719,
+  "pred_mean": 0.1304347826086928,
+  "actual_mean": 0.13043478260869565,
+  "calibration_ece_expected_vote": 0.02553095708257194
+}

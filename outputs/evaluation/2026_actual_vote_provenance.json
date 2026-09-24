@@ -1,0 +1,11 @@
+{
+  "label": "Post-event actual-vote provenance",
+  "description": "Match-level 2026 Brownlow votes used for evaluation were reconstructed from the AFL Tables 2026 Brownlow vote matrix (player \u00d7 round), then mapped to datathon match_id/player_id. This is not labelled as an AFL official machine-readable dump.",
+  "source_name": "AFL Tables \u2014 2026 Brownlow Medal",
+  "source_url": "https://afltables.com/afl/brownlow/brownlow2026.html",
+  "retrieval_date_utc": "2026-09-24",
+  "source_html_sha256": "581327cd9287c659d616bf57676a6ec0955c92afe05f50942fd1113684aa81dc",
+  "derived_actual_csv": "data/evaluation/brownlow_2026_actual_votes.csv",
+  "derived_actual_csv_sha256": "385dfe3ddaf1311314bd147f81308dc4de59e80b131594593fe8f4c750cdea50",
+  "frozen_forecast_sha256": "5be4cc3381529c4bb88ca5c5197f5c5481b7e114f62a5c697ad61e71a1bfb5ad"
+}

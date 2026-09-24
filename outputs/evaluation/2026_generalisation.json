@@ -1,0 +1,28 @@
+{
+  "historical_years": [
+    {
+      "year": 2022,
+      "allocated_rmse": 0.3153137594342417
+    },
+    {
+      "year": 2023,
+      "allocated_rmse": 0.3809057262528894
+    },
+    {
+      "year": 2024,
+      "allocated_rmse": 0.3706214109917854
+    },
+    {
+      "year": 2025,
+      "allocated_rmse": 0.3566204989910542
+    }
+  ],
+  "historical_mean": 0.35586534891749266,
+  "historical_std": 0.028808352528917364,
+  "historical_min": 0.3153137594342417,
+  "historical_max": 0.3809057262528894,
+  "champion_reported_mean": 0.355865,
+  "holdout_2026_rmse": 0.30053969773156564,
+  "within_historical_range": false,
+  "z_vs_historical": -1.920472582748077
+}

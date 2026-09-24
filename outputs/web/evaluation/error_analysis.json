@@ -1,0 +1,218 @@
+{
+  "by_actual_vote": [
+    {
+      "actual_vote": 0,
+      "count": 8901,
+      "mean_predicted_ev": 0.04917486485790324,
+      "median_predicted_ev": 0.0094985560334052,
+      "mae": 0.04917486485790324,
+      "rmse": 0.15915857806591466
+    },
+    {
+      "actual_vote": 1,
+      "count": 207,
+      "mean_predicted_ev": 0.7701580182800609,
+      "median_predicted_ev": 0.5978185592405164,
+      "mae": 0.5330389331627089,
+      "rmse": 0.6163358707704351
+    },
+    {
+      "actual_vote": 2,
+      "count": 207,
+      "mean_predicted_ev": 1.1833772997704908,
+      "median_predicted_ev": 1.1938015380450304,
+      "mae": 0.8687874976610631,
+      "rmse": 1.0366574071234071
+    },
+    {
+      "actual_vote": 3,
+      "count": 207,
+      "mean_predicted_ev": 1.9319454930594773,
+      "median_predicted_ev": 2.098121202663304,
+      "mae": 1.0680545069405227,
+      "rmse": 1.269302207057916
+    }
+  ],
+  "diagnostics": {
+    "actual_3_mean_pred": 1.9319454930594773,
+    "actual_3_mean_error_pred_minus_actual": -1.0680545069405227,
+    "corr_residual_vs_coaches_votes": 0.08706590128723388,
+    "corr_abs_error_vs_coaches_votes": 0.5325599427382406,
+    "corr_residual_vs_coach_residual": -0.13384437231716984,
+    "vote_getter_share_winning_team": 0.7761674718196457,
+    "winning_team_vote_getter_mean_pred": 1.4236267712883914,
+    "winning_team_vote_getter_mae": 0.7934165778771701,
+    "losing_team_vote_getter_mean_pred": 0.8496865045954771,
+    "losing_team_vote_getter_mae": 0.9268961408662809,
+    "rmse_close_le12": 0.3129140259800594,
+    "rmse_mid": 0.30183627570577015,
+    "rmse_blowout_ge40": 0.2885566108936592,
+    "pred_std": 0.39666540917146237,
+    "actual_std": 0.5360360002581719,
+    "pred_mean": 0.1304347826086928,
+    "actual_mean": 0.13043478260869565,
+    "calibration_ece_expected_vote": 0.02553095708257194
+  },
+  "by_position": [
+    {
+      "player_position": "BPL",
+      "n": 412.0,
+      "rmse": 0.17069139919472368,
+      "mean_bias": 0.022947552211299627,
+      "mean_actual": 0.021844660194174758,
+      "mean_pred": 0.04479221240547439
+    },
+    {
+      "player_position": "BPR",
+      "n": 414.0,
+      "rmse": 0.09431688223887347,
+      "mean_bias": 0.02301646795663172,
+      "mean_actual": 0.007246376811594203,
+      "mean_pred": 0.030262844768225924
+    },
+    {
+      "player_position": "C",
+      "n": 414.0,
+      "rmse": 0.5353057419621201,
+      "mean_bias": -0.059412073385106075,
+      "mean_actual": 0.6570048309178744,
+      "mean_pred": 0.5975927575327684
+    },
+    {
+      "player_position": "CHB",
+      "n": 414.0,
+      "rmse": 0.28479697957055305,
+      "mean_bias": 0.017381166154373205,
+      "mean_actual": 0.06763285024154589,
+      "mean_pred": 0.0850140163959191
+    },
+    {
+      "player_position": "CHF",
+      "n": 414.0,
+      "rmse": 0.2684786941068884,
+      "mean_bias": -0.0006507899140783029,
+      "mean_actual": 0.1570048309178744,
+      "mean_pred": 0.1563540410037961
+    },
+    {
+      "player_position": "EMERG",
+      "n": 4.0,
+      "rmse": 0.0,
+      "mean_bias": 0.0,
+      "mean_actual": 0.0,
+      "mean_pred": 0.0
+    },
+    {
+      "player_position": "FB",
+      "n": 414.0,
+      "rmse": 0.23583064245743807,
+      "mean_bias": 0.003904495271488808,
+      "mean_actual": 0.036231884057971016,
+      "mean_pred": 0.04013637932945982
+    },
+    {
+      "player_position": "FF",
+      "n": 414.0,
+      "rmse": 0.2998821650664171,
+      "mean_bias": -0.005627031178988402,
+      "mean_actual": 0.16908212560386474,
+      "mean_pred": 0.16345509442487635
+    },
+    {
+      "player_position": "FPL",
+      "n": 414.0,
+      "rmse": 0.31404040859261007,
+      "mean_bias": 0.0037324322081426506,
+      "mean_actual": 0.07729468599033816,
+      "mean_pred": 0.08102711819848081
+    },
+    {
+      "player_position": "FPR",
+      "n": 413.0,
+      "rmse": 0.2670214886861233,
+      "mean_bias": 0.004308193571399475,
+      "mean_actual": 0.1016949152542373,
+      "mean_pred": 0.10600310882563675
+    },
+    {
+      "player_position": "HBFL",
+      "n": 414.0,
+      "rmse": 0.26214722760357095,
+      "mean_bias": 0.017077173706992424,
+      "mean_actual": 0.06763285024154589,
+      "mean_pred": 0.08471002394853833
+    },
+    {
+      "player_position": "HBFR",
+      "n": 414.0,
+      "rmse": 0.204038285418523,
+      "mean_bias": 0.04083191250440442,
+      "mean_actual": 0.04106280193236715,
+      "mean_pred": 0.08189471443677157
+    },
+    {
+      "player_position": "HFFL",
+      "n": 414.0,
+      "rmse": 0.36184436939487413,
+      "mean_bias": -0.030808592794338164,
+      "mean_actual": 0.18357487922705315,
+      "mean_pred": 0.15276628643271498
+    },
+    {
+      "player_position": "HFFR",
+      "n": 414.0,
+      "rmse": 0.2667130122086497,
+      "mean_bias": -0.003377349464951505,
+      "mean_actual": 0.07004830917874397,
+      "mean_pred": 0.06667095971379246
+    },
+    {
+      "player_position": "INT",
+      "n": 2069.0,
+      "rmse": 0.15456753364135886,
+      "mean_bias": 0.010778221146763366,
+      "mean_actual": 0.02706621556307395,
+      "mean_pred": 0.037844436709837316
+    },
+    {
+      "player_position": "R",
+      "n": 414.0,
+      "rmse": 0.5298691666047457,
+      "mean_bias": -0.010111455666604468,
+      "mean_actual": 0.43719806763285024,
+      "mean_pred": 0.4270866119662458
+    },
+    {
+      "player_position": "RK",
+      "n": 414.0,
+      "rmse": 0.3518561402032391,
+      "mean_bias": -0.00396066239178927,
+      "mean_actual": 0.17632850241545894,
+      "mean_pred": 0.17236784002366967
+    },
+    {
+      "player_position": "RR",
+      "n": 414.0,
+      "rmse": 0.5933696954006112,
+      "mean_bias": -0.07610940448659147,
+      "mean_actual": 0.4927536231884058,
+      "mean_pred": 0.41664421870181423
+    },
+    {
+      "player_position": "WL",
+      "n": 414.0,
+      "rmse": 0.13904817956634818,
+      "mean_bias": 0.01873547525693973,
+      "mean_actual": 0.026570048309178744,
+      "mean_pred": 0.04530552356611847
+    },
+    {
+      "player_position": "WR",
+      "n": 414.0,
+      "rmse": 0.27698864186893546,
+      "mean_bias": -0.015621316937694729,
+      "mean_actual": 0.0748792270531401,
+      "mean_pred": 0.059257910115445366
+    }
+  ]
+}

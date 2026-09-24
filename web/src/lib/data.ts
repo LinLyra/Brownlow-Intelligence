@@ -4,6 +4,11 @@ import profilesRaw from "@/data/player-profiles.json";
 import matchesRaw from "@/data/match-predictions.json";
 import methodologyRaw from "@/data/methodology.json";
 import diagnosticsRaw from "@/data/diagnostics.json";
+import evalSummaryRaw from "@/data/evaluation/summary.json";
+import evalLeaderboardRaw from "@/data/evaluation/leaderboard_comparison.json";
+import evalErrorRaw from "@/data/evaluation/error_analysis.json";
+import evalPlayersRaw from "@/data/evaluation/player_audits.json";
+import evalProvenanceRaw from "@/data/evaluation/provenance.json";
 import { playerImage } from "@/lib/teams";
 import type {
   Diagnostics,
@@ -207,6 +212,154 @@ export function getProfile(playerId: number): PlayerProfile | undefined {
 
 export function getLeader(playerId: number): LeaderboardPlayer | undefined {
   return leaderboard.find((p) => p.playerId === playerId);
+}
+
+/** Post-event evaluation artifacts — kept separate from frozen forecast JSON. */
+export const evaluationSummary = evalSummaryRaw as unknown as {
+  forecast: {
+    file: string;
+    sha256: string;
+    n_rows: number;
+    n_matches: number;
+    total_expected_votes: number;
+    model: string;
+    historical_oot_rmse: number;
+  };
+  actual: {
+    source: string;
+    source_url: string;
+    file: string;
+    n_matches_ok: number;
+    n_anomalies: number;
+    total_votes: number;
+    medallist: string;
+    medallist_votes: number;
+  };
+  evaluation: {
+    primary: {
+      rmse: number;
+      mae: number;
+      rmse_ci95: [number, number];
+      mae_ci95: [number, number];
+      historical_oot_rmse: number;
+      pearson: number;
+      spearman: number;
+    };
+    ranking: {
+      top1_3vote_accuracy: number;
+      top3_recall: number;
+      exact_top3_set_rate: number;
+      exact_ordered_321_rate: number;
+      n_matches: number;
+    };
+    season: {
+      pearson: number;
+      spearman: number;
+      top_3_overlap: number;
+      top_5_overlap: number;
+      top_10_overlap: number;
+      top_20_overlap: number;
+      predicted_rank1_player: string;
+      actual_rank1_player: string;
+      predicted_rank1_is_actual_rank1: boolean;
+      predicted_rank1_expected_votes: number;
+      actual_rank1_votes: number;
+    };
+    generalisation: {
+      historical_years: { year: number; allocated_rmse: number }[];
+      historical_mean: number;
+      holdout_2026_rmse: number;
+      within_historical_range: boolean;
+    };
+    calibration_ece: number;
+  };
+};
+
+export const evaluationLeaderboard = evalLeaderboardRaw as {
+  forecast_top20: {
+    predicted_rank: number;
+    player: string;
+    team: string;
+    predicted_expected_votes: number;
+    actual_votes: number;
+    actual_rank: number;
+    error: number;
+    rank_error: number;
+  }[];
+  largest_underpredictions: {
+    player: string;
+    team: string;
+    predicted_expected_votes: number;
+    actual_votes: number;
+    under_gap: number;
+    predicted_rank: number;
+    actual_rank: number;
+    games: number;
+  }[];
+  largest_overpredictions: {
+    player: string;
+    team: string;
+    predicted_expected_votes: number;
+    actual_votes: number;
+    over_gap: number;
+    predicted_rank: number;
+    actual_rank: number;
+    games: number;
+  }[];
+};
+
+export const evaluationErrorAnalysis = evalErrorRaw as {
+  by_actual_vote: {
+    actual_vote: number;
+    count: number;
+    mean_predicted_ev: number;
+    median_predicted_ev: number;
+    mae: number;
+    rmse: number;
+  }[];
+  diagnostics: {
+    actual_3_mean_pred: number;
+    pred_std: number;
+    actual_std: number;
+    calibration_ece_expected_vote: number;
+  };
+};
+
+export const evaluationPlayerAudits = evalPlayersRaw as {
+  contenders: {
+    player: string;
+    team?: string;
+    predicted_expected_votes?: number;
+    actual_votes?: number;
+    difference_pred_minus_actual?: number;
+    predicted_rank?: number;
+    actual_rank?: number;
+    games?: number;
+    rounds?: {
+      round: number;
+      opponent: string;
+      frozen_ev: number;
+      actual_vote: number;
+    }[];
+  }[];
+};
+
+export const evaluationProvenance = evalProvenanceRaw as {
+  label: string;
+  description: string;
+  source_name: string;
+  source_url: string;
+  retrieval_date_utc: string;
+  source_html_sha256: string;
+  derived_actual_csv: string;
+  derived_actual_csv_sha256: string;
+  frozen_forecast_sha256: string;
+};
+
+export function findProfileByName(name: string): PlayerProfile | undefined {
+  return playerProfiles.find(
+    (p) => p.player.toLowerCase() === name.toLowerCase()
+  );
 }
 
 /** Field-relative z-scores among Top-30 profiled players for Head-to-Head. */

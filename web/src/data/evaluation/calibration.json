@@ -1,0 +1,53 @@
+{
+  "bins": [
+    {
+      "bin": "0.00\u20130.10",
+      "n": 8084,
+      "mean_predicted_ev": 0.015361845813545652,
+      "mean_actual_votes": 0.0029688273132112814
+    },
+    {
+      "bin": "0.10\u20130.25",
+      "n": 477,
+      "mean_predicted_ev": 0.15800361658995454,
+      "mean_actual_votes": 0.11320754716981132
+    },
+    {
+      "bin": "0.25\u20130.50",
+      "n": 277,
+      "mean_predicted_ev": 0.3654045395796622,
+      "mean_actual_votes": 0.4187725631768953
+    },
+    {
+      "bin": "0.50\u20131.00",
+      "n": 272,
+      "mean_predicted_ev": 0.7295476463666776,
+      "mean_actual_votes": 0.75
+    },
+    {
+      "bin": "1.00\u20131.50",
+      "n": 157,
+      "mean_predicted_ev": 1.2587891102494273,
+      "mean_actual_votes": 1.4968152866242037
+    },
+    {
+      "bin": "1.50\u20132.00",
+      "n": 100,
+      "mean_predicted_ev": 1.757362860666035,
+      "mean_actual_votes": 2.01
+    },
+    {
+      "bin": "2.00\u20132.50",
+      "n": 103,
+      "mean_predicted_ev": 2.235904283464254,
+      "mean_actual_votes": 2.495145631067961
+    },
+    {
+      "bin": "2.50\u20133.00",
+      "n": 52,
+      "mean_predicted_ev": 2.675553432345708,
+      "mean_actual_votes": 2.9038461538461537
+    }
+  ],
+  "ece_expected_vote": 0.02553095708257194
+}

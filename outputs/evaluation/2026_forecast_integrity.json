@@ -1,0 +1,51 @@
+{
+  "file_path": "outputs/final/2026_player_match_predictions.csv",
+  "sha256": "5be4cc3381529c4bb88ca5c5197f5c5481b7e114f62a5c697ad61e71a1bfb5ad",
+  "row_count": 9522,
+  "column_names": [
+    "season",
+    "match_round",
+    "match_id",
+    "match_date",
+    "player_team",
+    "match_home_team",
+    "match_away_team",
+    "player_id",
+    "player_first_name",
+    "player_last_name",
+    "player_position",
+    "coaches_votes",
+    "raw_brownlow_prediction",
+    "allocated_expected_votes",
+    "disposals",
+    "goals",
+    "clearances",
+    "contested_possessions",
+    "score_involvements",
+    "metres_gained",
+    "supercoach_score",
+    "afl_fantasy_score",
+    "rating_points",
+    "tackles",
+    "expected_coaches_votes",
+    "coach_residual",
+    "opponent",
+    "player_name"
+  ],
+  "prediction_column": "allocated_expected_votes",
+  "total_allocated_expected_votes": 1241.9999999999727,
+  "n_matches": 207,
+  "n_player_match_rows": 9522,
+  "model_version": {
+    "champion": "base_plus_components",
+    "historical_rolling_oot_rmse": 0.355865,
+    "source": "outputs/final/MODEL_CARD.md"
+  },
+  "expected_from_prior_audit": {
+    "matches": 207,
+    "player_match_rows": 9522,
+    "total_expected_votes": 1242
+  },
+  "discrepancies": [],
+  "recorded_at_utc": "2026-09-24T02:35:00.384451+00:00"
+}

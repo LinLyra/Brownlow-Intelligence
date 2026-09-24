@@ -2,6 +2,7 @@ import type { Metadata } from "next";
 import { Caveat, Inter } from "next/font/google";
 import { AppNav } from "@/components/layout/AppNav";
 import { AppFooter } from "@/components/layout/AppFooter";
+import { EvaluationModal } from "@/components/evaluation/EvaluationModal";
 import "./globals.css";
 
 const sans = Inter({
@@ -41,6 +42,7 @@ export default function RootLayout({
         <AppNav />
         <main className="min-h-[70vh]">{children}</main>
         <AppFooter />
+        <EvaluationModal />
       </body>
     </html>
   );
